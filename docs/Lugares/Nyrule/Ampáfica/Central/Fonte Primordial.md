@@ -1,1 +1,1 @@
-Uma fonte de água enorme no exato centro da [Central](./Central.md) e um dos pontos mais visitados da cidade. No começo dos tempos humanos, esse foi o ponto inicial do império de [Ampáfica](../Amp%C3%A1fica.md). A enorme fonte jorra água constante durante o dia e a noite.
+Uma fonte de água enorme no exato centro da [Central](./index.md) e um dos pontos mais visitados da cidade. No começo dos tempos humanos, esse foi o ponto inicial do império de [Ampáfica](../index.md). A enorme fonte jorra água constante durante o dia e a noite.
