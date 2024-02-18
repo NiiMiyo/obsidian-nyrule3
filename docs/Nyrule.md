@@ -19,7 +19,7 @@ Nyrule é um mundo de alta fantasia medieval, repleto de magia, arcanistas, guer
 Conforme a história avança o mapa também vai se modificando.
 
 ### Geo-Política
-No centro de Nyrule temos [Ampáfica](./Lugares/Nyrule/Amp%C3%A1fica/Amp%C3%A1fica.md), um reino de humanos fundado há séculos atrás pela família Semore. Sua capital, a [Central](./Lugares/Nyrule/Amp%C3%A1fica/Central/Central.md), é a maior cidade do continente.
+No centro de Nyrule temos [Ampáfica](./Lugares/Nyrule/Amp%C3%A1fica/index.md), um reino de humanos fundado há séculos atrás pela família Semore. Sua capital, a [Central](./Lugares/Nyrule/Amp%C3%A1fica/Central/index.md), é a maior cidade do continente.
 
 Ao noroeste temos a Floresta do Elfo, com a capital sendo Nairi Disfrada. Como o nome implica, sua população é majoritariamente élfica, mas também possuem outras raças em menor quantidade, como dahllans e moreaus. Eles são bem cuidadosos com estranhos, mas confiam em amigos mesmo que de raças diferentes.
 
