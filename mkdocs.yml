@@ -26,7 +26,7 @@ theme:
         icon: material/brightness-4
         name: Ativar modo claro
 
-repo_url: https://github.com/NiiMiyo/mkdocs-nyrule3/
+repo_url: https://github.com/NiiMiyo/obsidian-nyrule3/
 edit_uri: blob/main/docs/
 
 markdown_extensions:
