@@ -2,4 +2,4 @@
 tags:
   - cidade
 ---
-Uma cidade portuária ao norte da [Central](./Central/Central.md), nos limites do território de [Ampáfica](./Amp%C3%A1fica.md).
+Uma cidade portuária ao norte da [Central](./Central/index.md), nos limites do território de [Ampáfica](./index.md).
