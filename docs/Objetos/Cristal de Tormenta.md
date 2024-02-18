@@ -1,3 +1,9 @@
+---
+aliases:
+  - Cristal da Tormenta
+tags:
+  - item
+---
 * Espaços: 0
 * Preço de compra: T$ 500
 
