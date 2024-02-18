@@ -1,0 +1,47 @@
+site_name: Nyrule Wiki
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - toc.integrate
+  palette:
+    - scheme: default
+      media: "(prefers-color-scheme: light)"
+      primary: deep purple
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Ativar modo escuro
+    - scheme: slate
+      media: "(prefers-color-scheme: dark)"
+      primary: deep purple
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Ativar modo claro
+
+repo_url: https://github.com/NiiMiyo/mkdocs-nyrule3/
+edit_uri: blob/main/docs/
+
+markdown_extensions:
+  - markdown_captions
+  - tables
+  - abbr
+  - md_in_html
+  - attr_list
+
+extra_css:
+  - assets/css/justify.css
+  - assets/css/link.css
+  - assets/css/table.css
+  - assets/css/blockquote.css
+  - assets/css/ul.css
+
+plugins:
+  - search
