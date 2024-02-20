@@ -1,6 +1,8 @@
 ---
 tags:
-  - deus-menor
+  - Deus/Deus-menor
+aliases:
+  - Deus das Caçadas
 ---
 Deus menor fan-made, original em [Google Drive](https://drive.google.com/file/d/1J2zcetbjedUHTGTudo2SqApTUgFzl5kM/view?usp=sharing)
 
