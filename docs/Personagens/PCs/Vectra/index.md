@@ -1,6 +1,6 @@
 ---
 tags:
-  - pc
+  - Pessoa/Jogador
 title: Vectra
 ---
 Um dia foi um elfo charlatão que vivia em um vilarejo próximo de Nairi Disfrada. Ganhava a vida aplicando golpes e enganando pessoas. Apenas não conseguia enganar sua amada, Ynnd, uma humana de uma cidade mais distante. Vectra achou perigoso se apresentar com seu nome verdadeiro, dada sua "profissão", então se apresentou como Azazel, e é assim que Ynnd o conhece. Um dia trapaceou em um jogo contra um general, que percebeu sua trapaça, forçando-o a fugir com o dinheiro antes que o general pudesse pegá-lo, acreditando que nunca o veria de novo.
