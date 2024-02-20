@@ -1,6 +1,6 @@
 ---
 tags:
-  - cidade
+  - Lugar/Cidade
 title: Central
 ---
 A capital de [Ampáfica](../index.md) e a maior cidade do mundo. A Central é a maior cidade e força militar do mundo, com mais de 2.000.000 de habitantes e 500km² de área urbana, é uma cidade muito visitada por todos os tipos de pessoas, desde estudiosos, aventureiros, mercadores a religiosos e militares.
