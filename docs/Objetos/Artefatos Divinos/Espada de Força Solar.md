@@ -1,7 +1,6 @@
 ---
 tags:
-  - item
-  - artefato-divino
+  - Item/Artefato-divino
 ---
 Um dos artefatos divinos de [Azgher](../../Personagens/NPCs/Deuses/Azgher,%20Deus-Sol.md), uma linda espada de lâmina dourada, com a guarda prateada e encrustada com o símbolo de um sol, simbolo de [Azgher](../../Personagens/NPCs/Deuses/Azgher,%20Deus-Sol.md). A espada começa a brilhar sempre que exposta à luz direta do sol.
 

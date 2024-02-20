@@ -1,8 +1,8 @@
 ---
 tags:
-  - cidade
+  - Lugar/Cidade
 ---
-Uma cidade tradicional no noroeste de [index](../../../../index.md) especializada no treinamento de guerreiros e lutadores, formando diversos guerreiros poderosos e famosos.
+Uma cidade tradicional no noroeste de [Nyrule](../index.md) especializada no treinamento de guerreiros e lutadores, formando diversos guerreiros poderosos e famosos.
 
 A cidade conta com:
 * Várias tavernas e hospedagens, por ser uma cidade muito visitada por aventureiros e guerreiros;

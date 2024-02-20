@@ -2,8 +2,9 @@
 aliases:
   - Zumbi
 tags:
-  - ficha-ameaça
+  - Ficha-de-ameaça
 ---
+## ND 1/4
 Morto-vivo Médio
 
 | PV  | Defesa | Deslocamento     |
@@ -12,27 +13,33 @@ Morto-vivo Médio
 
 ### Atributos e Perícias
 
-| Atributo     | Modificador || Perícia    | Modificador |
-| ------------ | ----------- || ---------- | ----------- |
-| Força        | 3           || Fortitude  | +3          |
-| Destreza     | -1          || Iniciativa | -1          |
-| Constituição | 2           || Reflexos   | -1          |
-| Inteligência | —           || Vontade    | -1          |
-| Sabedoria    | -1          || Percepção  | -1          |
-| Carisma      | 0           ||            |             |
+| Atributo     | Modificador |
+| ------------ | ----------- |
+| Força        | 3           |
+| Destreza     | -1          |
+| Constituição | 2           |
+| Inteligência | —           |
+| Sabedoria    | -1          |
+| Carisma      | 0           |
+
+| Perícia    | Modificador |
+| ---------- | ----------- |
+| Fortitude  | +3          |
+| Iniciativa | -1          |
+| Reflexos   | -1          |
+| Vontade    | -1          |
+| Percepção  | -1          |
 
 ### Ataques
-
 **Corpo a Corpo:** Mordida +7 (1d6+6)
 
 ### Habilidades
 
 #### Visão no Escuro
+A criatura enxerga em escuridão total em alcance curto (exceto mágica). Ela ignora camuflagem total por esse tipo de escuridão (veja a página 318).
 
 #### Fraqueza Zumbi
-
 O zumbi sofre o dobro de dano de acertos críticos ou de ataques feitos contra seu cérebro (Defesa 21).
 
 ### Tesouro
-
 **Tesouro:** Nenhum.

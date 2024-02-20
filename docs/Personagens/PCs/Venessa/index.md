@@ -1,6 +1,6 @@
 ---
 tags:
-  - pc
+  - Pessoa/Jogador
 title: Venessa
 ---
 Uma medusa meio-humana e meio psicopata. Desde pequena gostava de dissecar animais e fazer experimentos “pelo bem da ciência e do conhecimento”.

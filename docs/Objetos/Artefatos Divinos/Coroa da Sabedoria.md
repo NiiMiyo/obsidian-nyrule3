@@ -1,9 +1,8 @@
 ---
 tags:
-  - item
-  - artefato-divino
+  - Item/Artefato-divino
 ---
-Um dos artefatos divinos de [Tanna-Toh](../../Personagens/NPCs/Deuses/Tanna-Toh,%20A%20Deusa%20do%20Conhecimento.md), uma coroa completamente de ouro, com imagens de penas em todo seu corpo e na frente uma imagem de um pergaminho aberto com uma joia verde-azulada no centro. É dito que aquele que possui a Coroa também possui todo o conhecimento da história de [index](../../index.md).
+Um dos artefatos divinos de [Tanna-Toh](../../Personagens/NPCs/Deuses/Tanna-Toh,%20A%20Deusa%20do%20Conhecimento.md), uma coroa completamente de ouro, com imagens de penas em todo seu corpo e na frente uma imagem de um pergaminho aberto com uma joia verde-azulada no centro. É dito que aquele que possui a Coroa também possui todo o conhecimento da história de [Nyrule](../../Lugares/Plano%20Material/Nyrule/index.md).
 
 ## Usando a Coroa
 Ao pôr a Coroa na cabeça pela primeira vez, o usuário sofre 4d12 + 35 de dano psíquico e, caso sobreviva consciente, deve passar num teste estendido de Vontade (CD 25 de 4 sucessos; um teste por rodada e sofre 3d12 de dano em cada falha). Se cair inconsciente, a Coroa sai de sua cabeça e deve sofrer novamente o dano e passar no teste se usá-la novamente.

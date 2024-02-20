@@ -2,8 +2,10 @@
 aliases:
   - Bandido
 tags:
-  - ficha-ameaça
+  - Ficha-de-ameaça
 ---
+## ND 1/4
+
 Humanoide (humano) Médio
 
 | PV  | Defesa | Deslocamento |

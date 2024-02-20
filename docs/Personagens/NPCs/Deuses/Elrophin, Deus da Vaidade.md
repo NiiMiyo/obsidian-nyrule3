@@ -3,11 +3,11 @@ aliases:
   - Elrophin
   - Deus da Vaidade
 tags:
-  - deus-maior
+  - Deus/Deus-maior
 ---
 Ver O Panteão - 1ª Edição, p. 118.
 
-Deus menor de Arton, em [index](../../../index.md) é um deus maior no lugar de Lin-Wu.
+Deus menor de Arton, em [Nyrule](../../../Lugares/Plano%20Material/Nyrule/index.md) é um deus maior no lugar de Lin-Wu.
 
 **Crenças e Objetivos:** Acreditar em si mesmo. Ser autossuficiente. Através da vaidade, bastar por si mesmo.
 

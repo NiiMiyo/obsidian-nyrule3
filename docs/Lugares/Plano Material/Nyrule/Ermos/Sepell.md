@@ -1,6 +1,6 @@
 ---
 tags:
-  - cidade
+  - Lugar/Cidade
 ---
 Uma vila portuária, famosa por servir de passagem para vários aventureiros e pela biblioteca local.
 
@@ -20,7 +20,7 @@ Uma pequena taverna ao noroeste do centro da vila. O dono, um ex-aventureiro, di
 Uma hospedagem próxima à praça ao centro da vila. Seu primeiro andar conta com um pequeno bar onde os hóspedes podem comprar comidas e bebidas, enquanto no segundo andar estão os quartos disponíveis.
 
 ### Biblioteca
-Uma grande biblioteca com livros sobre diversos conteúdos, em especial história e política de toda [index](../../../../index.md).
+Uma grande biblioteca com livros sobre diversos conteúdos, em especial história e política de toda [Nyrule](../index.md).
 
 ### Feira
 Durante o dia, próximo à praça no centro da vila, há uma pequena feira com produtos produzidos localmente, incluindo alimentos, bebidas, comidas e até mesmo um alquimista iniciante, que produz alguns remédios.

@@ -1,6 +1,6 @@
 ---
 tags:
-  - item
+  - Item/Mágico
 ---
 Um doce no formato de uma bolinha branca e crocante vendido aos visitantes do Reino da Água por T$ 500 cada. Ao comer, a criatura se transforma temporariamente em um híbrido aquático. Sua pele ou couro podem ficar azulados e surgem guelras e membranas natatórias entre os seus dedos (ou algo equivalente que o ajuda a nadar mais rápido).
 

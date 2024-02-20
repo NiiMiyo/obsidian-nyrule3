@@ -2,7 +2,7 @@
 aliases:
   - Lyra
 tags:
-  - pc
+  - Pessoa/Jogador
 ---
 Uma qareen meio-humana de uma descendência misteriosa de qareens capazes de controlar os sonhos. Nasceu e cresceu em [Eldenhaven](../../../Lugares/Plano%20Material/Nyrule/Amp%C3%A1fica/Eldenhaven.md), um pequeno reino ao norte da [Central](../../../Lugares/Plano%20Material/Nyrule/Amp%C3%A1fica/Central/index.md).
 
@@ -14,7 +14,7 @@ No seu aniversário de 18 anos sua irmã desaparece misteriosamente e agora Lyra
 ### Lugares
 - **[Eldenhaven](../../../Lugares/Plano%20Material/Nyrule/Amp%C3%A1fica/Eldenhaven.md):** Cidade natal de Lyra.
 - **Mansão dos Windsong:** Casa da família Windsong, agora só restam cinzas.
-- **[Wishrealm, o Mundo dos Desejos](../../../Lugares/Wishrealm,%20o%20Mundo%20dos%20Desejos.md)**
+- **[Wishrealm, o Mundo dos Desejos](../../../Lugares/Wishrealm,%20o%20Mundo%20dos%20Desejos/index.md)**
 - **[Kenshima](../../../Lugares/Plano%20Material/Nyrule/Ermos/Kenshima.md):** Uma cidade segura para Lyra e Rosalind.
 
 ### Pessoas
@@ -38,7 +38,7 @@ No seu aniversário de 18 anos sua irmã desaparece misteriosamente e agora Lyra
 		- Desirebane nunca conseguiu derrotá-lo, mas seu desejo insaciável por poder o impelia a dominar o mundo dos desejos e propagar o caos.
 - **Dreamish**
 	- A entidade feita de energia positiva que protegia o reino dos desejos.
-- **Wishkar, Deus dos Desejos**
+- **[Wishkar, Deus dos Desejos](../../NPCs/Deuses/Menores/Wishkar,%20Deus%20dos%20Desejos.md)**
 	- 
 - **???**
 	- Um bruxo das trevas que cobiçava o poder do Desirebane para instaurar seu reino de caos.

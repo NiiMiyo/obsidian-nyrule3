@@ -3,8 +3,6 @@ site_name: Nyrule Wiki
 theme:
   name: material
   features:
-    - navigation.instant
-    - navigation.instant.progress
     - navigation.indexes
     - navigation.tabs
     - navigation.tabs.sticky

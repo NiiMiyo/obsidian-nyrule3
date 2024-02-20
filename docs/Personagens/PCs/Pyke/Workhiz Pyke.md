@@ -2,7 +2,7 @@
 aliases:
   - Pyke
 tags:
-  - pc
+  - Pessoa/Jogador
 ---
 Pyke de workhiz filho de um Rei Suraggel do Reino de HizKort, que a um pouco de tempo descobriu ser um filho bastardo do Rei.
 

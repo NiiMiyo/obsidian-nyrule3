@@ -3,7 +3,7 @@ aliases:
   - Mago das Almas
   - Malgrim, o Mago das Almas
 tags:
-  - npc-inimigo
+  - Pessoa/Inimigo
 title: Malgrim
 ---
 ## Backstory
@@ -20,7 +20,7 @@ Foi revivido como servo de [Saevel Caiphine](../Saevel%20Caiphine/index.md) para
 
 Malgrim foi capaz de encontrar uma brecha nas ordens de [Saevel](../Saevel%20Caiphine/index.md) e pôde lançar **Marionete** em si mesmo para recobrar o controle do próprio corpo zumbificado sem que [Saevel](../Saevel%20Caiphine/index.md) saiba. Mesmo assim, o controle adquirido é limitado à fala.
 
-No momento ele continua trabalhando em pesquisas para criar uma manifestação física da força da alma de um indivíduo. Malgrim está trabalhando em [sua antiga base](../../../../Lugares/Plano%20Material/Nyrule/Ermos/Marcadores/Ru%C3%ADnas%20do%20castelo%20de%20Malgrim/index.md) pois deseja ser encontrado novamente por um grupo capaz de derrotá-lo, pois tudo que deseja no momento é a paz do Plano da Morte que tinha antes de ser revivido.
+No momento ele continua trabalhando em pesquisas para criar uma manifestação física da força da alma de um indivíduo. Malgrim está trabalhando em [sua antiga base](../../../../Lugares/Plano%20Material/Nyrule/Ermos/Marcadores/Castelo%20de%20Malgrim/index.md) pois deseja ser encontrado novamente por um grupo capaz de derrotá-lo, pois tudo que deseja no momento é a paz do Plano da Morte que tinha antes de ser revivido.
 
 ## Aparência
 Um zumbi humano usando um manto negro. A maior parte do seu corpo possui carne podre, mas algumas partes possuem apenas o esqueleto, como sua mão esquerda e a maior parte do seu torso.

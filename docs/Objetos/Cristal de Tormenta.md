@@ -2,7 +2,7 @@
 aliases:
   - Cristal da Tormenta
 tags:
-  - item
+  - Item/Mágico
 ---
 * Espaços: 0
 * Preço de compra: T$ 500
