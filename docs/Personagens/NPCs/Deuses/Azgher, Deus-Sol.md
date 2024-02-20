@@ -3,6 +3,6 @@ aliases:
   - Azgher
   - Deus-Sol
 tags:
-  - deus-maior
+  - Deus/Deus-maior
 ---
 Ver Tormenta20 - Jogo do Ano, p. 98.
