@@ -2,8 +2,9 @@
 aliases:
   - Chefe Bandido
 tags:
-  - ficha-ameaça
+  - Ficha-de-ameaça
 ---
+## ND 1
 Humanoide (humano) Médio
 
 | PV  | Defesa | Deslocamento |
