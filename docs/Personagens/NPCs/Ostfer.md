@@ -2,7 +2,7 @@
 aliases:
   - Amdiela
 tags:
-  - npc-neutro
+  - Pessoa/Neutro
 ---
 Uma entidade espiritual misteriosa, sendo capaz de enxergar a presença de qualquer ser próximo dela, incluindo o próprio Observador.
 
