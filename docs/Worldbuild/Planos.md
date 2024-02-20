@@ -2,7 +2,7 @@
 aliases:
   - Plano
 tags:
-  - worldbuilding
+  - Worldbuilding
 ---
 Planos são dimensões diferentes do Universo, lugares com sua própria lógica e física, quando estas sequer existem.
 
