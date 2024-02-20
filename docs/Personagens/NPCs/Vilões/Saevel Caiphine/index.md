@@ -2,7 +2,7 @@
 aliases:
   - Saevel
 tags:
-  - npc-inimigo
+  - Pessoa/Inimigo
 title: Saevel Caiphine
 ---
 ## Backstory
