@@ -10,7 +10,7 @@ Nyrule é um mundo de alta fantasia medieval, repleto de magia, arcanistas, guer
 
 ![Mapa geral de Nyrule](./nyrule-map-general.png)
 
-![nyrule-map-politic](./nyrule-map-politic.png)
+![Mapa político de Nyrule](./nyrule-map-politic.png)
 
 Conforme a história avança o mapa também vai se modificando.
 
