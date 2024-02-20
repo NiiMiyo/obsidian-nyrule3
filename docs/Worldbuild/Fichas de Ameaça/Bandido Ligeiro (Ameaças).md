@@ -2,8 +2,10 @@
 aliases:
   - Bandido Ligeiro
 tags:
-  - ficha-ameaça
+  - Ficha-de-ameaça
 ---
+## ND 1/2
+
 Humanoide (humano) médio
 
 | PV  | Defesa | Deslocamento |
