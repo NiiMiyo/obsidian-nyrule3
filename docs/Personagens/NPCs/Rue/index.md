@@ -1,12 +1,11 @@
 ---
 tags:
-  - npc
-  - npc-aliado
+  - Pessoa/Aliado
 title: Rue
 ---
-Filha do prefeito de [Sepell](../../../Lugares/Plano%20Material/Nyrule/Ermos/Sepell.md). Após ser [resgatada por Lyra](../../../Sess%C3%B5es/Sess%C3%A3o%2001.md#Cena%203%20-%20Combate%20Exploração) começou um treinamento para se tornar uma espadachim mágica, semelhante à sua salvadora.
+Filha do prefeito de [Sepell](../../../Lugares/Plano%20Material/Nyrule/Ermos/Sepell.md). Após ser [resgatada por Lyra](../../../Sess%C3%B5es/Sess%C3%A3o%2001/index.md#Cena%203%20-%20Combate%20Exploração) começou um treinamento para se tornar uma espadachim mágica, semelhante à sua salvadora.
 
-Após o [timeskip de onze meses](../../../Sess%C3%B5es/Sess%C3%A3o%2003.md) já está um pouco habilidosa em sua arte, apesar de ainda falhar diversas de suas magias arcanas por conta do uso da armadura.
+Após o [timeskip de onze meses](../../../Sess%C3%B5es/Sess%C3%A3o%2003/index.md) já está um pouco habilidosa em sua arte, apesar de ainda falhar diversas de suas magias arcanas por conta do uso da armadura.
 
 ## Aparência
 Rue é uma jovem moreau da herança de gato de pelagem cinza-claro com tons escuros e olhos castanhos.
