@@ -1,6 +1,6 @@
 ---
 tags:
-  - worldbuilding
+  - Worldbuilding
 ---
 _Isso aqui não existe ainda, é uma ideia para um personagem que estou fazendo enquanto não posso jogar :(_
 
