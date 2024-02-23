@@ -3,6 +3,7 @@ aliases:
   - Lyra
 tags:
   - Pessoa/Jogador
+title: Lyra Windsong
 ---
 Uma qareen meio-humana de uma descendência misteriosa de qareens capazes de controlar os sonhos. Nasceu e cresceu em [Eldenhaven](../../../Lugares/Plano%20Material/Nyrule/Amp%C3%A1fica/Eldenhaven.md), um pequeno reino ao norte da [Central](../../../Lugares/Plano%20Material/Nyrule/Amp%C3%A1fica/Central/index.md).
 

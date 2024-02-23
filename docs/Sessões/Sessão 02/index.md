@@ -1,3 +1,6 @@
+---
+title: Sessão 02
+---
 ## Planejamento
 Pra essa sessão eu não planejei praticamente nada. Eu não tinha como prever exatamente o que eles fariam durante a sessão já que a outra terminou no momento que eles entraram na biblioteca depois de derrotarem os sequestradores.
 

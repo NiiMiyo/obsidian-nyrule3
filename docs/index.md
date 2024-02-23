@@ -1,4 +1,7 @@
 ---
+shared-filename: index
+tags:
+  - Ignorar-gráfico
 title: Nyrule 3
 ---
 Essa documentação é onde eu, [Nii Miyo](https://github.com/NiiMiyo), organizo minhas anotações sobre o mundo do meu RPG, [Nyrule](./Lugares/Plano%20Material/Nyrule/index.md), mestrado no sistema de [Tormenta 20](https://site.jamboeditora.com.br/tormenta20/). Conforme o jogo vai se desenrolando e eu vou preparando mais coisas a documentação aqui vai aumentando.

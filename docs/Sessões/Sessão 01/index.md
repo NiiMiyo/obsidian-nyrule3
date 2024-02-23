@@ -1,3 +1,6 @@
+---
+title: Sessão 01
+---
 ## Planejamento
 O grupo se encontra aos poucos em uma pequena cidade porteira chamada [Sepell](../../Lugares/Plano%20Material/Nyrule/Ermos/Sepell.md) que está com um misterioso caso de civis desaparecendo.
 
