@@ -14,7 +14,7 @@ Diferente do resto de sua família, Lilie nasceu sem poderes mágicos, o que fez
 Aos 19 anos Lilie decide fugir de sua vila para mostrar à todos os que duvidaram dela de que ela é tão capaz quanto qualquer outro [Plenaflorum](../../../Lugares/Plano%20Material/Nyrule/Amp%C3%A1fica/Plenaflorum/Fam%C3%ADlia%20Plenaflorum.md), acompanhada apenas da roupa no corpo e de sua melhor amiga, Violeta, sua espada com a qual formou uma ligação tão forte que pode usá-la para lançar suas magias.
 
 Ao fugir, Lilie renegou seu próprio nome até que considerasse ser digna de usá-lo novamente. No momento ela se apresenta como "Nonami" e não é amplamente reconhecida por conta de sempre ter sido excluída pela família.
-%% No name -> Noname -> Nonami :) %%
+<!-- No name -> Noname -> Nonami :) -->
 
 ## Aparência
 Lilie é uma humana de estatura média, pele clara e longos cabelos ruivos e ondulados que penteia em um rabo de cavalo alto com .
