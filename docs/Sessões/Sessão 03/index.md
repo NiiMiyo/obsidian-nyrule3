@@ -8,7 +8,7 @@ title: Sessão 03
 2. Se possível é legal dar algum dinheiro pra eles de alguma forma.
 
 ## Notas adicionais
-1. [Lyra](../../Personagens/PCs/Lyra/Lyra%20Windsong.md) e [Venessa](../../Personagens/PCs/Venessa/index.md) estão mortas:
+1. [Lyra](../../Personagens/PCs/Lyra%20Windsong/index.md) e [Venessa](../../Personagens/PCs/Venessa/index.md) estão mortas:
 	1. Larissa não aparece mais no grupo;
 	2. Vanessa quis trocar de personagem;
 2. [Iaris](../../Personagens/PCs/Iaris/index.md) e [Luciel](../../Personagens/PCs/Luciel/index.md) estão inconscientes no [castelo do Malgrim](../../Lugares/Plano%20Material/Nyrule/Ermos/Marcadores/Castelo%20de%20Malgrim/index.md);
