@@ -43,7 +43,7 @@ Para cada cabana que eles investigarem eles ganham as seguintes recompensas:
 
 Ao pegar um quadro, [Amna](../../Personagens/PCs/Amna/index.md) pode fazer um teste de lembrança (Sabedoria CD 10) para tentar lembrar que esses quadros foram pintados por ela mesma.
 
-- O primeiro quadro é um pequeno retrato (0 espaços) de [Lilie Plenaflorum](../../Personagens/PCs/Lilie/index.md), a filha mais nova da [família Plenaflorum](../../Lugares/Plano%20Material/Nyrule/Amp%C3%A1fica/Plenaflorum/Fam%C3%ADlia%20Plenaflorum.md). Se passar no teste, [Amna](../../Personagens/PCs/Amna/index.md) sabe quem é a modelo e sabe que o quadro é obra sua.
+- O primeiro quadro é um pequeno retrato (0 espaços) de [Lilie Plenaflorum](../../Personagens/PCs/Lilie/Lilie%20Plenaflorum.md), a filha mais nova da [família Plenaflorum](../../Lugares/Plano%20Material/Nyrule/Amp%C3%A1fica/Plenaflorum/Fam%C3%ADlia%20Plenaflorum.md). Se passar no teste, [Amna](../../Personagens/PCs/Amna/index.md) sabe quem é a modelo e sabe que o quadro é obra sua.
 - O segundo é um quadro um pouco maior (1/2 espaço) e retrata uma linda paisagem de um penhasco gramado com uma grande árvore cheia de flores brancas. Ao fundo do penhasco está o mar. Se passar no teste, [Amna](../../Personagens/PCs/Amna/index.md) sabe que o quadro foi pintado por ela e que foi pintado próximo à cidade de Paaradiz.
 
 ### Anexo
