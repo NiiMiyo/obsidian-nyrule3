@@ -1,6 +1,6 @@
 Última sessão foi um sucesso, essa também vai ser e vai ser mais legal ainda.
 
-Pra essa sessão eu tô pensando em como eles vão conseguir o dinheiro, e minha ideia inicial é eles se infiltrarem na casa de algum rico não tão rico (quem sabe até na mansão dos Plenaflorum?), mas pensando bem é muito provável que eles queiram roubar a coleção do Bagdri então a [Ostfer](../../Personagens/NPCs/Ostfer.md) vai ter que se virar pra fazer eles mudarem de ideia.
+Pra essa sessão eu tô pensando em como eles vão conseguir o dinheiro, e minha ideia inicial é eles se infiltrarem na casa de algum rico não tão rico (quem sabe até na mansão dos [Plenaflorum](../../Lugares/Plano%20Material/Nyrule/Amp%C3%A1fica/Plenaflorum/index.md)?), mas pensando bem é muito provável que eles queiram roubar a coleção do Bagdri então a [Ostfer](../../Personagens/NPCs/Ostfer.md) vai ter que se virar pra fazer eles mudarem de ideia.
 
 Sessão passada foi bem mais interpretativa e sem muita advocacia de regras, essa sessão eu quero pegar mais pesado com eles com regras e eu quero um combate >:)
 
@@ -43,7 +43,7 @@ Para cada cabana que eles investigarem eles ganham as seguintes recompensas:
 
 Ao pegar um quadro, [Amna](../../Personagens/PCs/Amna/index.md) pode fazer um teste de lembrança (Sabedoria CD 10) para tentar lembrar que esses quadros foram pintados por ela mesma.
 
-- O primeiro quadro é um pequeno retrato (0 espaços) de [Lilie Plenaflorum](../../Personagens/PCs/Lilie/index.md), a filha mais nova da família Plenaflorum. Se passar no teste, [Amna](../../Personagens/PCs/Amna/index.md) sabe quem é a modelo e sabe que o quadro é obra sua.
+- O primeiro quadro é um pequeno retrato (0 espaços) de [Lilie Plenaflorum](../../Personagens/PCs/Lilie/index.md), a filha mais nova da [família Plenaflorum](../../Lugares/Plano%20Material/Nyrule/Amp%C3%A1fica/Plenaflorum/Fam%C3%ADlia%20Plenaflorum.md). Se passar no teste, [Amna](../../Personagens/PCs/Amna/index.md) sabe quem é a modelo e sabe que o quadro é obra sua.
 - O segundo é um quadro um pouco maior (1/2 espaço) e retrata uma linda paisagem de um penhasco gramado com uma grande árvore cheia de flores brancas. Ao fundo do penhasco está o mar. Se passar no teste, [Amna](../../Personagens/PCs/Amna/index.md) sabe que o quadro foi pintado por ela e que foi pintado próximo à cidade de Paaradiz.
 
 ### Anexo
@@ -100,7 +100,9 @@ Nada que me ajude muito. Basicamente ele não gostou que o personagem ruim dele 
 
 #### Carine ([Amna](../../Personagens/PCs/Amna/index.md))
 ##### Qual foi a parte da sessão que você mais gostou?
-> 
+> A parte das bombas, pensei que ia todo mundo morrer
 
 ##### E a parte que menos gostou?
-> 
+> E não teve parte que eu não gostei
+
+Então... o perigo? Acho que ela gostou do perigo, da emoção e da imprevisibilidade da cena. E de se virar bem com suas próprias ferramentas e inteligência.
