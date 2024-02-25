@@ -7,7 +7,7 @@ tags:
 ---
 Ver O Panteão - 1ª Edição, p. 118.
 
-Deus menor de Arton, em [[../../../Lugares/Plano Material/Nyrule/index|Nyrule]] é um deus maior no lugar de Lin-Wu.
+Deus menor de Arton, em [[Nyrule|Nyrule]] é um deus maior no lugar de Lin-Wu.
 
 **Crenças e Objetivos:** Acreditar em si mesmo. Ser autossuficiente. Através da vaidade, bastar por si mesmo.
 
