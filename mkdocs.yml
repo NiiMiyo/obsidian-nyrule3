@@ -41,5 +41,14 @@ extra_css:
   - assets/css/blockquote.css
   - assets/css/ul.css
 
+exclude_docs: |
+  /.obsidian
+  /.trash
+
 plugins:
   - search
+
+hooks:
+  - hooks/make_index.py
+  - hooks/add_title.py
+  - hooks/obsidian_links.py

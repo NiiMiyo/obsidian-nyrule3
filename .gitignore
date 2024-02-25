@@ -1,0 +1,12 @@
+# Editor
+/.venv/
+/.vscode/
+__pycache__/
+
+# Obsidian
+/docs/.obsidian/
+/docs/.trash/
+.exclude*
+
+# mkdocs
+/site/

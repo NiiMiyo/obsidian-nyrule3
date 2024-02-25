@@ -2,9 +2,9 @@
 tags:
   - Lugar/Plano
 ---
-O Plano Etéreo é onde residem as Almas e a energia que as forma. Não possui matéria física, então também não possui forma física. É impossível para um [Corpo](../Worldbuild/Corpo,%20Mente%20e%20Alma.md) existir neste [plano](../Worldbuild/Planos.md), mas talvez entrar aqui não seja...
+O Plano Etéreo é onde residem as Almas e a energia que as forma. Não possui matéria física, então também não possui forma física. É impossível para um [[Corpo, Mente e Alma|Corpo]] existir neste [[Planos|plano]], mas talvez entrar aqui não seja...
 
 ## Ver também
 
-- [Plano Material](./Plano%20Material/index.md)
-- [Corpo](../Worldbuild/Corpo,%20Mente%20e%20Alma.md)
+- [[Plano Material]]
+- [[Corpo, Mente e Alma]]

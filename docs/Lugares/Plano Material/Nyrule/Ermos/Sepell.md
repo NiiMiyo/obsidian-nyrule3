@@ -10,7 +10,7 @@ O povo de Sepell é em sua maioria moreau de várias origens, com as mais comuns
 ## Política
 A vila conta com um sistema democrático em que a cada dois anos todos os habitantes de idade (20 anos ou mais) votam em alguém para se tornar o prefeito pelos próximos dois anos.
 
-Atualmente o prefeito é Balthazar há 14 anos, um moreau meio-gato de meia idade e muito simpático. Pai solteiro de uma filha também moreau meio-gato, [Rue](../../../../Personagens/NPCs/Rue/index.md).
+Atualmente o prefeito é Balthazar há 14 anos, um moreau meio-gato de meia idade e muito simpático. Pai solteiro de uma filha também moreau meio-gato, [[Rue]].
 
 ## Locais de interesse
 ### O Chifre do Dragão
@@ -20,7 +20,7 @@ Uma pequena taverna ao noroeste do centro da vila. O dono, um ex-aventureiro, di
 Uma hospedagem próxima à praça ao centro da vila. Seu primeiro andar conta com um pequeno bar onde os hóspedes podem comprar comidas e bebidas, enquanto no segundo andar estão os quartos disponíveis.
 
 ### Biblioteca
-Uma grande biblioteca com livros sobre diversos conteúdos, em especial história e política de toda [Nyrule](../index.md).
+Uma grande biblioteca com livros sobre diversos conteúdos, em especial história e política de toda [[Nyrule]].
 
 ### Feira
 Durante o dia, próximo à praça no centro da vila, há uma pequena feira com produtos produzidos localmente, incluindo alimentos, bebidas, comidas e até mesmo um alquimista iniciante, que produz alguns remédios.
@@ -28,8 +28,8 @@ Durante o dia, próximo à praça no centro da vila, há uma pequena feira com p
 ### Igreja para Oceano
 Uma igreja de tamanho razoável para o Deus Oceano não poderia faltar em uma vila porteira.
 
-### Igreja para [Tanna-Toh](../../../../Personagens/NPCs/Deuses/Tanna-Toh,%20A%20Deusa%20do%20Conhecimento.md)
-Uma igreja menor para [Tanna-Toh](../../../../Personagens/NPCs/Deuses/Tanna-Toh,%20A%20Deusa%20do%20Conhecimento.md).
+### Igreja para [[Tanna-Toh, A Deusa do Conhecimento|Tanna-Toh]]
+Uma igreja menor para [[Tanna-Toh, A Deusa do Conhecimento|Tanna-Toh]].
 
 ### Igreja compartilhada
-Uma pequena igreja compartilhada para todos os devotos de outras divindades positivas e neutras, em especial [Khalmyr](../../../../Personagens/NPCs/Deuses/Khalmyr,%20Deus%20da%20Justi%C3%A7a.md), Allihanna e Marah.
+Uma pequena igreja compartilhada para todos os devotos de outras divindades positivas e neutras, em especial [[Khalmyr, Deus da Justiça|Khalmyr]], Allihanna e Marah.
