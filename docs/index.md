@@ -1,5 +1,5 @@
 ---
-shared-filename: index
+title: Nyrule 3
 tags:
   - Ignorar-gráfico
 ---
