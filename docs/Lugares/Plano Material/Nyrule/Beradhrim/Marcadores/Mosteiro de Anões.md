@@ -4,4 +4,4 @@ tags:
 ---
 Um mosteiro de anões devotos de deuses diferentes que vivem mais afastados na superfície de Beradhrim.
 
-Aqui foi onde [Iaris](../../../../../Personagens/PCs/Iaris/index.md) cresceu.
+Aqui foi onde [[../../../../../Personagens/PCs/Iaris/index|Iaris]] cresceu.
