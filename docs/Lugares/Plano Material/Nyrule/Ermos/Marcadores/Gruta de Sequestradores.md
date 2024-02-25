@@ -2,7 +2,7 @@
 tags:
   - Lugar/Interesse
 ---
-Gruta onde os sequestradores de [Rue](../../../../../Personagens/NPCs/Rue/index.md) se escondiam. Se encontra à noroeste de [Sepell](../Sepell.md), na nascente de um rio.
+Gruta onde os sequestradores de [[../../../../../Personagens/NPCs/Rue/index|Rue]] se escondiam. Se encontra à noroeste de [[../Sepell|Sepell]], na nascente de um rio.
 
-## [Sessão 01](../../../../../Sess%C3%B5es/Sess%C3%A3o%2001/index.md)
-[Lyra](../../../../../Personagens/PCs/Lyra/Lyra%20Windsong.md), [Luciel](../../../../../Personagens/PCs/Luciel/index.md), [Venessa](../../../../../Personagens/PCs/Venessa/index.md) e [Iaris](../../../../../Personagens/PCs/Iaris/index.md) salvaram [Rue](../../../../../Personagens/NPCs/Rue/index.md) escoltaram ela e os outros cinco sequestrados. [Lyra](../../../../../Personagens/PCs/Lyra/Lyra%20Windsong.md) foi quem chegou lá primeiro.
+## [[../../../../../Sessões/Sessão 01/index|Sessão 01]]
+[[../../../../../Personagens/PCs/Lyra Windsong/index|Lyra]], [[../../../../../Personagens/PCs/Luciel/index|Luciel]], [[../../../../../Personagens/PCs/Venessa/index|Venessa]] e [[../../../../../Personagens/PCs/Iaris/index|Iaris]] salvaram [[../../../../../Personagens/NPCs/Rue/index|Rue]] escoltaram ela e os outros cinco sequestrados. [[../../../../../Personagens/PCs/Lyra Windsong/index|Lyra]] foi quem chegou lá primeiro.
