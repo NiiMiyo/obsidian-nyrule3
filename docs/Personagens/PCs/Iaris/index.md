@@ -8,4 +8,4 @@ Uma medusa que passou quase toda sua vida criada por anões em um mosteiro na su
 Está agora em uma jornada para conhecer mais sobre o mundo, diferentes tipos de luta e pessoas.
 
 ## Galeria
-![[./iaris-fullbody.jpeg|iaris-fullbody.jpeg]]
+![[iaris-fullbody.jpeg|iaris-fullbody.jpeg]]
