@@ -6,16 +6,16 @@ tags:
   - Lugar/Interesse
 title: Ruínas do castelo de Malgrim
 ---
-Base de operações de [[../../../../../../Personagens/NPCs/Vilões/Malgrim/index|Malgrim]], onde ele faz experimentos com as pessoas sequestradas.
+Base de operações de [[Malgrim|Malgrim]], onde ele faz experimentos com as pessoas sequestradas.
 
-# Primeiro encontro com [[../../../../../../Personagens/NPCs/Vilões/Malgrim/index|Malgrim]]
-![[./castelo-do-malgrim.png|castelo-do-malgrim.png]]
+# Primeiro encontro com [[Malgrim|Malgrim]]
+![[castelo-do-malgrim.png|castelo-do-malgrim.png]]
 
 ## Tesouros
-* T$ 1000 - Peças espalhadas na mesa e na bolsa de [[../../../../../../Personagens/NPCs/Vilões/Malgrim/index|Malgrim]]
-* [[../../../../../../Objetos/Wish Crystal|Wish Crystals]] (Ver [[../../../../../../Personagens/NPCs/Vilões/Malgrim/index#Tesouro|Malgrim > Tesouro]])
+* T$ 1000 - Peças espalhadas na mesa e na bolsa de [[Malgrim|Malgrim]]
+* [[Wish Crystal|Wish Crystals]] (Ver [[Malgrim#Tesouro|Malgrim > Tesouro]])
 * Esotérico Superior - Costela de Lich Poderosa
-    * Esse osso é onde está armazenada a [[../../../../../../Worldbuild/Corpo, Mente e Alma|alma]] de [[../../../../../../Personagens/NPCs/Vilões/Malgrim/index|Malgrim]], se eles escolherem carregar a varinha com eles então [[../../../../../../Personagens/NPCs/Vilões/Malgrim/index|Malgrim]] estará os acompanhando, ouvindo mas incapaz de falar algo.
+    * Esse osso é onde está armazenada a [[Corpo, Mente e Alma|alma]] de [[Malgrim|Malgrim]], se eles escolherem carregar a varinha com eles então [[Malgrim|Malgrim]] estará os acompanhando, ouvindo mas incapaz de falar algo.
 * 6000 XP (1500 para cada membro)
 
 <!-- O item que eu rolei originalmente era essa espada curta, mas eu achei meio estranho um necromante com uma espada então botei meu próprio item superior -->
