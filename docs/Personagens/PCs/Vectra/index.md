@@ -12,4 +12,4 @@ Em seus últimos segundos de vida, uma pequena fada surge e o toca, dando um peq
 Em busca de poder, encontrou em um antigo manuscrito uma breve citação sobre uma magia proibida capaz de trazê-la de volta e dar a vingança que ele busca. Atualmente está vagando pelo mundo tentando encontrar a direção para dominar essa magia.
 
 ## Galeria
-![vectra-fullbody.jpg](./vectra-fullbody.jpg)
+![[./vectra-fullbody.jpg|vectra-fullbody.jpg]]
