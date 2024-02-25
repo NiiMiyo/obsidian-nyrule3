@@ -14,4 +14,4 @@ Em um de seus experimentos, Venessa tenta fazer um portal para a “dimensão ve
 Agora está a procura de um novo local para fazer seus experimentos.
 
 ## Galeria
-![venessa-fullbody.jpg](./venessa-fullbody.jpg)
+![[./venessa-fullbody.jpg|venessa-fullbody.jpg]]
