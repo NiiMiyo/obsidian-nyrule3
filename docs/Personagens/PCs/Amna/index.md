@@ -19,4 +19,4 @@ A equipe de um qareen inventor que passava pelo deserto encontrou a qareen e a r
 
 ## Galeria
 
-![amna-fullbody.jpg](./amna-fullbody.jpg)
+![[./amna-fullbody.jpg|amna-fullbody.jpg]]
