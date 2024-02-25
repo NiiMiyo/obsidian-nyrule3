@@ -2,4 +2,4 @@
 tags:
   - Lugar/Interesse
 ---
-Laboratório destruído por [Venessa](../../../../../Personagens/PCs/Venessa/index.md) em seu experimento com o portal para uma dimensão verdadeira.
+Laboratório destruído por [[../../../../../Personagens/PCs/Venessa/index|Venessa]] em seu experimento com o portal para uma dimensão verdadeira.
