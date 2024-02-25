@@ -6,7 +6,7 @@ tags:
 ---
 Uma entidade espiritual misteriosa, sendo capaz de enxergar a presença de qualquer ser próximo dela, incluindo o próprio Observador.
 
-Ostfer na verdade é uma viajante dimensional. Sua dimensão inicial evoluiu tecnologicamente o suficiente para que consiga usar tecnologia pra projetar sua consciência em outros [Planos](../../Worldbuild/Planos.md). Seu nome real é Amdiela, mas ela prefere esconder seu nome, então sempre se apresenta como Ostfer.
+Ostfer na verdade é uma viajante dimensional. Sua dimensão inicial evoluiu tecnologicamente o suficiente para que consiga usar tecnologia pra projetar sua consciência em outros [[../../Worldbuild/Planos|Planos]]. Seu nome real é Amdiela, mas ela prefere esconder seu nome, então sempre se apresenta como Ostfer.
 
 ## Aparência
 _&ast;Não conseguir gerar em IA do jeito que eu queria&ast;_
