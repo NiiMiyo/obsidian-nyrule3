@@ -2,17 +2,17 @@
 title: Sessão 01
 ---
 ## Planejamento
-O grupo se encontra aos poucos em uma pequena cidade porteira chamada [Sepell](../../Lugares/Plano%20Material/Nyrule/Ermos/Sepell.md) que está com um misterioso caso de civis desaparecendo.
+O grupo se encontra aos poucos em uma pequena cidade porteira chamada [[../../Lugares/Plano Material/Nyrule/Ermos/Sepell|Sepell]] que está com um misterioso caso de civis desaparecendo.
 
 ### Missão
 Se unir para investigar o caso das pessoas desaparecidas e descobrir quem está sequestrando-as.
 
 ### Contexto
-**[Luciel](../../Personagens/PCs/Luciel/index.md):** Após sair de seu grupo de paladinos foi caminhando pela trilha em direção ao sul até encontrar a vila de [Sepell](../../Lugares/Plano%20Material/Nyrule/Ermos/Sepell.md).
+**[[../../Personagens/PCs/Luciel/index|Luciel]]:** Após sair de seu grupo de paladinos foi caminhando pela trilha em direção ao sul até encontrar a vila de [[../../Lugares/Plano Material/Nyrule/Ermos/Sepell|Sepell]].
 
-**[Venessa](../../Personagens/PCs/Venessa/index.md):** Após a destruição do seu laboratório ela sai viajando por [Nyrule](../../Lugares/Plano%20Material/Nyrule/index.md) em busca de um novo lugar para fazer seus experimentos, mas ainda não encontrou. Sua próxima parada é na vila de [Sepell](../../Lugares/Plano%20Material/Nyrule/Ermos/Sepell.md).
+**[[../../Personagens/PCs/Venessa/index|Venessa]]:** Após a destruição do seu laboratório ela sai viajando por [[../../Lugares/Plano Material/Nyrule/index|Nyrule]] em busca de um novo lugar para fazer seus experimentos, mas ainda não encontrou. Sua próxima parada é na vila de [[../../Lugares/Plano Material/Nyrule/Ermos/Sepell|Sepell]].
 
-**[Iaris](../../Personagens/PCs/Iaris/index.md):** Após sair do mosteiro e de Beradhrim, [Iaris](../../Personagens/PCs/Iaris/index.md) sai em viagem por [Nyrule](../../Lugares/Plano%20Material/Nyrule/index.md) buscando inimigos poderosos para derrotar e acaba parando em [Sepell](../../Lugares/Plano%20Material/Nyrule/Ermos/Sepell.md) temporariamente para reabastecer.
+**[[../../Personagens/PCs/Iaris/index|Iaris]]:** Após sair do mosteiro e de Beradhrim, [[../../Personagens/PCs/Iaris/index|Iaris]] sai em viagem por [[../../Lugares/Plano Material/Nyrule/index|Nyrule]] buscando inimigos poderosos para derrotar e acaba parando em [[../../Lugares/Plano Material/Nyrule/Ermos/Sepell|Sepell]] temporariamente para reabastecer.
 
 **(Larissa)**: ???
 
@@ -28,14 +28,14 @@ O anúncio é que a filha do prefeito acaba de ser declarada desaparecida e o pr
 
 Talvez os jogadores não se interessem imediatamente na proposta pelo dinheiro, então pode ser que algo precise ser improvisado.
 
-Talvez [Venessa](../../Personagens/PCs/Venessa/index.md) precise do dinheiro, [Luciel](../../Personagens/PCs/Luciel/index.md) queira salvar as vidas inocentes…
+Talvez [[../../Personagens/PCs/Venessa/index|Venessa]] precise do dinheiro, [[../../Personagens/PCs/Luciel/index|Luciel]] queira salvar as vidas inocentes…
 
 Depois disso eles se juntam no prédio da prefeitura para receber os detalhes da missão por um dos secretários do prefeito. A recompensa para recuperar a filha do prefeito em segurança é de T$ 300.
 
 - <s>6 Bandidos: T$ 77 + 1 Cota de Malha + 1 Couro Batido + Saco de sal = T$ 307</s>
 - 4 bandidos: T$ 6 + T$ 30 + (T$ 60, Maça) + T$ 60 = T$ 156 + Maça = T$ 178
-- [Chefe Bandido](../../Worldbuild/Fichas%20de%20Amea%C3%A7a/Chefe%20Bandido%20(T20).md): T$ 120 + Bálsamo restaurador = T$ 130
-- 1000 XP (4 bandidos) + 1000 XP ([Chefe Bandido](../../Worldbuild/Fichas%20de%20Amea%C3%A7a/Chefe%20Bandido%20(T20).md)) = 2000 XP (500 para cada)
+- [[../../Worldbuild/Fichas de Ameaça/Chefe Bandido (T20)|Chefe Bandido]]: T$ 120 + Bálsamo restaurador = T$ 130
+- 1000 XP (4 bandidos) + 1000 XP ([[../../Worldbuild/Fichas de Ameaça/Chefe Bandido (T20)|Chefe Bandido]]) = 2000 XP (500 para cada)
 - Total: T$ 308 + 2000 XP
 
 ### Cena 2 - Exploração
@@ -63,30 +63,30 @@ Dependendo de como eles decidirem abordar a gruta podem acontecer muitas coisas 
 
 Existem bandidos espalhados e caso eles se aproximem da entrada da gruta precisarão fazer testes de Furtividade (CD 20. +5 se estiverem na floresta).
 
-Existem dois bandidos vigiando a entrada da gruta, mais dois bandidos vigiando ao longo do rio e o [Chefe Bandido](../../Worldbuild/Fichas%20de%20Amea%C3%A7a/Chefe%20Bandido%20(T20).md) dormindo dentro da gruta (ND Total 2).
+Existem dois bandidos vigiando a entrada da gruta, mais dois bandidos vigiando ao longo do rio e o [[../../Worldbuild/Fichas de Ameaça/Chefe Bandido (T20)|Chefe Bandido]] dormindo dentro da gruta (ND Total 2).
 
 No outro lado da gruta, estão cinco civis, incluindo a filha do prefeito, amarrados e amordaçados.
 
-No bolso do [chefe bandido](../../Worldbuild/Fichas%20de%20Amea%C3%A7a/Chefe%20Bandido%20(T20).md) os jogadores podem achar uma carta do [Malgrim](../../Personagens/NPCs/Vil%C3%B5es/Malgrim/index.md), para os bandidos. A carta diz:
+No bolso do [[../../Worldbuild/Fichas de Ameaça/Chefe Bandido (T20)|chefe bandido]] os jogadores podem achar uma carta do [[../../Personagens/NPCs/Vilões/Malgrim/index|Malgrim]], para os bandidos. A carta diz:
 
-> [Sepell](../../Lugares/Plano%20Material/Nyrule/Ermos/Sepell.md) será nossa fonte de cobaias para meus experimentos. Lembrem-se de serem discretos, ninguém deve interromper nossa conquista. Tragam-me almas resistentes, e alcançaremos o poder sobre a [alma](../../Worldbuild/Corpo,%20Mente%20e%20Alma.md).
+> [[../../Lugares/Plano Material/Nyrule/Ermos/Sepell|Sepell]] será nossa fonte de cobaias para meus experimentos. Lembrem-se de serem discretos, ninguém deve interromper nossa conquista. Tragam-me almas resistentes, e alcançaremos o poder sobre a [[../../Worldbuild/Corpo, Mente e Alma|alma]].
 >
-> &dash; [Malgrim](../../Personagens/NPCs/Vil%C3%B5es/Malgrim/index.md)
+> &dash; [[../../Personagens/NPCs/Vilões/Malgrim/index|Malgrim]]
 
-Caso não encontrem a carta, a filha do prefeito dirá que ouviu os bandidos conversando quando acharam que ela estava desmaiada e disseram algo sobre sequestrar alguns civis e entregar para [Malgrim](../../Personagens/NPCs/Vil%C3%B5es/Malgrim/index.md).
+Caso não encontrem a carta, a filha do prefeito dirá que ouviu os bandidos conversando quando acharam que ela estava desmaiada e disseram algo sobre sequestrar alguns civis e entregar para [[../../Personagens/NPCs/Vilões/Malgrim/index|Malgrim]].
 
 Caso investiguem a gruta atrás de itens (Investigação 15) podem encontrar um saco de sal e algumas moedas (T$ 5 por cada 5 pontos que passarem da CD).
 
 ### Cena 4 - Interpretação
 **IMPROVISAR DE ACORDO COM OS RESULTADOS DA CENA ANTERIOR**
 
-Os jogadores voltam para a vila com os civis resgatados (assim espero) e vão cobrar a recompensa. O prefeito agradecerá pelo resgate dos civis e indica que os jogadores vão à biblioteca pesquisar sobre [Malgrim](../../Personagens/NPCs/Vil%C3%B5es/Malgrim/index.md).
+Os jogadores voltam para a vila com os civis resgatados (assim espero) e vão cobrar a recompensa. O prefeito agradecerá pelo resgate dos civis e indica que os jogadores vão à biblioteca pesquisar sobre [[../../Personagens/NPCs/Vilões/Malgrim/index|Malgrim]].
 
-A cidade de [Sepell](../../Lugares/Plano%20Material/Nyrule/Ermos/Sepell.md) é conhecida por ser uma passagem comum para os aventureiros e viajantes que passam para o Reino da Água. Podem encontrar um livro sobre [Malgrim](../../Personagens/NPCs/Vil%C3%B5es/Malgrim/index.md) (Investigação 20, +10 se conseguirem convencer a bibliotecária ocupada à ajudá-los (Diplomacia 20)).
+A cidade de [[../../Lugares/Plano Material/Nyrule/Ermos/Sepell|Sepell]] é conhecida por ser uma passagem comum para os aventureiros e viajantes que passam para o Reino da Água. Podem encontrar um livro sobre [[../../Personagens/NPCs/Vilões/Malgrim/index|Malgrim]] (Investigação 20, +10 se conseguirem convencer a bibliotecária ocupada à ajudá-los (Diplomacia 20)).
 
 ### Anexo
-[Ficha de Ameaça - Bandido (ND 1/4)](../../Worldbuild/Fichas%20de%20Amea%C3%A7a/Bandido%20(T20).md)
-[Ficha de Ameaça - Chefe Bandido (ND 1)](../../Worldbuild/Fichas%20de%20Amea%C3%A7a/Chefe%20Bandido%20(T20).md)
+[[../../Worldbuild/Fichas de Ameaça/Bandido (T20)|Ficha de Ameaça - Bandido (ND 1/4)]]
+[[../../Worldbuild/Fichas de Ameaça/Chefe Bandido (T20)|Ficha de Ameaça - Chefe Bandido (ND 1)]]
 
 #### Teste de Sobrevivência
 **Acampamento.** Você consegue abrigo e alimento para você e seu grupo por um dia (caçando, pescando, colhendo frutos...). A CD depende do terreno: 15 para planícies e colinas, 20 para florestas e pântanos, 25 para desertos ou montanhas e 30 para regiões planares perigosas ou áreas de Tormenta. Regiões muito áridas ou estéreis e clima ruim (neve, tempestade etc.) impõem penalidade cumulativa de –5. Dormir ao relento sem um acampamento e um saco de dormir diminui sua recuperação de PV e PM (veja a página 106). Este uso exige equipamento de viagem. Sem ele, você sofre –5 em seu teste.
