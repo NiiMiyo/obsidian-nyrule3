@@ -9,25 +9,25 @@ title: Malgrim
 ## Backstory
 Um famoso e poderoso mago de tempos passados. Conhecido como o “Mago das Almas” pelas suas magias de Encantamento e Necromancia.
 
-Foi derrotado cerca de 100 anos atrás por um grupo de quatro aventureiros após tentar iniciar uma revolução contra o governo de [Ampáfica](../../../../Lugares/Plano%20Material/Nyrule/Amp%C3%A1fica/index.md) com um exército de mortos-vivos governado por ele e por outras pessoas que foram forçadas a seguir suas ordens por suas magias de encantamento.
+Foi derrotado cerca de 100 anos atrás por um grupo de quatro aventureiros após tentar iniciar uma revolução contra o governo de [[../../../../Lugares/Plano Material/Nyrule/Ampáfica/index|Ampáfica]] com um exército de mortos-vivos governado por ele e por outras pessoas que foram forçadas a seguir suas ordens por suas magias de encantamento.
 
 Sabe-se que três dos aventureiros morreram nessa luta, o único sobrevivente voltou e nunca mais ousou se aventurar. Hoje já não se sabe se sequer está vivo.
 
-Mas a verdade é que esse aventureiro era [Saevel Caiphine](../Saevel%20Caiphine/index.md), que depois de perder seus aliados em batalha decidiu deixar de ser um aventureiro.
+Mas a verdade é que esse aventureiro era [[../Saevel Caiphine/index|Saevel Caiphine]], que depois de perder seus aliados em batalha decidiu deixar de ser um aventureiro.
 
 ## Atualmente
-Foi revivido como servo de [Saevel Caiphine](../Saevel%20Caiphine/index.md) para que continue suas pesquisas em almas como um zumbi.
+Foi revivido como servo de [[../Saevel Caiphine/index|Saevel Caiphine]] para que continue suas pesquisas em almas como um zumbi.
 
-Malgrim foi capaz de encontrar uma brecha nas ordens de [Saevel](../Saevel%20Caiphine/index.md) e pôde lançar **Marionete** em si mesmo para recobrar o controle do próprio corpo zumbificado sem que [Saevel](../Saevel%20Caiphine/index.md) saiba. Mesmo assim, o controle adquirido é limitado à fala.
+Malgrim foi capaz de encontrar uma brecha nas ordens de [[../Saevel Caiphine/index|Saevel]] e pôde lançar **Marionete** em si mesmo para recobrar o controle do próprio corpo zumbificado sem que [[../Saevel Caiphine/index|Saevel]] saiba. Mesmo assim, o controle adquirido é limitado à fala.
 
-No momento ele continua trabalhando em pesquisas para criar uma manifestação física da força da alma de um indivíduo. Malgrim está trabalhando em [sua antiga base](../../../../Lugares/Plano%20Material/Nyrule/Ermos/Marcadores/Castelo%20de%20Malgrim/index.md) pois deseja ser encontrado novamente por um grupo capaz de derrotá-lo, pois tudo que deseja no momento é a paz do Plano da Morte que tinha antes de ser revivido.
+No momento ele continua trabalhando em pesquisas para criar uma manifestação física da força da alma de um indivíduo. Malgrim está trabalhando em [[../../../../Lugares/Plano Material/Nyrule/Ermos/Marcadores/Castelo de Malgrim/index|sua antiga base]] pois deseja ser encontrado novamente por um grupo capaz de derrotá-lo, pois tudo que deseja no momento é a paz do Plano da Morte que tinha antes de ser revivido.
 
 ## Aparência
 Um zumbi humano usando um manto negro. A maior parte do seu corpo possui carne podre, mas algumas partes possuem apenas o esqueleto, como sua mão esquerda e a maior parte do seu torso.
 
 Seu coração está parcialmente exposto, podendo ser visto através das costelas.
 
-![malgrim-body.jpeg](./malgrim-body.jpeg)
+![[./malgrim-body.jpeg|malgrim-body.jpeg]]
 
 ## Ficha de Ameaça (ND 4)
 
@@ -66,7 +66,7 @@ Você pode gastar uma ação padrão para causar 2d8+8 pontos de dano de trevas 
 
 Pela duração da magia, sempre que o alvo realizar qualquer ação que gaste PM, deve fazer um teste de Vontade (CD 18); se falhar, a ação não tem efeito, mas os PM são gastos mesmo assim. **Lançar a magia novamente apenas altera o alvo.**
 
-**Recarga:** Uma ação padrão (quebrar um [Wish Crystal](../../../../Objetos/Wish%20Crystal.md) na sua mão. Veja [Tesouro](index.md#Tesouro)).
+**Recarga:** Uma ação padrão (quebrar um [[../../../../Objetos/Wish Crystal|Wish Crystal]] na sua mão. Veja [[index#Tesouro|Tesouro]]).
 
 ### Tesouro
-Além do tesouro padrão, possui três [Wish Crystal](../../../../Objetos/Wish%20Crystal.md) (usos <input class="mr-1" type="checkbox" checked/><input class="mr-1" type="checkbox"/><input type="checkbox"/>) em sua bolsa lateral, o que significa que pode recarregar seu Selo de Mana apenas três vezes. Qualquer [Wish Crystal](../../../../Objetos/Wish%20Crystal.md) não usado pode ser recuperado pelos jogadores.
+Além do tesouro padrão, possui três [[../../../../Objetos/Wish Crystal|Wish Crystal]] (usos <input class="mr-1" type="checkbox" checked/><input class="mr-1" type="checkbox"/><input type="checkbox"/>) em sua bolsa lateral, o que significa que pode recarregar seu Selo de Mana apenas três vezes. Qualquer [[../../../../Objetos/Wish Crystal|Wish Crystal]] não usado pode ser recuperado pelos jogadores.
