@@ -9,8 +9,6 @@ def on_page_markdown(markdown: str, page: Page, config: MkDocsConfig, files: Fil
 	meta_title = page.meta.get('title', None)
 
 	if meta_title is None:
-
-
 		if filename == 'index.md':
 			_, page_title = split(dirpath)
 		else:

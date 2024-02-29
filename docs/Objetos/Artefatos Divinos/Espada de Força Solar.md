@@ -9,5 +9,4 @@ Uma espada longa formidável. Ao ser exposta diretamente ao sol, sua lâmina emi
 
 Enquanto estiver carregada, você pode gastar uma ação de movimento e 2 PM para erguer a espada acima de sua cabeça. Ela irradia uma luz brilhante em alcance médio até o fim da cena. No final de cada um dos seus turnos, as criaturas escolhidas dentro da luz ficam ofuscadas por uma rodada e recebem 4d10+4 de dano de fogo. Se for um morto-vivo, recebe 2d8 de dano de luz adicional.
 ## [[Spinoff 01]]
-
 A espada se encontra na [[Terra do Crepúsculo]], em que o grupo de "heróis" a deixou lá sem supervisão, esperando para ser pega.

@@ -33,6 +33,14 @@ markdown_extensions:
   - abbr
   - md_in_html
   - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.mark
+
+extra_javascript:
+  - assets/js/katex.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 
 extra_css:
   - assets/css/justify.css
@@ -40,6 +48,8 @@ extra_css:
   - assets/css/table.css
   - assets/css/blockquote.css
   - assets/css/ul.css
+  - assets/css/highlight.css
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
 
 exclude_docs: |
   /.obsidian

@@ -2,3 +2,7 @@
 	text-decoration: dotted underline;
 	font-style: italic;
 }
+
+.md-content mark a {
+	color: #00cccc;
+}

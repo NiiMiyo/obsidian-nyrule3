@@ -3,6 +3,7 @@ aliases:
   - Bandido Ligeiro
 tags:
   - Ficha-de-ameaça
+  - "#Tormenta20/Ameaças-de-Arton"
 ---
 ## ND 1/2
 

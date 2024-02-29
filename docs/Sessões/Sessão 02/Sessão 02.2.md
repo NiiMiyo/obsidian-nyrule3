@@ -64,9 +64,9 @@ No final, [[Amna]] não confia em [[Ostfer]] porque ela guarda segredos e [[Ostf
 ### Cena 2 - Exploração
 Nada demais, eles foram em direção ao acampamento do bando de Oxford e tentaram invadir. Eles tiveram a _brilhante_ ideia de tentar serem furtivos pra chegar la no meio e matar todo mundo. O problema é que nenhum dos dois presta pra furtividade nem pra combate de próximo.
 
-[[Vectra]] se disfarçou de "velhinho humano ferido" enquanto [[Amna]] só... sei lá, foi andando normalmente enquanto tentava se esconder na sombra. [[Vectra]] tem carisma alto demais então ele conseguiu se disfarçar, mas como [[Amna]] só tem inteligência ela falhou miseravelmente em todos os testes de furtividade, diplomacia, enganação e tudo que existiu pra falhar.
+[[Vectra]] se disfarçou de "velhinho humano ferido" enquanto [[Amna]] só... sei lá, foi andando normalmente enquanto tentava se esconder na sombra. [[Vectra]] tem carisma alto demais então ele conseguiu se [[Disfarce|disfarçar]], mas como [[Amna]] só tem inteligência ela falhou miseravelmente em todos os testes de furtividade, diplomacia, enganação e tudo que existiu pra falhar.
 
-Essas duas coisas estavam acontecendo simultaneamente, enquanto [[Vectra]] disfarçado se infiltrava no acampamento como um velho de uma família rica que ia oferecer uma recompensa para eles, [[Amna]] tentava sair viva sem os bandidos começarem a meter o cacete nela. [[Vectra]] lançou um [Raio do Enfraquecimento](https://eduardomarques.pythonanywhere.com/147/), estragando seu [[disfarce]], no momento que [[Amna]] já tinha estressado demais o bandido e ele ia bater nela.
+Essas duas coisas estavam acontecendo simultaneamente, enquanto [[Vectra]] [[Disfarce|disfarçado]] se infiltrava no acampamento como um velho de uma família rica que ia oferecer uma recompensa para eles, [[Amna]] tentava sair viva sem os bandidos começarem a meter o cacete nela. [[Vectra]] lançou um [Raio do Enfraquecimento](https://eduardomarques.pythonanywhere.com/147/), estragando seu [[disfarce]], no momento que [[Amna]] já tinha estressado demais o bandido e ele ia bater nela.
 
 ### Cena 3 - Ação
 Por eles serem MUITO fracos eu tive que adaptar um pouco o combate em cima da hora. Em vez de 6 bandidos eram 4, o bônus de ataque deles foi de +9 pra +5 e o dano da clava foi de 1d6+5 pra 1d6+2. E mesmo assim eles quase morreram.

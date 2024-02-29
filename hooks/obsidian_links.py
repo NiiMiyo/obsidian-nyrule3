@@ -1,3 +1,4 @@
+import unicodedata
 import regex
 from os.path import splitext, split, relpath
 
@@ -34,51 +35,70 @@ def on_page_markdown(markdown: str, *, page: Page, **_):
 
 
 def get_wikilink_replacement(origin: File, destination_uri: str, text: str | None) -> str:
-	destination_file, anchor = get_file_from_filepath(destination_uri, origin)
+	global available_files
+
+	destination_uri, anchor = remove_anchor(destination_uri)
+	destination_file = get_file_from_filepath(destination_uri, origin, available_files)
 
 	if destination_file is not None:
 		destination_uri = destination_file.src_uri
+		href = relpath(destination_uri, origin.src_uri + '/..').replace('\\', '/') + parse_anchor(anchor)
 
-	if anchor != "" and not anchor.startswith("#"):
-		anchor = "#" + anchor
+	else:
+		href = destination_uri
 
-	if not text and destination_file and destination_file.is_documentation_page():
-		page = destination_file.page
-		if page is not None:
-			text = page.meta.get('title', None) or destination_file.name
+	if not text:
+		if anchor is not None:
+			text = anchor[1:]
 
-		if text and text.lower() == "index":
-			dirpath, _ = split(destination_file.src_uri)
-			_, text = split(dirpath)
+		elif destination_file is None:
+			text = destination_uri
 
-	href = relpath(destination_uri, origin.src_uri + '/..').replace('\\', '/') + anchor
+		elif destination_file.is_documentation_page():
+			text, _ = splitext( split(destination_file.src_uri)[1] )
+
 	return f"[{text or ""}]({href})"
 
+def remove_anchor(filepath: str) -> tuple[str, str | None]:
+	anchor_start = filepath.find("#")
+	if anchor_start == -1:
+		return filepath, None
 
-def get_file_from_filepath(filepath: str, origin: File) -> tuple[File | None, str]:
-	global available_files
+	return filepath[:anchor_start], filepath[anchor_start:]
 
-	id_index = filepath.find("#")
-	element_id = ""
+def get_file_from_filepath(filepath: str, origin: File, files: Files) -> File | None:
+	filepath, _ = remove_anchor(filepath.strip())
 
-	if id_index != -1:
-		element_id = filepath[id_index:]
-		no_id_filepath = filepath[:id_index]
-		if no_id_filepath == "":
-			filepath = origin.src_uri
-		else:
-			filepath = no_id_filepath
+	if filepath == "":
+		filepath = origin.src_uri
 
-	note_name, ext = splitext(filepath)
+	filepath_no_ext, ext = splitext(filepath)
 	if ext == "":
 		ext = ".md"
 
-	filepath = (note_name + ext).upper()
-	_, filename = split(filepath)
-	for f in available_files:
-		f_filename = split(f.src_uri)[1].upper()
+	filepath_upper = (filepath_no_ext + ext).upper()
+	_, filename_upper = split(filepath_upper)
 
-		if f_filename == filename and f.src_uri.upper().endswith(filepath):
-			return f, element_id
+	for f in files:
+		f_filename_upper = split(f.src_uri)[1].upper()
 
-	return None, ""
+		if f_filename_upper == filename_upper and f.src_uri.upper().endswith(filepath_upper):
+			return f
+
+	return None
+
+def parse_anchor(anchor: str | None) -> str:
+	if anchor is None or anchor == "":
+		return ""
+
+	parsed = unicodedata.normalize('NFD', anchor) \
+		.encode('ascii', 'ignore') \
+		.decode('utf-8') \
+		.lower() \
+		.replace(' - ', '-') \
+		.replace(' ', '-')
+
+	if not parsed.startswith("#"):
+		parsed = "#" + parsed
+
+	return parsed

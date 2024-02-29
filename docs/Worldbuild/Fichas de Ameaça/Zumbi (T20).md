@@ -3,6 +3,7 @@ aliases:
   - Zumbi
 tags:
   - Ficha-de-ameaça
+  - Tormenta20
 ---
 ## ND 1/4
 Morto-vivo Médio

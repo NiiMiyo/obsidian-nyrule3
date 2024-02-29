@@ -4,14 +4,15 @@ tags:
 ---
 Filha do prefeito de [[Sepell]]. Após ser [[Sessão 01#Cena 3 - Combate Exploração|resgatada por Lyra]] começou um treinamento para se tornar uma espadachim mágica, semelhante à sua salvadora.
 
-Após o [[Sessão 03|timeskip de onze meses]] já está um pouco habilidosa em sua arte, apesar de ainda falhar diversas de suas magias arcanas por conta do uso da armadura.
-
 ## Aparência
 Rue é uma jovem moreau da herança de gato de pelagem cinza-claro com tons escuros e olhos castanhos.
 
 ![[cat_rue.webp]]
 
 ## Ficha de Ameaça (ND 1)
+_**A ficha de ameaça é para quando Rue estiver com seu treinamento em estágio mais avançado. No momento sua ficha é considerada como [[Matuto (GNPC)]].**_
+
+
 Humano Médio
 
 | PV  | PM  | Defesa | Deslocamento |

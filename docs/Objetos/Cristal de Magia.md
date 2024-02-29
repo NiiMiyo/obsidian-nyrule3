@@ -2,6 +2,10 @@
 tags:
   - Item/Mágico
 ---
+| Espaços | Preço |
+| --- | --- |
+| 1 | $T\$ 30 \times PM^2$ |
+
 Um cristal especial usado para armazenar magias para serem conjuradas posteriormente, mesmo por não-conjuradores.
 
 - Para magias de alcance pessoal e de toque, o usuário sempre será o alvo.

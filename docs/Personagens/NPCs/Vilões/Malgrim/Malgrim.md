@@ -2,6 +2,7 @@
 aliases:
   - Mago das Almas
   - Malgrim, o Mago das Almas
+  - Malgrim
 tags:
   - Pessoa/Inimigo
 ---

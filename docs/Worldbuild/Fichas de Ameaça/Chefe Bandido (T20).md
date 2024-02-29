@@ -3,6 +3,7 @@ aliases:
   - Chefe Bandido
 tags:
   - Ficha-de-ameaça
+  - Tormenta20
 ---
 ## ND 1
 Humanoide (humano) Médio
