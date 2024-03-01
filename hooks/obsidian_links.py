@@ -34,10 +34,10 @@ def on_page_markdown(markdown: str, *, page: Page, **_):
 	return markdown
 
 
-def get_wikilink_replacement(origin: File, destination_uri: str, text: str | None) -> str:
+def get_wikilink_replacement(origin: File, file_input: str, text: str | None) -> str:
 	global available_files
 
-	destination_uri, anchor = remove_anchor(destination_uri)
+	destination_uri, anchor = remove_anchor(file_input)
 	destination_file = get_file_from_filepath(destination_uri, origin, available_files)
 
 	if destination_file is not None:
@@ -51,11 +51,8 @@ def get_wikilink_replacement(origin: File, destination_uri: str, text: str | Non
 		if anchor is not None:
 			text = anchor[1:]
 
-		elif destination_file is None:
-			text = destination_uri
-
-		elif destination_file.is_documentation_page():
-			text, _ = splitext( split(destination_file.src_uri)[1] )
+		elif destination_file is None or destination_file.is_documentation_page():
+			text = file_input
 
 	return f"[{text or ""}]({href})"
 

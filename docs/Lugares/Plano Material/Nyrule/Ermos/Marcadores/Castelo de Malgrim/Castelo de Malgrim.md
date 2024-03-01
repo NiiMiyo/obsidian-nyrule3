@@ -15,7 +15,7 @@ Base de operações de [[Malgrim]], onde ele faz experimentos com as pessoas seq
 * T$ 1000 - Peças espalhadas na mesa e na bolsa de [[Malgrim]]
 * [[Wish Crystal|Wish Crystals]] (Ver [[Malgrim#Tesouro]])
 * Esotérico Superior - Costela de Lich Poderosa
-    * Esse osso é onde está armazenada a [[Corpo, Mente e Alma|alma]] de [[Malgrim]], se eles escolherem carregar a varinha com eles então [[Malgrim]] estará os acompanhando, ouvindo mas incapaz de falar algo.
+    * Esse osso é onde está armazenada a [[Corpo, Mente e Alma#A Alma|alma]] de [[Malgrim]], se eles escolherem carregar a varinha com eles então [[Malgrim]] estará os acompanhando, ouvindo mas incapaz de falar algo.
 * 6000 XP (1500 para cada membro)
 
 <!-- O item que eu rolei originalmente era essa espada curta, mas eu achei meio estranho um necromante com uma espada então botei meu próprio item superior -->

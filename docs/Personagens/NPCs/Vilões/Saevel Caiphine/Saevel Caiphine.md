@@ -5,19 +5,19 @@ tags:
   - Pessoa/Inimigo
 ---
 ## Backstory
-Saevel foi um elfo cavaleiro devoto de [[Elrophin, Deus da Vaidade|Elrophin]]. Há 100 anos atrás, quando [[Malgrim]] tentou dominar [[Ampáfica]] com seus servos mortos-vivos, Saevel estava lá para impedir, junto de seu grupo de aventureiros. Entretanto, apenas Saevel voltou de lá com vida, seu grupo inteiro pereceu durante a luta contra [[Malgrim]], incluindo sua esposa, Isao, uma Lefou lutadora natural de [[Kenshima]].
+Saevel foi um elfo cavaleiro devoto de [[Elrophin, Deus da Vaidade|Elrophin]]. Há 100 anos atrás, quando [[Malgrim]] tentou dominar [[Ampáfica]] com seus servos mortos-vivos, Saevel estava lá para impedir, junto de seu grupo de aventureiros. Entretanto, apenas Saevel voltou de lá com vida, seu grupo inteiro pereceu durante a luta contra [[Malgrim]], incluindo sua esposa, [[Isao]], uma Lefou lutadora natural de [[Kenshima]].
 
-Saevel desistiu de ser um aventureiro pouco depois de derrotar [[Malgrim]] e dedicou sua vida para encontrar formas diferentes de reviver Isao, todas sem sucesso. Saevel estava ficando cansado e desesperado, sabia que em algum momento não iria mais conseguir continuar sua busca. Já havia abandonado seu deus há muito tempo, largou sua vaidade e orgulho em busca de sua amada. Não se preocupava apenas com si mesmo, seu objetivo era apenas poder reencontrar Isao.
+Saevel desistiu de ser um aventureiro pouco depois de derrotar [[Malgrim]] e dedicou sua vida para encontrar formas diferentes de reviver [[Isao]], todas sem sucesso. Saevel estava ficando cansado e desesperado, sabia que em algum momento não iria mais conseguir continuar sua busca. Já havia abandonado seu deus há muito tempo, largou sua vaidade e orgulho em busca de sua amada. Não se preocupava apenas com si mesmo, seu objetivo era apenas poder reencontrar [[Isao]].
 
-Saevel não sabe, mas durante a sua luta contra [[Malgrim]], Isao sofreu danos irreparáveis à sua [[Corpo, Mente e Alma|Mente]] e [[Corpo, Mente e Alma|Alma]], fazendo que seja incapaz de ser revivida. Saevel continua tentando revivê-la após todo esse tempo, mas agora já é tarde demais.
+Saevel não sabe, mas durante a sua luta contra [[Malgrim]], [[Isao]] sofreu danos irreparáveis à sua [[Corpo, Mente e Alma#A Mente|Mente]] e [[Corpo, Mente e Alma|Alma]], fazendo que seja incapaz de ser revivida. Saevel continua tentando revivê-la após todo esse tempo, mas agora já é tarde demais.
 
 ## Atualmente
-Há cinco anos atrás Saevel decidiu reviver [[Malgrim]] como um morto-vivo sob seu comando. Saevel sabia que [[Malgrim]] fazia diversos estudos e experimentos sobre seres vivos e suas almas e pensou que talvez [[Malgrim]] fosse capaz de encontrar uma forma de reviver Isao. Saevel passou anos estudando e aperfeiçoando sua necromancia até ser capaz de reviver [[Malgrim]] como um zumbi a seu comando, o que conseguiu há cerca de cinco meses puxando sua [[Corpo, Mente e Alma|Alma]] de volta em um [[Corpo, Mente e Alma|Corpo]] que não era seu.
+Há cinco anos atrás Saevel decidiu reviver [[Malgrim]] como um morto-vivo sob seu comando. Saevel sabia que [[Malgrim]] fazia diversos estudos e experimentos sobre seres vivos e suas almas e pensou que talvez [[Malgrim]] fosse capaz de encontrar uma forma de reviver [[Isao]]. Saevel passou anos estudando e aperfeiçoando sua necromancia até ser capaz de reviver [[Malgrim]] como um zumbi a seu comando, o que conseguiu há cerca de cinco meses puxando sua [[Corpo, Mente e Alma|Alma]] de volta em um [[Corpo, Mente e Alma#O Corpo|Corpo]] que não era seu.
 
-Desde então Saevel está gradualmente chegando mais perto do seu objetivo e já desconfia que [[Malgrim]] está tramando algo contra ele, mas até o momento ele não pode fazer nada sobre, afinal [[Malgrim]] ainda está seguindo suas ordens e estudando uma forma de reviver Isao.
+Desde então Saevel está gradualmente chegando mais perto do seu objetivo e já desconfia que [[Malgrim]] está tramando algo contra ele, mas até o momento ele não pode fazer nada sobre, afinal [[Malgrim]] ainda está seguindo suas ordens e estudando uma forma de reviver [[Isao]].
 
 ### Sessão 02
-Após encontrar com os aventureiros, Saevel absorve as memórias e conhecimento de [[Malgrim]], que estudava como dar forma física à [[Corpo, Mente e Alma|alma]] de uma pessoa. Agora Saevel é capaz de conjurar uma espécie de "fumaça" negra que pode usar para se esconder ou lutar.
+Após encontrar com os aventureiros, Saevel absorve as memórias e conhecimento de [[Malgrim]], que estudava como dar forma física à [[Corpo, Mente e Alma#A Alma|alma]] de uma pessoa. Agora Saevel é capaz de conjurar uma espécie de "fumaça" negra que pode usar para se esconder ou lutar.
 
 ## Aparência
 Um elfo de pele acinzentada e cabelos longos e brancos, usando uma roupa preta por baixo de uma armadura de metal com capa.

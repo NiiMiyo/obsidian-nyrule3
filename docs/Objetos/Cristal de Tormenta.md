@@ -1,6 +1,8 @@
 ---
 aliases:
   - Cristal da Tormenta
+  - Cristais de Tormenta
+  - Cristais da Tormenta
 tags:
   - Item/Mágico
 ---

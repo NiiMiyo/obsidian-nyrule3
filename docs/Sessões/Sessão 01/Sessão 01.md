@@ -9,12 +9,9 @@ Se unir para investigar o caso das pessoas desaparecidas e descobrir quem está 
 
 **[[Venessa]]:** Após a destruição do seu laboratório ela sai viajando por [[Nyrule]] em busca de um novo lugar para fazer seus experimentos, mas ainda não encontrou. Sua próxima parada é na vila de [[Sepell]].
 
-**[[Iaris]]:** Após sair do mosteiro e de Beradhrim, [[Iaris]] sai em viagem por [[Nyrule]] buscando inimigos poderosos para derrotar e acaba parando em [[Sepell]] temporariamente para reabastecer.
+**[[Iaris]]:** Após sair do mosteiro e de [[Beradhrim]], [[Iaris]] sai em viagem por [[Nyrule]] buscando inimigos poderosos para derrotar e acaba parando em [[Sepell]] temporariamente para reabastecer.
 
 **(Larissa)**: ???
-
-### NPCs Importantes
-&lt;Nenhum&gt;
 
 ### Cena 1 - Interpretação
 Improvisar uma pequena cena para cada jogador baseado no que eles querem fazer na cidade. Pelo menos uma dessas cenas deve dizer que recentemente está havendo alguns desaparecimentos de pessoas na vila. Não são pessoas especialmente importantes nem nada, então muitos estão com medo de serem o próximo. Já desapareceram doze civis adultos.
@@ -27,59 +24,59 @@ Talvez os jogadores não se interessem imediatamente na proposta pelo dinheiro, 
 
 Talvez [[Venessa]] precise do dinheiro, [[Luciel]] queira salvar as vidas inocentes…
 
-Depois disso eles se juntam no prédio da prefeitura para receber os detalhes da missão por um dos secretários do prefeito. A recompensa para recuperar a filha do prefeito em segurança é de T$ 300.
+Depois disso eles se juntam no prédio da prefeitura para receber os detalhes da missão por um dos secretários do prefeito. A recompensa para recuperar a [[Rue|filha do prefeito]] em segurança é de T$ 300.
 
-- <s>6 Bandidos: T$ 77 + 1 Cota de Malha + 1 Couro Batido + Saco de sal = T$ 307</s>
-- 4 bandidos: T$ 6 + T$ 30 + (T$ 60, Maça) + T$ 60 = T$ 156 + Maça = T$ 178
+- <s>6 [[Bandido (T20)|Bandidos]]: T$ 77 + 1 Cota de Malha + 1 Couro Batido + Saco de sal = T$ 307</s>
+- 4 [[Bandido (T20)|bandidos]]: T$ 6 + T$ 30 + (T$ 60, Maça) + T$ 60 = T$ 156 + Maça = T$ 178
 - [[Chefe Bandido (T20)|Chefe Bandido]]: T$ 120 + Bálsamo restaurador = T$ 130
-- 1000 XP (4 bandidos) + 1000 XP ([[Chefe Bandido (T20)|Chefe Bandido]]) = 2000 XP (500 para cada)
+- 1000 XP (4 [[Bandido (T20)|bandidos]]) + 1000 XP ([[Chefe Bandido (T20)|Chefe Bandido]]) = 2000 XP (500 para cada)
 - Total: T$ 308 + 2000 XP
 
 ### Cena 2 - Exploração
-Os jogadores devem encontrar as pistas necessárias para encontrar a gruta onde os sequestradores estão. Existem duas pistas:
+Os jogadores devem encontrar as pistas necessárias para encontrar a [[Gruta de Sequestradores|gruta onde os sequestradores estão]]. Existem duas pistas:
 
-1. Pegadas
+1. **Pegadas.**
 
-    Na parte de trás da casa do prefeito podem ser encontradas as pegadas do grupo de bandidos que sequestraram a filha (Percepção 10) e podem ser rastreadas (Sobrevivência 15).
+	Na parte de trás da casa do prefeito podem ser encontradas as pegadas do grupo de bandidos que sequestraram a filha (Percepção 10) e podem ser rastreadas (Sobrevivência 15).
 
-2. Perguntar por movimentos estranhos
-
+2. **Perguntar por movimentos estranhos.**
+    
     Perguntando aos civis se perceberam algo estranho durante a noite (Investigação 15) pode levar à eles dizerem que ouviram barulhos estranhos atrás da casa do prefeito ou viram movimentações estranhas na nascente do rio a sudoeste (se passarem por 5 ou mais).
 
-Quando estiverem prontos para sair eles encontrarão com o namorado da filha do prefeito que insistirá em ajudá-los a encontrar os bandidos, pois ele conhece a floresta desde criança. Se eles aceitarem a ajuda, ganham um Parceiro Perseguidor Iniciante (+2 em Percepção e Sobrevivência).
+Quando estiverem prontos para sair eles encontrarão com o [[Yacen|namorado]] da [[Rue|filha do prefeito]] que insistirá em ajudá-los a encontrar os bandidos, pois ele conhece a floresta desde criança. Se eles aceitarem a ajuda, ganham um Parceiro Perseguidor Iniciante (+2 em Percepção e Sobrevivência).
 
 ### MiniCena 2.1 - Exploração
-Eles encontram alguma pista ou trilha que leve eles para a nascente do rio e lá encontram a gruta dos sequestradores.
+Eles encontram alguma pista ou trilha que leve eles para a nascente do rio e lá encontram a [[Gruta de Sequestradores|gruta dos sequestradores]].
 
 ### Cena 3 - Combate | Exploração
-A equipe chega perto o suficiente da entrada da gruta para poder enxerga-la do outro lado do rio, mas os bandidos não são capazes de enxerga-los. A gruta fica na entrada da nascente, na parede de uma colina rochosa e íngreme (praticamente vertical).
+A equipe chega perto o suficiente da entrada da [[Gruta de Sequestradores|gruta]] para poder enxerga-la do outro lado do rio, mas os [[Bandido (T20)|bandidos]] não são capazes de enxerga-los. A [[Gruta de Sequestradores|gruta]] fica na entrada da nascente, na parede de uma colina rochosa e íngreme (praticamente vertical).
 
-O namorado da filha do prefeito diz que ficará segurança e distante enquanto eles fazem o trabalho.
+O [[Yacen|namorado da filha do prefeito]] diz que ficará segurança e distante enquanto eles fazem o trabalho.
 
 Dependendo de como eles decidirem abordar a gruta podem acontecer muitas coisas diferentes, então essa cena vai ser mais improviso do que roteiro. Vou só listar o que tem lá pra ser encontrado.
 
-Existem bandidos espalhados e caso eles se aproximem da entrada da gruta precisarão fazer testes de Furtividade (CD 20. +5 se estiverem na floresta).
+Existem [[Bandido (T20)|bandidos]] espalhados e caso eles se aproximem da entrada da gruta precisarão fazer testes de Furtividade (CD 20. +5 se estiverem na floresta).
 
-Existem dois bandidos vigiando a entrada da gruta, mais dois bandidos vigiando ao longo do rio e o [[Chefe Bandido (T20)|Chefe Bandido]] dormindo dentro da gruta (ND Total 2).
+Existem dois [[Bandido (T20)|Bandido]] vigiando a entrada da [[Gruta de Sequestradores|gruta]], mais dois [[Bandido (T20)|Bandido]] vigiando ao longo do rio e o [[Chefe Bandido (T20)|Chefe Bandido]] dormindo dentro da gruta (ND Total 2).
 
 No outro lado da gruta, estão cinco civis, incluindo a filha do prefeito, amarrados e amordaçados.
 
 No bolso do [[Chefe Bandido (T20)|chefe bandido]] os jogadores podem achar uma carta do [[Malgrim]], para os bandidos. A carta diz:
 
-> [[Sepell]] será nossa fonte de cobaias para meus experimentos. Lembrem-se de serem discretos, ninguém deve interromper nossa conquista. Tragam-me almas resistentes, e alcançaremos o poder sobre a [[Corpo, Mente e Alma|alma]].
+> [[Sepell]] será nossa fonte de cobaias para meus experimentos. Lembrem-se de serem discretos, ninguém deve interromper nossa conquista. Tragam-me almas resistentes, e alcançaremos o poder sobre a [[Corpo, Mente e Alma#A Alma|alma]].
 >
 > &dash; [[Malgrim]]
 
-Caso não encontrem a carta, a filha do prefeito dirá que ouviu os bandidos conversando quando acharam que ela estava desmaiada e disseram algo sobre sequestrar alguns civis e entregar para [[Malgrim]].
+Caso não encontrem a carta, a [[Rue|filha do prefeito]] dirá que ouviu os bandidos conversando quando acharam que ela estava desmaiada e disseram algo sobre sequestrar alguns civis e entregar para [[Malgrim]].
 
-Caso investiguem a gruta atrás de itens (Investigação 15) podem encontrar um saco de sal e algumas moedas (T$ 5 por cada 5 pontos que passarem da CD).
+Caso investiguem a [[Gruta de Sequestradores|gruta]] atrás de itens (Investigação 15) podem encontrar um saco de sal e algumas moedas (T$ 5 por cada 5 pontos que passarem da CD).
 
 ### Cena 4 - Interpretação
 **IMPROVISAR DE ACORDO COM OS RESULTADOS DA CENA ANTERIOR**
 
-Os jogadores voltam para a vila com os civis resgatados (assim espero) e vão cobrar a recompensa. O prefeito agradecerá pelo resgate dos civis e indica que os jogadores vão à biblioteca pesquisar sobre [[Malgrim]].
+Os jogadores voltam para [[Sepell|a vila]] com os civis resgatados (assim espero) e vão cobrar a recompensa. [[Balthazar|O prefeito]] agradecerá pelo resgate dos civis e indica que os jogadores vão à biblioteca pesquisar sobre [[Malgrim]].
 
-A cidade de [[Sepell]] é conhecida por ser uma passagem comum para os aventureiros e viajantes que passam para o Reino da Água. Podem encontrar um livro sobre [[Malgrim]] (Investigação 20, +10 se conseguirem convencer a bibliotecária ocupada à ajudá-los (Diplomacia 20)).
+A cidade de [[Sepell]] é conhecida por ser uma passagem comum para os aventureiros e viajantes que passam para o [[Reino da Água]]. Podem encontrar um livro sobre [[Malgrim]] (Investigação 20, +10 se conseguirem convencer a [[Riki|bibliotecária]] ocupada à ajudá-los (Diplomacia 20)).
 
 ### Anexo
 [[Bandido (T20)|Ficha de Ameaça - Bandido (ND 1/4)]]

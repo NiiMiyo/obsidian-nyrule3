@@ -1,6 +1,7 @@
 ---
 aliases:
   - Bandido
+  - bandidos
 tags:
   - Ficha-de-ameaça
   - Tormenta20

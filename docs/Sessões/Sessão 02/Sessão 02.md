@@ -1,5 +1,5 @@
 ## Planejamento
-Pra essa sessão eu não planejei praticamente nada. Eu não tinha como prever exatamente o que eles fariam durante a sessão já que a outra terminou no momento que eles entraram na biblioteca depois de derrotarem os sequestradores.
+Pra essa sessão eu não planejei praticamente nada. Eu não tinha como prever exatamente o que eles fariam durante a sessão já que a outra terminou no momento que eles entraram na [[Sepell#Biblioteca|biblioteca]] depois de derrotarem os sequestradores.
 
 Por conta disso eu preparei realmente só a [[Castelo de Malgrim|dungeon do Malgrim]] e a [[Malgrim#Ficha de Ameaça (ND 4)|ficha dele]].
 
@@ -8,16 +8,16 @@ Também tinha planejado para o grupo encontrar o [[Crowhey Semore|Crowhey]] no m
 ## Acontecimentos
 Difícil lembrar em detalhes da sessão inteira, foi muita coisa.
 
-### Cena 1 - Biblioteca
+### Cena 1 - [[Sepell#Biblioteca|Biblioteca]]
 [[Iaris]] e [[Luciel]] voltaram cansados da aventura anterior e foram direto para a pousada dormir. [[Lyra Windsong|Lyra]] e [[Venessa]] foram para a biblioteca pesquisar sobre quem era o [[Malgrim]] que enviou a carta para os sequestradores.
 
-Lá elas conseguem ajuda da bibliotecária e ela vai contando sobre o [[Malgrim]], que foi um mago que a 100 anos atrás liderou uma revolução contra o "governo" (eu usei esse termo porque eles não saberiam o que é [[Ampáfica]]) com seu exército de mortos-vivos e pessoas enfeitiçadas. Elas também descobrem onde ficava o antigo [[Castelo de Malgrim|castelo do Malgrim]].
+Lá elas conseguem ajuda da [[Riki|bibliotecária]] e ela vai contando sobre o [[Malgrim]], que foi um mago que a 100 anos atrás liderou uma revolução contra o "governo" (eu usei esse termo porque eles não saberiam o que é [[Ampáfica]]) com seu exército de mortos-vivos e pessoas enfeitiçadas. Elas também descobrem onde ficava o antigo [[Castelo de Malgrim|castelo do Malgrim]].
 
-Não lembro bem como, mas elas foram dormir também e aí [[Luciel]] e [[Iaris]] acordaram e quase decidiram ir embora sozinhos, já que a [[Iaris]] não tem muito o que fazer agora, mas o [[Luciel]] disse que queria ir para a biblioteca para pesquisar mais sobre a armadura invisível dele e como eles estão juntos eles foram.
+Não lembro bem como, mas elas foram dormir também e aí [[Luciel]] e [[Iaris]] acordaram e quase decidiram ir embora sozinhos, já que a [[Iaris]] não tem muito o que fazer agora, mas o [[Luciel]] disse que queria ir para a [[Sepell#Biblioteca|biblioteca]] para pesquisar mais sobre a armadura invisível dele e como eles estão juntos eles foram.
 
 [[Luciel]] não achou nada específico sobre a armadura ou alguém que poderia lançar uma magia de "invisibilidade seletiva". De alguma forma [[Iaris]] e [[Venessa]] também foram para lá e aí não sei o que aconteceu exatamente porque minha cabeça juntou essas duas cenas em uma cena só.
 
-E como esquecer da parte mais importante dessa cena. [[Venessa]] tirou 20 no teste de enganação e agora a bibliotecária acredita que foi demitida e irá falar com o prefeito sobre isso ("essa ação terá consequências").
+E como esquecer da parte mais importante dessa cena. [[Venessa]] tirou 20 no teste de enganação e agora a [[Riki|bibliotecária]] acredita que foi demitida e irá falar com o prefeito sobre isso ("essa ação terá consequências").
 
 ### Cena 2 - Mercado
 Depois de descobrirem tudo sobre o [[Malgrim]] eles decidiram ir às compras. [[Iaris]] e [[Lyra Windsong|Lyra]] foram comprar itens de cura e mana, e acharam super caro, mas rolaram bem no teste e conseguiram um pequeno desconto. Acabou que ainda era caro então compraram só Bálsamo Restaurador.
@@ -25,16 +25,16 @@ Depois de descobrirem tudo sobre o [[Malgrim]] eles decidiram ir às compras. [[
 E logo depois aparece a [[Venessa]] tentando e falhando em roubar o mesmo vendedor que [[Lyra Windsong|Lyra]] e [[Iaris]] acabaram de comprar as coisas.
 
 ### Cena 3 - Viagem
-Todos dormem e pela manhã contratam uma carroça pra levar eles mais pra perto do "covil", como decidiram chamar, deixando bem claro que o pônei da [[Venessa]] foi **dentro** da carroça. Por conta do fato deles terem ido com outra pessoa, eles não encontraram o [[Crowhey Semore|Crowhey]] durante a viagem. Quem sabe na volta, já que o carroceiro deixou eles lá.
+Todos dormem e pela manhã contratam uma carroça pra levar eles mais pra perto do [[Castelo de Malgrim|"covil"]], como decidiram chamar, deixando bem claro que o pônei da [[Venessa]] foi **dentro** da carroça. Por conta do fato deles terem ido com outra pessoa, eles não encontraram o [[Crowhey Semore|Crowhey]] durante a viagem. Quem sabe na volta, já que o carroceiro deixou eles lá.
 
-Eles caminham mais um dia e algumas horas até avistarem de longe a gruta do [[Malgrim]].
+Eles caminham mais um dia e algumas horas até avistarem de longe a [[Castelo de Malgrim|gruta do Malgrim]].
 
 ### Cena 4 - [[Castelo de Malgrim|Castelo do Malgrim]]
 Essa foi a parte mais demorada da sessão. Depois que chegaram lá nos escombros antigos do que um dia foi um pequeno forte, eles viram uma única porta numa parede que ainda se mantinha de pé. Essa porta estava menos empoeirada e suja do que o restante das paredes. Eles entraram e como [[Lyra Windsong|Lyra]] não possui visão no escuro [[Luciel]] lançou [Luz](https://eduardomarques.pythonanywhere.com/114/) na katana dela.
 
-Eles foram adentrando, derrotando uns zumbis e eu me perdi um pouco na hora de gerenciar o terceiro combate (contra 5 zumbis) porque não tenho um jeito fácil de lidar com combates ainda (preciso adotar/fazer um [combat tracker](https://dm.tools/tracker)).
+Eles foram adentrando, derrotando uns [[Zumbi (T20)|Zumbi]] e eu me perdi um pouco na hora de gerenciar o terceiro combate (contra 5 zumbis) porque não tenho um jeito fácil de lidar com combates ainda (preciso adotar/fazer um [combat tracker](https://dm.tools/tracker)).
 
-Um detalhe importante é que [[Iaris]] nas ultimas duas salas de zumbis e na do [[Malgrim]] lançou [Consagrar](https://eduardomarques.pythonanywhere.com/50/) pra que [[Luciel]] pudesse curar mais eles e ferir melhor os zumbis, mas [[Luciel]] tava economizando PM e usou pouco o seu Cura Pelas Mãos.
+Um detalhe importante é que [[Iaris]] nas ultimas duas salas de [[Zumbi (T20)|Zumbi]] e na do [[Malgrim]] lançou [Consagrar](https://eduardomarques.pythonanywhere.com/50/) pra que [[Luciel]] pudesse curar mais eles e ferir melhor os zumbis, mas [[Luciel]] tava economizando PM e usou pouco o seu Cura Pelas Mãos.
 
 O combate foi quase impossível e eles tomariam TPK se eu tivesse seguido as regras à risco. Vamos à lista de regras quebradas:
 
@@ -96,7 +96,7 @@ A primeira metade que ele se refere é até antes da dungeon. E meio que ele per
 
 Eu lembro que ela já tinha comentado na outra sessão também sobre o sentimento de "não acontece muita coisa fora de combate". Mailson também tinha comentado isso sobre a outra sessão, que eles meio que se encontraram, desceram a mão nos caras e voltaram sem ninguém se sentir minimamente mais próximos.
 
-Eu posso tentar colocar algum NPC que fale algo durante a próxima sessão, a maioria das interações são eles entre eles mesmos ou algum NPC que está ajudando eles em alguma coisa, como a bibliotecária.
+Eu posso tentar colocar algum NPC que fale algo durante a próxima sessão, a maioria das interações são eles entre eles mesmos ou algum NPC que está ajudando eles em alguma coisa, como a [[Riki|bibliotecária]].
 
 #### Vanessa
 ##### Qual foi a parte da última sessão que vc mais gostou?

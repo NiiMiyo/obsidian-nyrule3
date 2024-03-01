@@ -1,6 +1,7 @@
 ---
 tags:
   - Regra-da-casa
+  - Ignorar-gráfico
 aliases:
   - disfarçado
   - disfarçar

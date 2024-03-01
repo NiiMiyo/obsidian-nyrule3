@@ -1,8 +1,7 @@
 ---
 aliases:
-  - Corpo
-  - Mente
-  - Alma
+  - Ciclo das Almas
+  - Ciclo da Vida
 tags:
   - Worldbuilding
 ---
@@ -15,7 +14,7 @@ Toda a parte do ser vivo que é material e física, como órgãos, cabelos, folh
 A alma é responsável pela parte metafísica do indivíduo, seus desejos, memórias, pensamentos, vontade, personalidade etc. A Alma não possui forma física, pois existe completamente no [[Plano Etéreo]]. A alma também é responsável por armazenar e usar a energia vital, mana, em todos os seres.
 
 ## A Mente
-Corpo e Alma existem em [[Planos]] distintos, mas um indivíduo precisa de ambos para existir, para isso existe a Mente.
+Corpo e Alma existem em [[planos]] distintos, mas um indivíduo precisa de ambos para existir, para isso existe a Mente.
 
 A mente é responsável pela conexão entre Corpo e Alma, nada mais, nada menos. Não existe completamente no [[Plano Material]] ou no [[Plano Etéreo]], mas está ao mesmo tempo em ambos, embora alguns estudiosos sugerem que não seja a mente em si, mas que apenas uma parcela dela reside nestes [[Planos]] enquanto sua completude está em um terceiro [[Planos|plano]]. Dentre os mistérios de como funciona a vida em [[Nyrule]], a mente é o mais difícil de ser resolvido.
 
@@ -29,7 +28,7 @@ Normalmente, a Morte acontece por falha de uma das partes, o que causa desconex�
 ### Ciclo das Almas
 O Ciclo das Almas, também chamado Ciclo da Vida, é o processo que ocorre com todas as almas que completam o processo de Morte. Ao desconectar a Alma do Corpo por tempo suficiente, a Alma inicia um processo de transformação, em que passa a se tornar pura energia no [[Plano Etéreo]]. Esse processo dura por volta de um ano [[Nyrule|nyruleano]] e, ao estar completo, a Alma daquela pessoa deixou de existir, finalizando o processo de Morte. Nesse ponto, não há nada que possa ser feito para que o indivíduo seja restaurado.
 
-Entretanto, a energia daquela alma incia um processo reverso chamado Nascimento, em que a energia volta a ser transformada em uma nova alma para outro indivíduo que nascerá. A duração desse processo é incerta, além disso, não se sabe se existe um limite para a quantidade de almas existentes.
+Entretanto, a energia daquela alma inicia um processo reverso chamado Nascimento, em que a energia volta a ser transformada em uma nova alma para outro indivíduo que nascerá. A duração desse processo é incerta, além disso, não se sabe se existe um limite para a quantidade de almas existentes.
 
 ### Mortos-Vivos
 Em geral, mortos-vivos não possuem alma, eles são corpos reanimados sem vontade própria, por isso a maioria dos mortos-vivos são incapazes de pensamento.
@@ -44,6 +43,6 @@ Fantasmas são um tipo especial de morto-vivo. São almas que adquiriram uma for
 Por ser feito apenas de energia, um fantasma não possui Corpo e normalmente não pode interagir com o [[Plano Material]], exceto por ser visível e poder falar, ver e ouvir. A maioria das vezes fantasmas são translúcidos e apresentam apenas uma cor, branca ou cinza, sendo mais distinguíveis por sua forma do que as cores que apresentam. Alguns também podem emitir um leve brilho.
 
 ## Jogadores
-Jogadores são entidades especiais vindas de outros lugares ou [[Planos]] e que acabam por habitar [[Nyrule]]. Na maioria das vezes são Almas que interceptam a Mente de outra criatura, fazendo com que aquela criatura possua duas almas.
+Jogadores são entidades especiais vindas de outros lugares ou [[planos]] e que acabam por habitar [[Nyrule]]. Na maioria das vezes são Almas que interceptam a Mente de outra criatura, fazendo com que aquela criatura possua duas almas.
 
 Por conta d'[[A Corrupção]], um [[Nyrule|nyruleano]] é incapaz de perceber a diferença entre uma criatura antes e depois de se tornar um Jogador, mas criaturas não-nyruleanas podem ser capazes de naturalmente sentir a presença de um Jogador.

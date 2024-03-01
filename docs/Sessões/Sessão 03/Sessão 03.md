@@ -31,11 +31,11 @@ Pra essa cena eu não quero que a [[Ostfer]] apareça em momento nenhum, apesar 
 Eu pensei em colocar eles encontrando o [[Crowhey Semore|Crowhey]] por aqui, mas com a equipe lascada não fica muito legal, já que eles tem que gastar dinheiro com as poções. [[Crowhey Semore|Crowhey]] ficará para um futuro próximo.
 
 ### Cena 2 - Na cidade
-Eu vou torcer pra eles irem pra [[Plenaflorum]]. Há algumas semanas a vila foi saqueada pelo bando de Oxford, que não matou ninguém mas saqueou boa parte da cidade e por conta disso todos estão preocupados se acontecerá de novo. Eles podem conversar com os vilões para descobrir sobre o saque e tentar falar com a [[família Plenaflorum]].
+Eu vou torcer pra eles irem pra [[Plenaflorum]]. Há algumas semanas a vila foi saqueada pelo [[bando de Oxford]], que não matou ninguém mas saqueou boa parte da cidade e por conta disso todos estão preocupados se acontecerá de novo. Eles podem conversar com os vilões para descobrir sobre o saque e tentar falar com a [[família Plenaflorum]].
 
 ## Acontecimentos
 ### Cena 1 - [[Castelo de Malgrim]]
-Pedi um [[teste de sorte]] pra [[Workhiz Pyke|Pyke]] oposto por [[Amna]] e [[Amna]] tirou mais alto, então a sessão começou com ela e [[Vectra]] explorando mais a fundo nas ruínas do castelo. [[Vectra]] mandou Marie (o familiar asa-assassina) na frente e acabou encontrando com o [[Workhiz Pyke|Pyke]]. Felizmente eles não se mataram logo quando se viram, [[Workhiz Pyke|Pyke]] explicou que tava aqui porque viu um grupo de aventureiros que não voltaram das ruínas e deixou eles lá e seguiram viagem.
+Pedi um [[teste de sorte]] pra [[Workhiz Pyke|Pyke]] oposto por [[Amna]] e [[Amna]] tirou mais alto, então a sessão começou com ela e [[Vectra]] explorando mais a fundo nas ruínas do castelo. [[Vectra]] mandou [[Marie]] (o familiar asa-assassina) na frente e acabou encontrando com o [[Workhiz Pyke|Pyke]]. Felizmente eles não se mataram logo quando se viram, [[Workhiz Pyke|Pyke]] explicou que estava aqui porque viu um grupo de aventureiros que não voltaram das ruínas e deixou eles lá e seguiram viagem.
 
 Eles seguiram atrás e encontraram os corpos de [[Malgrim]], sem a cabeça, e dos quatro aventureiros que o enfrentaram. [[Luciel]] e [[Iaris]] ainda estavam vivos, mas [[Lyra Windsong|Lyra]] e [[Venessa]] estavam completamente mortas. [[Vectra]] é safado e aproveitou pra saquear os corpos e pegou uns trocados. Eles levaram os corpos inconscientes para a carruagem do [[Workhiz Pyke|Pyke]] e seguiram viagem pra [[Sepell]].
 
@@ -47,9 +47,9 @@ Durante a viagem [[Iaris]] desafiou [[Workhiz Pyke|Pyke]] para uma queda de bra�
 Com eles acordados e fora de [[Ampáfica]] poderia ter aparecido o [[Crowhey Semore|Crowhey]], mas eu esqueci dele e aí ele não apareceu a sessão inteira, mesmo quando tinha espaço pra aparecer. Uma pena.
 
 ### Cena 3 - [[Sepell]]
-Mais uma gafe minha aí, esqueci de falar da [[ #A Corrupção|corrupção]] em [[Sepell]], então não teve nenhum moreau aparecendo. Primeiro eles foram pra [[Sepell#Biblioteca|biblioteca]] pesquisar algo que nem lembro. Eu sei que eles não acharam muitas informações úteis. Mas falaram com a bibliotecária e ela estava com muita raiva por ter sido enganada pra achar que foi demitida.
+Mais uma gafe minha aí, esqueci de falar da [[ #A Corrupção|corrupção]] em [[Sepell]], então não teve nenhum moreau aparecendo. Primeiro eles foram pra [[Sepell#Biblioteca|biblioteca]] pesquisar algo que nem lembro. Eu sei que eles não acharam muitas informações úteis. Mas falaram com a [[Riki|bibliotecária]] e ela estava com muita raiva por ter sido enganada pra achar que foi demitida.
 
-Depois da biblioteca eles foram para a [[Sepell#Oficina do Brokkr]] e [[Vectra]] comprou uma armadura de placas, [[Workhiz Pyke|Pyke]] comprou umas essências de mana e [[Amna]] comprou uma segunda espada curta. E aí veio minha segunda gafe, [[Iaris]] interagiu com o inventário e eu esqueci do [[#Cena 1 - Interpretação ( Castelo de Malgrim )|osso do Malgrim]] e ela acabou não percebendo que ele estava ali. ==Preciso lembrar de fazer ela perceber o osso na próxima sessão==.
+Depois da [[Sepell#Biblioteca|biblioteca]] eles foram para a [[Sepell#Oficina do Brokkr]] e [[Vectra]] comprou uma armadura de placas, [[Workhiz Pyke|Pyke]] comprou umas essências de mana e [[Amna]] comprou uma segunda espada curta. E aí veio minha segunda gafe, [[Iaris]] interagiu com o inventário e eu esqueci do [[#Cena 1 - Interpretação ( Castelo de Malgrim )|osso do Malgrim]] e ela acabou não percebendo que ele estava ali. ==Preciso lembrar de fazer ela perceber o osso na próxima sessão==.
 
 Terminando as compras eles partiram para [[Plenaflorum]] (graças à minha intervenção).
 
@@ -58,24 +58,24 @@ A viagem foi tranquila e não aconteceu nada. Aqui foi um ótimo momento pra lem
 
 Chegando em [[Plenaflorum]] eles partiram direto pra [[Plenaflorum#Mansão dos Plenaflorum|mansão da família Plenaflorum]] ([[Vectra]] ficou do lado de fora) e ==entregaram diretamente ao [[Família Plenaflorum#Cormus Plenaflorum|Cormus]] o quadro da [[Lilie Plenaflorum|Lilie]]==. Ele apenas guardou o quadro num bolso lateral da roupa e pediu pra eles se retirarem.
 
-Depois disso eles partiram pra [[Central]].
+Depois disso eles partiram pra [[Central]]. No caminho eles tiveram um encontro aleatório com 2 [[Bandido Comum (Ameaças)|bandidos comuns]], que simplesmente viram uma carroça cheia de gente forte e foram embora. Eles quase foram atrás pra ver o que encontravam, mas decidiram ignorar.
 
 #### Cena 5 - [[Central]]
 Definitivamente a maior cena da sessão.
 
-Chegando na [[Central]] eles foram para a [[Central#Biblioteca Principal]] pesquisar sobre seus achados e tentar descobrir o que puderem para ir encontrar com o rei e explicar a situação. Eles descobriram pra quê servem os [[Wish Crystal|Wish Crystals]] que pegaram do [[Malgrim]], como usar eles, e descobriram a história "completa" (completa até agora, capaz de eu mudar algo depois) do [[Saevel Caiphine|Saevel]] e sua equipe, que eu tive que gerar o resto dela de improviso e ficou sendo o [[Saevel Caiphine|Saevel]], a Isao, Aconite (ladino minotauro) e Taniara (bruxa humana).
+Chegando na [[Central]] eles foram para a [[Central#Biblioteca Principal]] pesquisar sobre seus achados e tentar descobrir o que puderem para ir encontrar com o rei e explicar a situação. Eles descobriram pra quê servem os [[Wish Crystal|Wish Crystals]] que pegaram do [[Malgrim]], como usar eles, e descobriram a história "completa" (completa até agora, capaz de eu mudar algo depois) do [[Saevel Caiphine|Saevel]] e sua equipe, que eu tive que gerar o resto dela de improviso e ficou sendo o [[Saevel Caiphine|Saevel]], a [[Isao]], [[Aconite]] (ladino minotauro) e [[Taniara]] (bruxa humana).
 
-Eles pesquisaram sobre e isso e marcaram uma audiência com o secretário geral de Ampáfica, já que falar com rei não é só chegar assim. E só conseguiram isso tudo porque o [[Workhiz Pyke|Pyke]] é um nobre também.
+Eles pesquisaram sobre e isso e marcaram uma audiência com o [[secretário geral de Ampáfica]], já que falar com o [[rei]] não é só chegar assim. E só conseguiram isso tudo porque o [[Workhiz Pyke|Pyke]] é um nobre também.
 
-Depois de marcada a audiência, foram para a Guilda de Aventureiros Gerais de Ampáfica e pegaram uma missão, que eu improvisei na hora (e demorei pra caramba nisso) usando o Baralho de Aventuras, mas que provavelmente vou mudar um pouco pra próxima sessão.
+Depois de marcada a audiência, ==foram para a [[Guilda de Aventureiros Gerais de Ampáfica]] e pegaram uma missão==, que eu improvisei na hora (e demorei pra caramba nisso) usando o Baralho de Aventuras, mas que provavelmente vou mudar um pouco pra próxima sessão.
 
-> Sumiço de uma carroça de um nobre local que transportava mercadorias de Korahin para [[Eldenhaven]]. A carroça desapareceu em uma tempestade suspeita causada por uma lenda aposentada ajudado por um capanga minotauro. As pistas estão em um porão infestado, uma fazenda subjugada, em um laboratório de alquimia. A recompensa é de T$ 2000.
+> Sumiço de uma carroça de um nobre local que transportava mercadorias de [[Korahim]] para [[Eldenhaven]]. A carroça desapareceu em uma tempestade suspeita causada por uma lenda aposentada ajudado por um [[Capanga Minotauro (Ameaças)|capanga minotauro]]. As pistas estão em um porão infestado, uma fazenda subjugada, em um laboratório de alquimia. A recompensa é de T$ 2000.
 
 Só o que eles sabem é que uma carroça sumiu por conta de uma tempestade misteriosa e inexplicável.
 
-No outro dia tiveram a audiência e explicaram em detalhes tudo que aconteceu nas sessões [[Sessão 01]] e [[Sessão 02]], mas não falaram nada sobre a [[Ostfer]] nem sobre o [[Sessão 02.2.md#Cena 4 - Interpretação|pingente]].
+No outro dia tiveram a audiência e ==explicaram em detalhes tudo que aconteceu nas sessões [[Sessão 01]] e [[Sessão 02]], mas não falaram nada sobre a [[Ostfer]] nem sobre o [[Sessão 02.2.md#Cena 4 - Interpretação|pingente]]==.
 
-A sessão então terminou pouco depois disso, eles ainda estão dentro da cidade e na próxima sessão vão fazer a missão da guilda.
+A sessão então terminou pouco depois disso, eles ainda estão dentro da [[Central|cidade]] e na próxima sessão vão fazer a missão da [[Guilda de Aventureiros Gerais de Ampáfica|guilda]].
 
 ### Perguntas pós-sessão
 #### Anne ([[Iaris]])

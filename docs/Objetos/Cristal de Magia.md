@@ -3,8 +3,8 @@ tags:
   - Item/Mágico
 ---
 | Espaços | Preço |
-| --- | --- |
-| 1 | $T\$ 30 \times PM^2$ |
+| ---- | ---- |
+| 1 | T$ 30 x PM<sup>2</sup> |
 
 Um cristal especial usado para armazenar magias para serem conjuradas posteriormente, mesmo por não-conjuradores.
 
@@ -13,3 +13,5 @@ Um cristal especial usado para armazenar magias para serem conjuradas posteriorm
 - Para magias que afetam áreas, o ponto de partida da magia sempre é o próprio cristal.
 
 A magia pode ser conjurada usando uma ação padrão e gastando 1 PM. Após usar a magia o cristal é destruído e se torna pequenos cacos e poeira na mão do usuário.
+
+[^2]: AAA

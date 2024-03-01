@@ -18,6 +18,6 @@ No centro de Nyrule temos [[Ampáfica]], um reino de humanos fundado há século
 
 Ao noroeste temos [[Elenya]], com a capital sendo Nairi Disfrada. Como o nome implica, sua população é majoritariamente élfica, mas também possuem outras raças em menor quantidade, como dahllans e moreaus. Eles são bem cuidadosos com estranhos, mas confiam em amigos mesmo que de raças diferentes.
 
-Ao sudoeste temos os Grandes Espinhos, uma enorme cadeia de montanhas. Dentro dessas montanhas está Beradhrim, um sistema de túneis e cavernas criado pelos anões.
+Ao sudoeste temos os Grandes Espinhos, uma enorme cadeia de montanhas. Dentro dessas montanhas está [[Beradhrim]], um sistema de túneis e cavernas criado pelos anões.
 
 Ao nordeste temos Thar'zul, um enorme deserto. No centro desse deserto está Ácira, uma cidade de minotauros e goblins ao redor de um enorme oásis.
