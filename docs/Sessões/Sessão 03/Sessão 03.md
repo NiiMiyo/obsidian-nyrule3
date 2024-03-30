@@ -1,7 +1,7 @@
 É aqui que o filho chora e a mãe dá risada. Essa sessão vou ter que dar um jeito de reunir todo mundo e magicamente fazer eles se unirem.
 
 ## Objetivos da sessão
-1. Se possível, dar uma pausa da história do [[Saevel Caiphine|Saevel]] e [[Malgrim]], fazendo eles irem atrás de alguma outra coisa, como informações ou a "side quest" de [[Amna]] e [[Vectra]] de entregar de volta o dinheiro para a [[família Plenaflorum]];
+1. Se possível, dar uma pausa da história do [[Saevel Caiphine|Saevel]] e [[Malgrim]], fazendo eles irem atrás de alguma outra coisa, como informações ou a "side quest" de [[Amna]] e [[Vectra]] de entregar de volta o dinheiro para a [[Família Plenaflorum]];
 2. Se possível é legal dar algum dinheiro pra eles de alguma forma.
 
 ## Notas adicionais
@@ -31,7 +31,7 @@ Pra essa cena eu não quero que a [[Ostfer]] apareça em momento nenhum, apesar 
 Eu pensei em colocar eles encontrando o [[Crowhey Semore|Crowhey]] por aqui, mas com a equipe lascada não fica muito legal, já que eles tem que gastar dinheiro com as poções. [[Crowhey Semore|Crowhey]] ficará para um futuro próximo.
 
 ### Cena 2 - Na cidade
-Eu vou torcer pra eles irem pra [[Plenaflorum]]. Há algumas semanas a vila foi saqueada pelo [[bando de Oxford]], que não matou ninguém mas saqueou boa parte da cidade e por conta disso todos estão preocupados se acontecerá de novo. Eles podem conversar com os vilões para descobrir sobre o saque e tentar falar com a [[família Plenaflorum]].
+Eu vou torcer pra eles irem pra [[Plenaflorum]]. Há algumas semanas a vila foi saqueada pelo [[bando de Oxford]], que não matou ninguém mas saqueou boa parte da cidade e por conta disso todos estão preocupados se acontecerá de novo. Eles podem conversar com os vilões para descobrir sobre o saque e tentar falar com a [[Família Plenaflorum]].
 
 ## Acontecimentos
 ### Cena 1 - [[Castelo de Malgrim]]
@@ -56,16 +56,16 @@ Terminando as compras eles partiram para [[Plenaflorum]] (graças à minha inter
 ### Cena 4 - [[Plenaflorum]]
 A viagem foi tranquila e não aconteceu nada. Aqui foi um ótimo momento pra lembrar da existência do [[Crowhey Semore|Crowhey]], mas não rolou e ele também não apareceu aqui.
 
-Chegando em [[Plenaflorum]] eles partiram direto pra [[Plenaflorum#Mansão dos Plenaflorum|mansão da família Plenaflorum]] ([[Vectra]] ficou do lado de fora) e ==entregaram diretamente ao [[Família Plenaflorum#Cormus Plenaflorum|Cormus]] o quadro da [[Lilie Plenaflorum|Lilie]]==. Ele apenas guardou o quadro num bolso lateral da roupa e pediu pra eles se retirarem.
+Chegando em [[Plenaflorum]] eles partiram direto pra [[Plenaflorum#Mansão dos Plenaflorum|mansão da família Plenaflorum]] ([[Vectra]] ficou do lado de fora) e ==entregaram diretamente ao [[Cormus Plenaflorum|Cormus]] o quadro da [[Lilie Plenaflorum|Lilie]]==. Ele apenas guardou o quadro num bolso lateral da roupa e pediu pra eles se retirarem.
 
 Depois disso eles partiram pra [[Central]]. No caminho eles tiveram um encontro aleatório com 2 [[Bandido Comum (Ameaças)|bandidos comuns]], que simplesmente viram uma carroça cheia de gente forte e foram embora. Eles quase foram atrás pra ver o que encontravam, mas decidiram ignorar.
 
 #### Cena 5 - [[Central]]
 Definitivamente a maior cena da sessão.
 
-Chegando na [[Central]] eles foram para a [[Central#Biblioteca Principal]] pesquisar sobre seus achados e tentar descobrir o que puderem para ir encontrar com o rei e explicar a situação. Eles descobriram pra quê servem os [[Wish Crystal|Wish Crystals]] que pegaram do [[Malgrim]], como usar eles, e descobriram a história "completa" (completa até agora, capaz de eu mudar algo depois) do [[Saevel Caiphine|Saevel]] e sua equipe, que eu tive que gerar o resto dela de improviso e ficou sendo o [[Saevel Caiphine|Saevel]], a [[Isao]], [[Aconite]] (ladino minotauro) e [[Taniara]] (bruxa humana).
+Chegando na [[Central]] eles foram para a [[Central#Biblioteca Principal]] pesquisar sobre seus achados e tentar descobrir o que puderem para ir encontrar com o [[Ironoa Semore|rei]] e explicar a situação. Eles descobriram pra quê servem os [[Wish Crystal|Wish Crystals]] que pegaram do [[Malgrim]], como usar eles, e descobriram a história "completa" (completa até agora, capaz de eu mudar algo depois) do [[Saevel Caiphine|Saevel]] e sua equipe, que eu tive que gerar o resto dela de improviso e ficou sendo o [[Saevel Caiphine|Saevel]], a [[Isao]], [[Aconite]] (ladino minotauro) e [[Taniara]] (bruxa humana).
 
-Eles pesquisaram sobre e isso e marcaram uma audiência com o [[secretário geral de Ampáfica]], já que falar com o [[rei]] não é só chegar assim. E só conseguiram isso tudo porque o [[Workhiz Pyke|Pyke]] é um nobre também.
+Eles pesquisaram sobre e isso e marcaram uma audiência com o [[secretário geral de Ampáfica|secretário geral de Ampáfica]], já que falar com o [[ironoa Semore|rei]] não é só chegar assim. E só conseguiram isso tudo porque o [[Workhiz Pyke|Pyke]] é um nobre também.
 
 Depois de marcada a audiência, ==foram para a [[Guilda de Aventureiros Gerais de Ampáfica]] e pegaram uma missão==, que eu improvisei na hora (e demorei pra caramba nisso) usando o Baralho de Aventuras, mas que provavelmente vou mudar um pouco pra próxima sessão.
 

@@ -44,6 +44,7 @@ extra_css:
   - assets/css/blockquote.css
   - assets/css/ul.css
   - assets/css/highlight.css
+  - assets/css/columns.css
 
 exclude_docs: |
   /.obsidian

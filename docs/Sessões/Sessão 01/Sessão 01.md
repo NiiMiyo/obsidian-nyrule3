@@ -76,7 +76,7 @@ Caso investiguem a [[Gruta de Sequestradores|gruta]] atrás de itens (Investiga�
 
 Os jogadores voltam para [[Sepell|a vila]] com os civis resgatados (assim espero) e vão cobrar a recompensa. [[Balthazar|O prefeito]] agradecerá pelo resgate dos civis e indica que os jogadores vão à biblioteca pesquisar sobre [[Malgrim]].
 
-A cidade de [[Sepell]] é conhecida por ser uma passagem comum para os aventureiros e viajantes que passam para o [[Reino da Água]]. Podem encontrar um livro sobre [[Malgrim]] (Investigação 20, +10 se conseguirem convencer a [[Riki|bibliotecária]] ocupada à ajudá-los (Diplomacia 20)).
+A cidade de [[Sepell]] é conhecida por ser uma passagem comum para os aventureiros e viajantes que passam para o [[Corallium]]. Podem encontrar um livro sobre [[Malgrim]] (Investigação 20, +10 se conseguirem convencer a [[Riki|bibliotecária]] ocupada à ajudá-los (Diplomacia 20)).
 
 ### Anexo
 [[Bandido (T20)|Ficha de Ameaça - Bandido (ND 1/4)]]

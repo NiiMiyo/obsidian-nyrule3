@@ -2,7 +2,7 @@
 tags:
   - Lugar/Cidade
 ---
-Uma pequena vila em [[Ampáfica]] nomeada em homenagem à seus fundadores, a [[família Plenaflorum]], que até os dias de hoje governa o local.
+Uma pequena vila em [[Ampáfica]] nomeada em homenagem à seus fundadores, a [[Família Plenaflorum]], que até os dias de hoje governa o local.
 
 A pequena vila possui uma economia quase autossuficiente, contando com algumas fazendas para produção de comida da vila e uma ajuda financeira do governo de [[Ampáfica]]. Apesar de ser uma comunidade pequena, a vila é bem suprida de recursos, contando com:
 
@@ -23,4 +23,4 @@ O pequeno sanatório da vila, para cuidar de doenças leves e pequenos ferimento
 Pequena igreja para [[Chloris, Deusa das Flores]].
 
 ### Mansão dos [[Família Plenaflorum|Plenaflorum]]
-A grande mansão da [[família Plenaflorum]]. Um pequeno castelo de pedra decorado com plantas e flores e um grande jardim na entrada.
+A grande mansão da [[Família Plenaflorum]]. Um pequeno castelo de pedra decorado com plantas e flores e um grande jardim na entrada.

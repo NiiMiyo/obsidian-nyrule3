@@ -2,7 +2,7 @@
 tags:
   - Lugar/Cidade
 ---
-Uma vila portuária, famosa por servir de passagem para vários aventureiros e pela biblioteca local.
+Uma vila portuária, famosa pela biblioteca local e por servir de passagem para vários aventureiros que desejam ir para [[Corallium]].
 
 ## População
 O povo de Sepell é em sua maioria moreau de várias origens, com as mais comuns sendo os meio-gatos e meio-coelhos, porém nem todos são moreaus. Alguns habitantes que vem de fora se apaixonam pela calmaria e simplicidade da vida nessa comunidade e decidem morar por aqui também.

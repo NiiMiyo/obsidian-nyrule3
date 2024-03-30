@@ -20,7 +20,7 @@ Foi revivido como servo de [[Saevel Caiphine]] para que continue suas pesquisas 
 
 Malgrim foi capaz de encontrar uma brecha nas ordens de [[Saevel Caiphine|Saevel]] e pôde lançar **Marionete** em si mesmo para recobrar o controle do próprio corpo zumbificado sem que [[Saevel Caiphine|Saevel]] saiba. Mesmo assim, o controle adquirido é limitado à fala.
 
-No momento ele continua trabalhando em pesquisas para criar uma manifestação física da força da alma de um indivíduo. Malgrim está trabalhando em [[Castelo de Malgrim|sua antiga base]] pois deseja ser encontrado novamente por um grupo capaz de derrotá-lo, pois tudo que deseja no momento é a paz do Plano da Morte que tinha antes de ser revivido.
+No momento ele continua trabalhando em pesquisas para criar uma manifestação física da força da alma de um indivíduo. Malgrim está trabalhando em [[Castelo de Malgrim|sua antiga base]] pois deseja ser encontrado novamente por um grupo capaz de derrotá-lo, pois tudo que deseja no momento é a paz de [[Corpo, Mente e Alma#Morte|morrer]] que tinha antes de ser revivido.
 
 ## Aparência
 Um zumbi humano usando um manto negro. A maior parte do seu corpo possui carne podre, mas algumas partes possuem apenas o esqueleto, como sua mão esquerda e a maior parte do seu torso.
@@ -35,7 +35,7 @@ Morto-vivo Médio
 
 | PV                                             | Defesa | Deslocamento |
 | ---------------------------------------------- | ------ | ------------ |
-| <input type="number" min="0" value="0"/> / 110 | 24     | 9m           |
+| 110 | 24     | 9m           |
 
 ### Atributos e Perícias
 | Atributo     | Modificador | Perícias        | Valor |

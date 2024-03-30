@@ -6,7 +6,7 @@ A capital de [[Ampáfica]] e a maior cidade do mundo. A Central é a maior cidad
 
 ## Política
 
-Na Central é onde estão os governantes de [[Ampáfica]], a família Semore, em sua enorme mansão, que facilmente poderia ser confundida com um castelo, no topo do Distrito Real, a parte mais elevada da cidade.
+Na Central é onde estão os governantes de [[Ampáfica]], a [[família Semore]], em sua enorme mansão, que facilmente poderia ser confundida com um castelo, no topo do Distrito Real, a parte mais elevada da cidade.
 
 ## Locais de interesse
 ### [[Fonte Primordial]]

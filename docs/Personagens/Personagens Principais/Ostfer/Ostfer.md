@@ -4,9 +4,11 @@ aliases:
 tags:
   - Pessoa/Neutro
 ---
-Uma entidade espiritual misteriosa, sendo capaz de enxergar a presença de qualquer ser próximo dela, incluindo o próprio Observador.
+Uma entidade espiritual misteriosa, sendo capaz de enxergar a presença de qualquer ser próximo dela, incluindo o próprio [[O Observador]], que a deixa extremamente nervosa constantemente e ainda está procurando um lugar em que possa conversar com alguém sem a presença dele.
 
-Ostfer na verdade é uma viajante dimensional. Sua dimensão inicial evoluiu tecnologicamente o suficiente para que consiga usar tecnologia pra projetar sua consciência em outros [[Planos]]. Seu nome real é Amdiela, mas ela prefere esconder seu nome, então sempre se apresenta como Ostfer.
+Ostfer na verdade é uma viajante planetária. Seu planeta evoluiu tecnologicamente o suficiente para que consiga usar tecnologia pra projetar sua consciência em outros lugares do [[Plano Material]]. Seu nome real é Amdiela, mas ela prefere esconder seu nome, então sempre se apresenta como Ostfer.
+
+Por ser uma criatura de outro planeta que está em [[Nyrule]] tem dificuldade em entender com precisão os jeitos e pensamentos das pessoas, mesmo já estando aqui há mais de seis mil anos. Isso faz com que muitas pessoas entendam suas ações como egoístas, por estar sempre usando os outros para conseguir seus objetivos, mesmo que estes sempre sejam morais e sempre para o melhor de [[Nyrule]].
 
 ## Aparência
 _&ast;Não conseguir gerar em IA do jeito que eu queria&ast;_
