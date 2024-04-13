@@ -17,7 +17,7 @@ Pra essa sessão eu tô pensando em como eles vão conseguir o dinheiro, e minha
 ## Planejamento
 Ao chegar no seu acampamento para dormir, [[Ostfer]] irá aparecer flutuando de cabeça para baixo (porque por que não?) e os parabenizará por terem conseguido um ótimo cristal e irá pedir pra ver os cristais. Ao tocar em um deles de curiosidade irá causar um breve clarão de luz vermelha. Então o cristal ficará cinza e deixará de se mover. Pelos próximos dias eles sentirão um desconforto similar ao desconforto ao segurar o [[Cristal de Tormenta]], porém em todo o corpo e em grau bem menor. O desconforto varia a cada dia, mas num geral vai aumentando um pouco até eles chegarem nas [[Castelo de Malgrim|ruínas do castelo de Malgrim]], onde o desconforto some imediatamente e sem explicação.
 
-Depois disso ela falará com eles sobre a questão do dinheiro para o joalheiro. Ela vai dar a opção de assaltarem um acampamento de bandidos, que é um dos postos avançados do [[bando de Oxford]].
+Depois disso ela falará com eles sobre a questão do dinheiro para o joalheiro. Ela vai dar a opção de assaltarem um acampamento de bandidos, que é um dos postos avançados do [[Touros Negros de Oxford|bando de Oxford]].
 
 Essa sessão não tem muito o que fazer além de improvisar. Já que eu não sei bem o que eles vão fazer a melhor preparação que posso fazer é preparar o acampamento do [[Oxford]].
 

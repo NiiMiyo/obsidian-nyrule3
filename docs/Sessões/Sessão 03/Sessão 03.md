@@ -31,7 +31,7 @@ Pra essa cena eu não quero que a [[Ostfer]] apareça em momento nenhum, apesar 
 Eu pensei em colocar eles encontrando o [[Crowhey Semore|Crowhey]] por aqui, mas com a equipe lascada não fica muito legal, já que eles tem que gastar dinheiro com as poções. [[Crowhey Semore|Crowhey]] ficará para um futuro próximo.
 
 ### Cena 2 - Na cidade
-Eu vou torcer pra eles irem pra [[Plenaflorum]]. Há algumas semanas a vila foi saqueada pelo [[bando de Oxford]], que não matou ninguém mas saqueou boa parte da cidade e por conta disso todos estão preocupados se acontecerá de novo. Eles podem conversar com os vilões para descobrir sobre o saque e tentar falar com a [[Família Plenaflorum]].
+Eu vou torcer pra eles irem pra [[Plenaflorum]]. Há algumas semanas a vila foi saqueada pelo [[Touros Negros de Oxford|bando de Oxford]], que não matou ninguém mas saqueou boa parte da cidade e por conta disso todos estão preocupados se acontecerá de novo. Eles podem conversar com os vilões para descobrir sobre o saque e tentar falar com a [[Família Plenaflorum]].
 
 ## Acontecimentos
 ### Cena 1 - [[Castelo de Malgrim]]

@@ -7,7 +7,7 @@ Um sulfure que nunca teve muitas oportunidades na vida, nem teve com quem contar
 
 Aos 17 anos [[Spinoff 01#História|a voz o disse que ele deveria ir para a Central]] ele obedeceu sem hesitar. Lá encontrou com [[Edan]] e [[Sett]], que também eram capazes de ouvir a voz, e juntos roubaram a [[Espada de Força Solar]] da [[Central/Igreja de Azgher]].
 
-A voz era [[Ostfer]], com um plano desconhecido para guardar [[Espada de Força Solar|a espada]] em um lugar seguro. Por ter sido usado por ela e estar completamente sozinho agora, Edan uniu forças com [[Oxford]] e se juntou à seu bando. Atualmente, 30 anos após o incidente com a espada, Edan trabalha como conselheiro de [[Oxford]], que agora é o líder do bando.
+A voz era [[Ostfer]], com um plano desconhecido para guardar [[Espada de Força Solar|a espada]] em um lugar seguro. Por ter sido usado por ela e estar completamente sozinho agora, Edan uniu forças com [[Oxford]] e se juntou à seu [[Touros Negros de Oxford|bando]]. Atualmente, 30 anos após o incidente com a espada, Edan trabalha como conselheiro de [[Oxford]], que agora é o líder do [[Touros Negros de Oxford|bando]].
 
 ## Ficha de Ameaça (Nível 13)
 Espírito Médio
@@ -82,13 +82,8 @@ Quando escala, não fica desprevenido e avança seu deslocamento normal.
 - [Aviso (p. 182)](https://eduardomarques.pythonanywhere.com/26/). Envia um alerta telepático para uma criatura.
 - [Criar Ilusão (p. 189)](https://eduardomarques.pythonanywhere.com/63/). Cria uma ilusão visual ou sonora.
 - [Escuridão (p. 193)](https://eduardomarques.pythonanywhere.com/85/). Objeto emana uma área de escuridão.
-- [Nuvem Tempestuosa (DB 182)](https://eduardomarques.pythonanywhere.com/227/). Você cria uma nuvem espessa carregada com eletricidade.
 - [Tranca Arcana (p. 209)](https://eduardomarques.pythonanywhere.com/186/). Tranca um item que possa ser aberto ou fechado.
 - [Vitalidade Fantasma (p. 211)](https://eduardomarques.pythonanywhere.com/197/). Você recebe pontos de vida temporários.
-
-#### Magia Ampliada (Aprimoramento +2 PM)
-Aumenta o alcance da magia em um passo (de curto para médio, de médio para longo) ou dobra
-a área de efeito da magia. Por exemplo, uma Bola de Fogo ampliada tem seu alcance aumentado para longo ou sua área aumentada para 12m de raio.
 
 #### Olhos nas Costas
 Você não pode ser flanqueado.
