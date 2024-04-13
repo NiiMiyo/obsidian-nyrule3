@@ -14,3 +14,6 @@ Está viajando com a companhia de [[Amna]], uma qareen que conheceu durante o ca
 
 ## Galeria
 ![[vectra-fullbody.jpg]]
+
+## Manuscrito antigo
+O manuscrito encontrado por Vectra diz respeito à magia uma magia antiga que só pode ser conjurada pelos maiores arcanistas que existem, conhecida entre estes apenas como "[Desejo](https://eduardomarques.pythonanywhere.com/67/)", uma magia capaz de desafiar as leis naturais do universo e vencer até mesmo a [[Corpo, Mente e Alma#Morte|Morte]].

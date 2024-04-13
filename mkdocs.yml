@@ -45,6 +45,7 @@ extra_css:
   - assets/css/ul.css
   - assets/css/highlight.css
   - assets/css/columns.css
+  - assets/css/figure.css
 
 exclude_docs: |
   /.obsidian

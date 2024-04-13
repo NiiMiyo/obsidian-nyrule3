@@ -7,11 +7,7 @@ aliases:
 ---
 Nyrule é um mundo de alta fantasia medieval, repleto de magia, arcanistas, guerreiros, fadas, monstros e muito mais. É inspirado em Arton, o cenário oficial de [Tormenta 20](https://site.jamboeditora.com.br/tormenta20/), mas com sua própria história e origem.
 
-![[nyrule-map-general.png|Mapa geral de Nyrule]]
-
-![[nyrule-map-politic.png|Mapa político de Nyrule]]
-
-Conforme a história avança o mapa também vai se modificando.
+![[nyrule-map.png|Mapa de Nyrule.<br/>Cada hexágono representa 36km (8h de viagem à pé)]]
 
 ### Geo-Política
 No centro de Nyrule temos [[Ampáfica]], um reino de humanos fundado há séculos atrás pela [[família Semore]]. Sua capital, a [[Central]], é a maior cidade do continente.
