@@ -36,3 +36,10 @@ Ao chegar no acampamento o grupo se encontra com dois meio-orcs capanga (Ameaça
 Ao chegarem serão interrogados na guilda em uma sala especial sob o efeito de [Círculo da Justiça](https://eduardomarques.pythonanywhere.com/37). Para ganharem a recompensa completa pela missão (T$ 2000) devem recuperar tudo o que foi roubado. Caso falhem em recuperar tudo (ou pelo menos a maior parte), devem responder ao interrogatório e convencer os interrogadores que desvendaram o que aconteceu para receberem metade da recompensa. Se falharem completamente não receberão nada.
 
 ### Respostas do Rei
+Após cinco dias a resposta do rei chegará na guilda.
+
+> Agradecemos a preocupação e o aviso. A partir daqui o reino de [[Ampáfica]] tomará as medidas cabíveis. Já despachamos uma equipe de busca e investigação para podermos descobrir mais informações sobre esse evento. Uma pequena recompensa pela sua ajuda e esforços.
+>
+> &dash; [[Ironoa Semore]]
+
+Junto da mensagem o secretário da [[guilda]] os dará T$ 250.
