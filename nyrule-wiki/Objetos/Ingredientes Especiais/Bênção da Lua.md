@@ -1,3 +1,7 @@
+---
+tags:
+  - Item/Mágico
+---
 A Bênção da Lua é uma flor branca e levemente brilhante com propriedades de cura quase que milagrosas. Acredita-se que é um presente de [[Lena, Deusa da Vida]].
 
 A flor cresce em uma árvore especial que, à primeira vista, não se diferencia de nenhuma outra árvore nem possui nenhum tipo de fruto. Entretanto, apenas durante a última semana do ano, essas flores surgem durante a noite, iluminando a árvore com seu brilho.

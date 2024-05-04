@@ -1,6 +1,6 @@
 site_name: Nyrule Wiki
 
-docs_dir: docs
+docs_dir: nyrule-wiki
 
 theme:
   name: material
