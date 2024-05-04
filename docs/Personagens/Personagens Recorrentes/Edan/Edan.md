@@ -3,9 +3,9 @@ tags:
   - Pessoa/Neutro
 ---
 ## Backstory
-Um sulfure que nunca teve muitas oportunidades na vida, nem teve com quem contar, [[Spinoff 01#Contexto|exceto pela voz]] na sua cabeça que sempre dizia quais escolhas ele deveria tomar na vida. A voz era sua única amiga, apesar de não responder quando ele a chamava, era a única que estava ali com ele nos momentos difíceis da vida.
+Um sulfure que nunca teve muitas oportunidades na vida, nem teve com quem contar, [[Spinoff 01 - Espada de Força Solar#Contexto|exceto pela voz]] na sua cabeça que sempre dizia quais escolhas ele deveria tomar na vida. A voz era sua única amiga, apesar de não responder quando ele a chamava, era a única que estava ali com ele nos momentos difíceis da vida.
 
-Aos 17 anos [[Spinoff 01#História|a voz o disse que ele deveria ir para a Central]] ele obedeceu sem hesitar. Lá encontrou com [[Edan]] e [[Sett]], que também eram capazes de ouvir a voz, e juntos roubaram a [[Espada de Força Solar]] da [[Central/Igreja de Azgher]].
+Aos 17 anos [[Spinoff 01 - Espada de Força Solar#História|a voz o disse que ele deveria ir para a Central]] ele obedeceu sem hesitar. Lá encontrou com [[Edan]] e [[Sett]], que também eram capazes de ouvir a voz, e juntos roubaram a [[Espada de Força Solar]] da [[Igreja de Azgher]].
 
 A voz era [[Ostfer]], com um plano desconhecido para guardar [[Espada de Força Solar|a espada]] em um lugar seguro. Por ter sido usado por ela e estar completamente sozinho agora, Edan uniu forças com [[Oxford]] e se juntou à seu [[Touros Negros de Oxford|bando]]. Atualmente, 30 anos após o incidente com a espada, Edan trabalha como conselheiro de [[Oxford]], que agora é o líder do [[Touros Negros de Oxford|bando]].
 

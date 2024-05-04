@@ -5,7 +5,7 @@ tags:
 ## Backstory
 Um minotauro bruto e forte. Costuma ser compreensível, mas tem pavio curto para lidar com pessoas chatas ou particularmente irritantes.
 
-Quando jovem ouvia uma voz na sua cabeça que sempre o dizia quais escolhas certas fazer para sempre se dar bem na vida. Fazia parte de uma [[Touros Negros|gangue de bandidos]] desde jovem e aos 17 anos [[Spinoff 01#História|a voz o disse que ele deveria ir para a Central]], onde roubou a [[Espada de Força Solar]] da [[Igreja de Azgher]], com a ajuda de [[Edan]] e [[Sett]], que também eram capazes de ouvir a voz.
+Quando jovem ouvia uma voz na sua cabeça que sempre o dizia quais escolhas certas fazer para sempre se dar bem na vida. Fazia parte de uma [[Touros Negros|gangue de bandidos]] desde jovem e aos 17 anos [[Spinoff 01 - Espada de Força Solar#História|a voz o disse que ele deveria ir para a Central]], onde roubou a [[Espada de Força Solar]] da [[Igreja de Azgher]], com a ajuda de [[Edan]] e [[Sett]], que também eram capazes de ouvir a voz.
 
 A voz era [[Ostfer]], com um plano desconhecido para guardar [[Espada de Força Solar|a espada]] em um lugar seguro. Por ter sido usado por ela, acabou começando a detestá-la e apenas em vê-la é capaz de entrar em fúria completa. Hoje é o líder do [[Touros Negros de Oxford|grupo de bandidos]] que participava e tem [[Edan]] como concelheiro.
 

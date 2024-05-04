@@ -1,5 +1,7 @@
 site_name: Nyrule Wiki
 
+docs_dir: docs
+
 theme:
   name: material
   features:
@@ -7,6 +9,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.path
+    - content.tooltips
 
   palette:
     - scheme: default

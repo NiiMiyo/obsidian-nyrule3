@@ -43,9 +43,13 @@ def get_wikilink_replacement(origin: File, destination_uri: str, text: str | Non
 	if destination_file is not None:
 		destination_uri = destination_file.src_uri
 		href = relpath(destination_uri, origin.src_uri + '/..').replace('\\', '/') + parse_anchor(anchor)
+		tooltip, _ = splitext(split(destination_uri)[1])
+		if anchor:
+			tooltip += f" > {anchor[1:]}"
 
 	else:
 		href = destination_uri
+		tooltip = None
 
 	if not text:
 		if anchor is not None:
@@ -57,7 +61,12 @@ def get_wikilink_replacement(origin: File, destination_uri: str, text: str | Non
 		elif destination_file.is_documentation_page():
 			text, _ = splitext( split(destination_file.src_uri)[1] )
 
-	return f"[{text or ""}]({href})"
+	if tooltip is None or (text and tooltip.lower() == text.lower()):
+		tooltip = ""
+	else:
+		tooltip = f" \"{tooltip}\""
+
+	return f"[{text or ""}]({href}{tooltip})"
 
 def remove_anchor(filepath: str) -> tuple[str, str | None]:
 	anchor_start = filepath.find("#")
