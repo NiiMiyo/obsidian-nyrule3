@@ -1,8 +1,10 @@
 ---
 aliases:
   - Amdiela
+  - Deusa da Sabedoria Amorosa
 tags:
   - Pessoa/Neutro
+  - Deus/Deus-menor
 ---
 Uma entidade espiritual misteriosa, sendo capaz de enxergar a presença de qualquer ser próximo dela, incluindo o próprio [[O Observador]], que a deixa extremamente nervosa constantemente e ainda está procurando um lugar em que possa conversar com alguém sem a presença dele.
 

@@ -5,17 +5,13 @@ aliases:
   - nyruleano
   - nyruleana
 ---
-Nyrule é um mundo de alta fantasia medieval, repleto de magia, arcanistas, guerreiros, fadas, monstros e muito mais. É inspirado em Arton, o cenário oficial de [Tormenta 20](https://site.jamboeditora.com.br/tormenta20/), mas com sua própria história e origem.
+Nyrule é um mundo de alta fantasia medieval, repleto de magia, arcanistas, guerreiros, fadas, monstros e muito mais.
 
 ![[nyrule-map.png|Mapa de Nyrule.<br/>Cada hexágono representa 36km (8h de viagem à pé)]]
 
 ### Geo-Política
-No centro de Nyrule temos [[Ampáfica]], um reino de humanos fundado há séculos atrás pela [[família Semore]]. Sua capital, a [[Central]], é a maior cidade do continente.
+No centro de Nyrule existe o grande continente em formato de X, chamado [[Pah'Monia]]. Contando com a maior potência militar do mundo, a [[Ampáfica|Grande Ampáfica]].
 
-Ao noroeste temos [[Elenya]], com a capital sendo [[Nairi Disfrada]]. Como o nome implica, sua população é majoritariamente élfica, mas também possuem outras raças em menor quantidade, como dahllans e moreaus. Eles são bem cuidadosos com estranhos, mas confiam em amigos mesmo que de raças diferentes.
+À oeste se encontra [[Edrarius]], um continente intensamente populado por florestas densas, pântanos estranhos e criaturas piores ainda.
 
-Ao sudoeste temos os Grandes Espinhos, uma enorme cadeia de montanhas. Dentro dessas montanhas está [[Beradhrim]], um sistema de túneis e cavernas criado pelos anões.
-
-Ao nordeste temos [[Thar'zul]], um enorme deserto. No centro desse deserto está [[Ácira]], uma cidade de minotauros e goblins ao redor de um enorme oásis.
-
-Ao sul temos o [[Corallium]], um reino submerso e cercado por terra, exceto por um canal onde alguns barcos podem atracar.
+Ao sul temos o pequeno reino de [[Corallium]], um reino submerso cercado por montanhas, exceto por um canal onde alguns barcos podem atracar.

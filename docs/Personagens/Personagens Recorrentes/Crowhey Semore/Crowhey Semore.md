@@ -21,7 +21,7 @@ Quando descobriu como as coisas funcionavam em [[Ampáfica]], a frieza dos gover
 Sabendo que era incapaz de lutar contra todo um império por si só, Crowhey decidiu fugir de [[Ampáfica]] e prometeu que se um dia voltasse seria para destruí-la. Desde então ele jamais se apresenta como um [[Família Semore|Semore]] e nunca diz seu sobrenome à ninguém.
 
 ## Atualmente
-Crowhey agora vive sua vida como um alquimista viajante, andando por toda [[Nyrule]] vendendo suas poções para os que encontra. Ele evita cidades e grandes manifestações, então quando encontra alguém enquanto anda aleatoriamente nos ermos e estradas desertas acredita que não se trata de uma coincidência, mas do destino agindo. Muitas vezes precisa entregar um de seus [[Apoçãotrar o Crowhey]], esperando que a pessoa use quando precisar e, até agora, todas usam mais cedo ou mais tarde.
+Crowhey agora vive sua vida como um alquimista viajante, andando por toda [[Pah'Monia]] vendendo suas poções para os que encontra. Ele evita cidades e grandes manifestações, então quando encontra alguém enquanto anda aleatoriamente nos ermos e estradas desertas acredita que não se trata de uma coincidência, mas do destino agindo. Muitas vezes precisa entregar um de seus [[Apoçãotrar o Crowhey]], esperando que a pessoa use quando precisar e, até agora, todas usam mais cedo ou mais tarde.
 
 ## Aparência
 Um humano branco e ruivo usando uma roupa de viajante com um cinto com frascos de poção, geralmente com um sorriso feliz.
