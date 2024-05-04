@@ -25,7 +25,7 @@ Para procurar e descobrir o que aconteceu com o carregamento o grupo deve encont
 
 ![[rastros.png|Rastros deixados pelos bandidos]]
 
-Após algum tempo de viagem seguindo os rastros (ou caso falhem) o grupo será atacado das sombras das árvores por [[Edan]], que estava rastreando [[Amna]] e [[Vectra]] por terem [[Sessão 02.2.md#Cena 3 - Ação|destruído um acampamento e matado membros]] dos [[Touros Negros de Oxford]]. Caso consigam (milagrosamente) convencê-lo, [[Edan]] pode ajudá-los à rastrear o carregamento.
+Na viagem de volta (ou de ida, caso não consigam seguir os rastros) o grupo será atacado das sombras das árvores por [[Edan]], que estava rastreando [[Amna]] e [[Vectra]] por terem [[Sessão 02.2.md#Cena 3 - Ação|destruído um acampamento e matado membros]] dos [[Touros Negros de Oxford]]. Caso consigam pacificá-lo, [[Edan]] pode ajudá-los ou perdoá-los, mas isso não será uma tarefa fácil.
 
 ### Acampamento dos bandidos
 Caso encontrem, o acampamento dos bandidos está em uma pequena clareira. Com alguns caixotes usados como bancos ao redor de uma fogueira, junto de três sacos de dormir e outras caixas com os materiais roubados, que os bandidos ainda não descobriram onde podem vender sem levantarem grandes suspeitas. Se saquearem o acampamento encontrarão T$ 205 e um bálsamo restaurador, além dos minerais roubados.
