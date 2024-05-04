@@ -10,9 +10,26 @@ Nossos jogadores serão estudantes de uma escola de magia e alquimia e, como pro
 
 O teste consiste em encontrar e alcançar a árvore da [[Bênção da Lua]] que existe próxima da escola. Após isso devem fabricar um Bálsamo de Drogadora (custando T$ 20 para fabricar) usando a flor e outros ingredientes que encontrarem na floresta, extraindo de animais (Ameaças de Arton, p. 401) ou encontrando na natureza (Sobrevivência CD 20 para encontrar 1 ingrediente iniciante + 1 para cada 10 que o resultado passar a CD do teste, a busca dura 3 horas; ver Ameaças de Arton p. 401).
 
-Antes de saírem para a prova cada estudante recebe uma pulseira mágica que quando usada por qualquer integrante do grupo todos retornam para a escola. Se o grupo retornar sem o item fabricado estão desclassificados.
+Antes de saírem para a prova ==cada estudante recebe uma pulseira mágica== que quando usada por qualquer integrante do grupo todos retornam para a escola. Se o grupo retornar sem o item fabricado estão desclassificados.
 
-Para encontrar a árvore os jogadores devem fazer testes de Sobrevivência (CD 20) e acumular 3 sucessos. Quando falham têm um encontro aleatório. Se falharem por 10 ou mais perdem um sucesso (se possuírem). Cada teste consome 4 horas do tempo do grupo.
+Para os propósitos dessa sessão, ==fabricar um item simples dura 2 horas==.
+
+#### Progressão
+Para encontrar a árvore os jogadores devem fazer testes de ==Sobrevivência (CD 20) e acumular 4 sucessos==. Cada teste consome 4 horas do tempo do grupo. Sempre que fazem um teste, algum evento acontece.
+
+Quando falham têm um encontro aleatório e, se falharem por 10 ou mais, perdem um sucesso (se possuírem). Quando têm um sucesso um evento de progressão ocorre. Se obtiverem um sucesso para um evento que já ocorreu, em vez disso eles têm um encontro aleatório.
+
+##### 1º Sucesso - Tropa de Tentacutes (ND 2, p. 195)
+A tropa faz um teste de ladinagem (+10) oposto por reflexos de cada membro do grupo e roubam o bracelete de qualquer um que falhar. Os membros podem ignorá-los ou tentar correr atrás deles e pegar de volta as pulseiras.
+
+##### 2º Sucesso - Grupo em perigo
+Os jogadores encontram uma clareira com um outro grupo de quatro estudantes. Eles estão feridos e acabaram de enfrentar um combate contra um urso. Se os jogadores ajudarem com 4 bálsamos restauradores eles darão dicas de como encontrar a árvore, fornecendo +3 nos próximos testes de progressão.
+
+##### 3º Sucesso - Dragão Filhote do Bosque (ND 3, p.64)
+O grupo se depara com um dragão filhote! Um pequeno dragão filhote percebe o grupo viajando pelo bosque e decide atacar. Cada jogador faz um teste de percepção contra furtividade do dragão (+7) e aqueles que falharem são surpreendidos.
+
+##### 4º Sucesso - Árvore da [[Bênção da Lua]]
+O grupo encontra com sucesso a árvore. Se estiverem no quarto ou quinto dia também encontram outros grupos de estudantes ao redor da árvore, esperando (caso de dia) ou trabalhando nos seus próprios alquímicos (caso de noite).
 
 #### Regras da prova
 1. A prova é feita em grupos de até 5 integrantes;
@@ -32,7 +49,7 @@ Os jogadores vão fazer testes de sobrevivência para poder encontrar materiais 
 #### 2) Grupo de estudantes
 Os membros podem encontrar um grupo de outros estudantes. Role 1d2+3 para a quantidade de participantes do grupo. Os grupos são pacíficos e gentis, mas podem se tornar hostis se incomodados por alguma coisa. Role 1d3:
 
-1. **Perdidos.** O grupo está perdido e não faz ideia de aonde ir. Os jogadores podem ajudá-los ou não.
+1. **Perdidos.** O grupo está perdido e não faz ideia de aonde ir. Os jogadores podem ajudá-los e eles podem recompensá-los com itens básicos.
 2. **Conversando.** O grupo está conversando sobre um assunto bobo enquanto acampam, como o que estão comendo ou como foi a noite.
 3. **Viajando.** O grupo está viajando em direção à árvore e pode ajudar os jogadores.
 
@@ -60,5 +77,5 @@ Glops começam a cair dos topos das árvores na cabeça dos estudantes.
 #### 7) 2d4+3 Gali-gali (ND 1/4, p. 247)
 Criaturinhas sacanas que chegam atacando tudo que vêem.
 
-#### 8) Tropa de Tentacutes (ND 2, p. 195)
-A tropa faz um teste de ladinagem (+10) oposto por reflexos de cada membro do grupo e roubam o bracelete de qualquer um que falhar. Os membros podem ignorá-los ou tentar correr atrás deles e pegar de volta as pulseiras.
+#### 8) Terrier (ND 1, p. 97)
+Um pequeno amontoado de pedras aleatório na frente do grupo se junta no formato de um cachorro. O comportamento do Terrier é imprevisível, podendo atacar ou não o grupo.
