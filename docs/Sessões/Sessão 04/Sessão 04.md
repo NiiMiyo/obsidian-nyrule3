@@ -11,7 +11,7 @@ Tudo que eles sabem dessa missão é que uma carroça desapareceu no caminho de 
 Minha ideia inicial era que uma gangue de bandidos tenha roubado uma mercadoria de minérios e pedras preciosas que ia para [[Eldenhaven]]. Essa gangue pode ter sido o [[Touros Negros de Oxford|bando de Oxford]], mas podem ser outras pessoas também. Uma gangue rival quem sabe?
 
 ## Acontecimentos da missão
-Os [[Touros Negros]] interceptaram um carregamento de metais preciosos comprados por [[Eldenhaven]] para produzir armas, armaduras e vender o excesso. Um feiticeiro do bando usou a magia [Nuvem Tempestuosa](https://eduardomarques.pythonanywhere.com/227) (com Magia Ampliada) para interceptar a carruagem e ocultar o que aconteceu.
+Um grupo novato de bandidos interceptaram um carregamento de metais preciosos que iam de [[Korahim]] para [[Eldenhaven]] para poderem vender e obter enormes lucros com apenas uma jogada. Um feiticeiro do bando usou a magia [Nuvem Tempestuosa](https://eduardomarques.pythonanywhere.com/227) (com Magia Ampliada) para interceptar a carruagem e ocultar o que aconteceu.
 
 ![[local.png|Caminho percorrido pelo carregamento]]
 
@@ -25,4 +25,14 @@ Para procurar e descobrir o que aconteceu com o carregamento o grupo deve encont
 
 ![[rastros.png|Rastros deixados pelos bandidos]]
 
-Caso o grupo falhe em encontrar os rastros eles devem esperar algum tempo e então serão atacados por [[Edan]], que estava rastreando [[Amna]] e [[Vectra]] por terem destruído e matado membros dos [[Touros Negros de Oxford]] ([[Sessão 02.2.md#Cena 3 - Ação|Sessão 02.2]]). Caso consigam convencê-lo, [[Edan]] pode ajudá-los à encontrar os [[Touros Negros]] rastreando-os.
+Após algum tempo de viagem seguindo os rastros (ou caso falhem) o grupo será atacado das sombras das árvores por [[Edan]], que estava rastreando [[Amna]] e [[Vectra]] por terem [[Sessão 02.2.md#Cena 3 - Ação|destruído um acampamento e matado membros]] dos [[Touros Negros de Oxford]]. Caso consigam (milagrosamente) convencê-lo, [[Edan]] pode ajudá-los à rastrear o carregamento.
+
+### Acampamento dos bandidos
+Caso encontrem, o acampamento dos bandidos está em uma pequena clareira. Com alguns caixotes usados como bancos ao redor de uma fogueira, junto de três sacos de dormir e outras caixas com os materiais roubados, que os bandidos ainda não descobriram onde podem vender sem levantarem grandes suspeitas. Se saquearem o acampamento encontrarão T$ 205 e um bálsamo restaurador, além dos minerais roubados.
+
+Ao chegar no acampamento o grupo se encontra com dois meio-orcs capanga (Ameaças de Arton p.31) e um [[Bandido Feiticeiro]].
+
+### Completando a missão
+Ao chegarem serão interrogados na guilda em uma sala especial sob o efeito de [Círculo da Justiça](https://eduardomarques.pythonanywhere.com/37). Para ganharem a recompensa completa pela missão (T$ 2000) devem recuperar tudo o que foi roubado. Caso falhem em recuperar tudo (ou pelo menos a maior parte), devem responder ao interrogatório e convencer os interrogadores que desvendaram o que aconteceu para receberem metade da recompensa. Se falharem completamente não receberão nada.
+
+### Respostas do Rei

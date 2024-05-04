@@ -27,9 +27,9 @@ No seu aniversário de 18 anos sua irmã desaparece misteriosamente e agora Lyra
 - **[[Alaric|Rei Alaric]]**
 	- Governante da cidade de [[Eldenhaven]].
 - **[[Desirebane, o Devorador de Desejos]]**
-	- Uma criatura de energia negativa ganhando força, tentando libertar-se do mundo dos desejos. Alimentava-se da pureza dos desejos, transformando-os em pesadelos.
-	- Essa criatura se originara da energia negativa acumulada durante milênios, crescendo em força até ganhar espaço no mundo dos desejos, rivalizando com [[Dreamish]].
-		- [[Desirebane, o Devorador de Desejos|Desirebane]] nunca conseguiu derrotá-lo, mas seu desejo insaciável por poder o impelia a dominar o mundo dos desejos e propagar o caos.
+	- Uma criatura de energia negativa ganhando força, tentando libertar-se do [[Wishrealm, o Mundo dos Desejos|mundo dos desejos]]. Alimentava-se da pureza dos desejos, transformando-os em pesadelos.
+	- Essa criatura se originara da energia negativa acumulada durante milênios, crescendo em força até ganhar espaço no [[Wishrealm, o Mundo dos Desejos|mundo dos desejos]], rivalizando com [[Dreamish]].
+		- [[Desirebane, o Devorador de Desejos|Desirebane]] nunca conseguiu derrotá-lo, mas seu desejo insaciável por poder o impelia a dominar o [[Wishrealm, o Mundo dos Desejos|mundo dos desejos]] e propagar o caos.
 - **[[Dreamish]]**
 	- A entidade feita de energia positiva que protegia o reino dos desejos.
 - **???**
@@ -45,7 +45,7 @@ No seu aniversário de 18 anos sua irmã desaparece misteriosamente e agora Lyra
 ### Coisas
 - **[[Starwishing|Starwishing/Starwish]]**
 	- Portadores de um dom ancestral: a capacidade de controlar a energia dos desejos.
-	- Um portador do poder dos desejos que surge periodicamente para combater as ameaças externas que tentavam invadir o mundo dos desejos e libertar seu mestre de sua prisão.
+	- Um portador do poder dos desejos que surge periodicamente para combater as ameaças externas que tentavam invadir o [[Wishrealm, o Mundo dos Desejos|mundo dos desejos]] e libertar seu mestre de sua prisão.
 - **[[Desírios]]**
 	Grupo cujo objetivo é liberar o poder do [[Desirebane, o Devorador de Desejos|Desirebane]]. São responsáveis pela morte de [[Elysia Windsong|Elysia]] e [[Lysander Windsong|Lysander Windsong]] e por destruir e incendiar a mansão dos [[Família Windsong|Windsong]] em [[Eldenhaven]].
 - **[[Wish Crystal]]**

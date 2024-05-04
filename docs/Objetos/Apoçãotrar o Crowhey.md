@@ -3,8 +3,8 @@ tags:
   - Item/Mágico
 ---
 | Espaços | Preço |
-| --- | --- |
-| 0,5 | T$ 20 |
+| ------- | ----- |
+| 0,5     | T$ 20 |
 
 Uma poção que só pode ser fabricada pelo [[Crowhey Semore]].
 
