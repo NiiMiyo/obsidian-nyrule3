@@ -6,7 +6,7 @@ from mkdocs.structure.pages import Page
 from mkdocs.structure.files import Files, File
 from mkdocs.config.defaults import MkDocsConfig
 
-WIKILINK_PATTERN = regex.compile(r"\[\[([^\]|]+)(?:\|([^\]]*))?\]\]")
+WIKILINK_PATTERN = regex.compile(r"!?\[\[([^\]|]+)(?:\|([^\]]*))?\]\]")
 
 available_files: Files = None # type: ignore - will be initialized later
 
@@ -27,14 +27,16 @@ def on_page_markdown(markdown: str, *, page: Page, **_):
 		start, end = match.start(0), match.end(0)
 		filename, text = match.group(1), match.group(2)
 
-		replacement = get_wikilink_replacement(page.file, filename, text)
+		is_image = markdown[start] == "!"
+
+		replacement = (is_image and "!" or "") + get_wikilink_replacement(page.file, filename, text, is_image)
 		markdown = markdown[:start] + replacement + markdown[end:]
 		wikilink_matches = WIKILINK_PATTERN.finditer(markdown)
 
 	return markdown
 
 
-def get_wikilink_replacement(origin: File, destination_uri: str, text: str | None) -> str:
+def get_wikilink_replacement(origin: File, destination_uri: str, text: str | None, is_image: bool) -> str:
 	global available_files
 
 	destination_uri, anchor = remove_anchor(destination_uri)
@@ -61,7 +63,7 @@ def get_wikilink_replacement(origin: File, destination_uri: str, text: str | Non
 		elif destination_file.is_documentation_page():
 			text, _ = splitext( split(destination_file.src_uri)[1] )
 
-	if tooltip is None or (text and tooltip.lower() == text.lower()):
+	if tooltip is None or is_image or (text and tooltip.lower() == text.lower()):
 		tooltip = ""
 	else:
 		tooltip = f" \"{tooltip}\""
