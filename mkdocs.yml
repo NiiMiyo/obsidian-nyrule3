@@ -58,6 +58,6 @@ plugins:
   - search
 
 hooks:
-  - hooks/make_index.py
-  - hooks/add_title.py
-  - hooks/obsidian_links.py
+  - mkdocs-hooks/make_index.py
+  - mkdocs-hooks/add_title.py
+  - mkdocs-hooks/obsidian_links.py

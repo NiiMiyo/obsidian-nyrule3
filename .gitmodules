@@ -1,0 +1,3 @@
+[submodule "hooks"]
+	path = mkdocs-hooks
+	url = https://github.com/NiiMiyo/mkdocs-hooks.git
