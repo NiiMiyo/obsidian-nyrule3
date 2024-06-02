@@ -1,6 +1,7 @@
 ---
 aliases:
   - Plano
+  - Espaço Entre os Planos
 tags:
   - Worldbuilding
 ---

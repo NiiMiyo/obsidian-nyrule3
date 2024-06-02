@@ -43,3 +43,15 @@ Após cinco dias a resposta do rei chegará na guilda.
 > &dash; [[Ironoa Semore]]
 
 Junto da mensagem o secretário da [[guilda]] os dará T$ 250.
+
+
+## Acontecimentos da Sessão
+Como faz bastante tempo que a sessão aconteceu, eu não vou lembrar em detalhes de qualquer forma. Então vou só descrever brevemente o que aconteceu durante a sessão.
+
+Eles partiram da [[Central]] até o local onde a carroça foi interceptada e então atravessaram o rio sem muitas dificuldades. Passaram um tempo seguindo os rastros de carvão até que resolveram que alguém devia ficar tomando conta da carroça. Deixaram o familiar do [[Vectra]] lá cuidando e deixaram o [[Vectra]] há 90m da carroça.
+
+Único problema? O esconderijo era a um dia de caminhada do local onde a carroça foi interceptada. Eu dei uma abreviada pequena e eles saíram de lá no começo da tarde e chegaram no começo da noite, mas o [[Vectra]] passou a sessão quase inteira sem fazer nada por conta disso. Enquanto o resto da equipe tentava recuperar os metais, [[Edan]] apareceu para atacar a [[Amna]], e apenas ela, com virotes não letais que infligem fraqueza. Eles foram super insistentes e [[Edan]] eventualmente foi embora para procurar um momento melhor pra trazer ela como prisioneira por destruir e matar o pessoal do bando deles sem motivo. Ele não se mostrou em nenhum momento e ficou escondido na mata no escuro da noite.
+
+Fizemos uma pausa pra lanchar e enquanto isso eu parei pra pensar em algo pra acontecer com o [[Vectra]] pra ele não ficar sem fazer nada a sessão inteira. Quando voltamos eu decidi fazer a carroça ser roubada e o [[Oxford]] apareceu pra salvar a carroça, chegando lá o [[Vectra]] vê o [[Oxford]] sentado em cima da carroça, eles conversam um pouco e ele fala que o amigo dele provavelmente está atacando o resto da equipe nesse exato momento, mas que ele não vai fazer isso porque ele sentiu o cheiro (da [[Ostfer]], mas ele não disse do quê). Ele entrega um pequeno broche dourado com uma gema azul no centro e diz que se ela aparecer de novo ele só precisa jogar mana pro broche.
+
+O resto da equipe volta, [[Vectra]] explica o que tá acontecendo com ele, [[Amna]] e [[Ostfer]], explica sobre o minotauro e entrega o [[Wish Crystal]] que ele escondeu para [[Workhiz Pyke|Pyke]]. Eles voltam para a [[Central]], relatam os acontecimentos da missão e recebem a resposta do rei. Agora eles ameaçam se separar já que não precisam mais estar juntos, mas eu encerro a sessão antes disso.
