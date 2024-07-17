@@ -49,6 +49,7 @@ extra_css:
   - assets/css/highlight.css
   - assets/css/columns.css
   - assets/css/figure.css
+  - assets/css/headers.css
 
 exclude_docs: |
   /.obsidian
@@ -61,3 +62,4 @@ hooks:
   - mkdocs-hooks/make_index.py
   - mkdocs-hooks/add_title.py
   - mkdocs-hooks/obsidian_links.py
+  - mkdocs-hooks/obsidian_comments.py

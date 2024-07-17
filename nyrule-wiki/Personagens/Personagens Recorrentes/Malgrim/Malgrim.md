@@ -5,22 +5,27 @@ aliases:
   - Malgrim
 tags:
   - Pessoa/Inimigo
+title: Malgrim, o Mago das Almas
 ---
+Um poderoso necromante, morto há muitos anos.
+
 ## Backstory
-Um famoso e poderoso mago de tempos passados. Conhecido como o “Mago das Almas” pelas suas magias de Encantamento e Necromancia.
+Um famoso e poderoso mago humano de tempos passados. Conhecido como o “Mago das Almas” pelas suas magias de encantamento e necromancia.
 
-Foi derrotado cerca de 100 anos atrás por um grupo de quatro aventureiros após tentar iniciar uma revolução contra o governo de [[Ampáfica]] com um exército de mortos-vivos governado por ele e por outras pessoas que foram forçadas a seguir suas ordens por suas magias de encantamento.
+Tentou dominar [[Ampáfica]] com seu exército de mortos-vivos e pessoas que dominou com seus encantamentos. Seu plano chegou perto de dar certo, mas no dia do ataque foi surpreendido por um grupo de quatro aventureiros, [[Saevel Caiphine|Saevel]], [[Isao]], [[Aconite]] e [[Taniara]]. Malgrim lutou e foi capaz de matar três dos aventureiros antes de morrer, apenas [[Saevel Caiphine|Saevel]] saiu vivo.
 
-Sabe-se que três dos aventureiros morreram nessa luta, o único sobrevivente voltou e nunca mais ousou se aventurar. Hoje já não se sabe se sequer está vivo.
+### Atualmente
+Há cinco meses, Malgrim foi trazido de volta como morto-vivo por [[Saevel Caiphine|Saevel]], e está sob seu controle fazendo pesquisas para descobrir como reviver as pessoas que matou há 100 anos na sua última batalha. Apesar de estar muito mais fraco que anteriormente, Malgrim ainda consegue resistir levemente à magia de [[Saevel]], mas ainda é incapaz de se rebelar completamente.
 
-Mas a verdade é que esse aventureiro era [[Saevel Caiphine]], que depois de perder seus aliados em batalha decidiu deixar de ser um aventureiro.
+No momento ele pesquisa uma forma de manifestar fisicamente a [[Corpo, Mente e Alma#A Alma|Alma]] de um indivíduo. Malgrim está trabalhando em [[Castelo de Malgrim|sua antiga base]] pois deseja ser encontrado novamente por um grupo que possa derrotá-lo. Tudo que deseja no momento é se libertar desse corpo decadente ou morrer em paz novamente.
 
-## Atualmente
-Foi revivido como servo de [[Saevel Caiphine]] para que continue suas pesquisas em almas como um zumbi.
+### [[Sessão 02#Cena 4 - Castelo do Malgrim|Sessão 02]]
+Malgrim foi confrontado por outra equipe de quatro aventureiros, desta vez [[Iaris]], [[Luciel]], [[Venessa]] e [[Lyra Windsong|Lyra]]. Malgrim foi capaz de matar [[Venessa]] e [[Lyra]] e ainda deixar [[Luciel]] incapacitado, mas levou o golpe final por [[Iaris]], que o derrotou com enorme dificuldade.
 
-Malgrim foi capaz de encontrar uma brecha nas ordens de [[Saevel Caiphine|Saevel]] e pôde lançar **Marionete** em si mesmo para recobrar o controle do próprio corpo zumbificado sem que [[Saevel Caiphine|Saevel]] saiba. Mesmo assim, o controle adquirido é limitado à fala.
+Após a luta, [[Saevel Caiphine|Saevel]] chega e absorve as memórias e conhecimento pesquisados por Malgrim, levando sua cabeça para longe do esconderijo.
 
-No momento ele continua trabalhando em pesquisas para criar uma manifestação física da força da alma de um indivíduo. Malgrim está trabalhando em [[Castelo de Malgrim|sua antiga base]] pois deseja ser encontrado novamente por um grupo capaz de derrotá-lo, pois tudo que deseja no momento é a paz de [[Corpo, Mente e Alma#Morte|morrer]] que tinha antes de ser revivido.
+### [[Sessão 03]]
+Malgrim, sabendo que [[Saevel Caiphine|Saevel]] poderia tentar controlá-lo para sempre, resolve mudar a magia que o reviveu, "movendo" a sua [[Corpo, Mente e Alma#A Alma|Alma]] para um dos ossos da sua costela, que se misturou com os ossos de [[Vectra]].
 
 ## Aparência
 Um zumbi humano usando um manto negro. A maior parte do seu corpo possui carne podre, mas algumas partes possuem apenas o esqueleto, como sua mão esquerda e a maior parte do seu torso.

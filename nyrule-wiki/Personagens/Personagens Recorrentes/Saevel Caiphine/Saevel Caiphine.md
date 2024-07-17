@@ -4,34 +4,35 @@ aliases:
 tags:
   - Pessoa/Inimigo
 ---
+Um elfo cavaleiro devoto de [[Elrophin, Deus da Vaidade]], agora também capaz de necromancia.
 ## Backstory
-Saevel foi um elfo cavaleiro devoto de [[Elrophin, Deus da Vaidade|Elrophin]]. Há 100 anos atrás, quando [[Malgrim]] tentou dominar [[Ampáfica]] com seus servos mortos-vivos, Saevel estava lá para impedir, junto de seu grupo de aventureiros. Entretanto, apenas Saevel voltou de lá com vida, seu grupo inteiro pereceu durante a luta contra [[Malgrim]], incluindo sua esposa, [[Isao]], uma Lefou lutadora natural de [[Kenshima]].
+Saevel foi um aventureiro famoso, junto de [[Equipe de Saevel|sua equipe]] enfrentaram diversas ameaças, incluindo [[Malgrim]], um necromante poderoso, há 100 anos atrás. Saevel e sua equipe foram capazes de derrotá-lo, mas [[Malgrim|Malgrim]] foi capaz de matar todos os seus aliados, incluindo sua amada esposa, [[Isao]].
 
-Saevel desistiu de ser um aventureiro pouco depois de derrotar [[Malgrim]] e dedicou sua vida para encontrar formas diferentes de reviver [[Isao]], todas sem sucesso. Saevel estava ficando cansado e desesperado, sabia que em algum momento não iria mais conseguir continuar sua busca. Já havia abandonado seu deus há muito tempo, largou sua vaidade e orgulho em busca de sua amada. Não se preocupava apenas com si mesmo, seu objetivo era apenas poder reencontrar [[Isao]].
+Apesar do sucesso da missão, Saevel voltou arrasado pela morte de seus amigos e esposa. Buscou formas de revivê-los, mas por algum motivo esta parecia ser uma tarefa impossível. Algo não permitia que seus aliados fossem revividos. Com o tempo, chegaram rumores aos ouvidos de Saevel, que diziam ele mesmo ter matado seus aliados e estar fingindo ser incapaz de revivê-los, para que a glória da batalha ficasse apenas para ele, como sendo o único capaz de derrotar [[Malgrim|Malgrim]].
 
-Saevel não sabe, mas durante a sua luta contra [[Malgrim]], [[Isao]] sofreu danos irreparáveis à sua [[Corpo, Mente e Alma#A Mente|Mente]] e [[Corpo, Mente e Alma|Alma]], fazendo que seja incapaz de ser revivida. Saevel continua tentando revivê-la após todo esse tempo, mas agora já é tarde demais.
+Já não aceitando novas missões e se dedicando apenas a reviver seus aliados, anos se passavam e suas tentativas falhas se acumulavam. Seu nome, já caía no esquecimento, como é o destino de todos os aventureiros. Saevel se viu desesperado, ele precisava reviver seus aliados e provar que não tinha os matado de propósito.
 
-## Atualmente
-Há cinco anos atrás Saevel decidiu reviver [[Malgrim]] como um morto-vivo sob seu comando. Saevel sabia que [[Malgrim]] fazia diversos estudos e experimentos sobre seres vivos e suas almas e pensou que talvez [[Malgrim]] fosse capaz de encontrar uma forma de reviver [[Isao]]. Saevel passou anos estudando e aperfeiçoando sua necromancia até ser capaz de reviver [[Malgrim]] como um zumbi a seu comando, o que conseguiu há cerca de cinco meses puxando sua [[Corpo, Mente e Alma|Alma]] de volta em um [[Corpo, Mente e Alma#O Corpo|Corpo]] que não era seu.
+Então, como última escolha, Saevel decide usar de necromancia.
 
-Desde então Saevel está gradualmente chegando mais perto do seu objetivo e já desconfia que [[Malgrim]] está tramando algo contra ele, mas até o momento ele não pode fazer nada sobre, afinal [[Malgrim]] ainda está seguindo suas ordens e estudando uma forma de reviver [[Isao]].
+### Atualmente
+Há cinco anos Saevel decidiu reviver [[Malgrim|Malgrim]]. Ter um necromante poderoso ao seu comando certamente poderia lhe ajudar em seu objetivo. Se havia uma chance de reviver seus aliados, [[Malgrim|Malgrim]] conseguiria encontrá-la. Saevel passou anos estudando sobre necromancia até finalmente, há cinco meses, ser capaz de reviver [[Malgrim|Malgrim]] em outro corpo sob seu comando, mas em uma forma fragilizada e fraca quando comparado ao seu auge, 100 anos antes.
 
 ### [[Sessão 02]]
-Após encontrar com os aventureiros, Saevel absorve as memórias e conhecimento de [[Malgrim]], que estudava como dar forma física à [[Corpo, Mente e Alma#A Alma|alma]] de uma pessoa. Agora Saevel é capaz de conjurar uma espécie de "fumaça" negra que pode usar para se esconder ou lutar.
+Após encontrar com os aventureiros, Saevel absorve as memórias e conhecimento de [[Malgrim|Malgrim]], que estudava como dar forma física à [[Corpo, Mente e Alma#A Alma|Alma]] de uma pessoa, se tornando capaz de conjurar uma névoa escura que controla outras pessoas.
 
 ## Aparência
 Um elfo de pele acinzentada e cabelos longos e brancos, usando uma roupa preta por baixo de uma armadura de metal com capa.
 
 ![[saevel portrait.webp]]
 
-## Ficha de Ameaça (ND 6)
+## Ficha de Ameaça (ND 8)
 Humanoide (elfo) Médio
 
-| PV  | PM  | Defesa | Deslocamento |
-| --- | --- | ------ | ------------ |
-| 240 | 18  | 27     | 12m          |
+| PV  | Defesa | Deslocamento |
+| --- | ------ | ------------ |
+| 320 | 33     | 12m          |
 
-Reflexos +18; Fortitude +12; Vontade +6.
+Reflexos +21; Fortitude +15; Vontade +8.
 
 ### Atributos e Perícias
 | Atributo     | Valor |
@@ -45,37 +46,35 @@ Reflexos +18; Fortitude +12; Vontade +6.
 
 | Perícias    | Bônus         |
 | ----------- | ------------- |
-| Acrobacia   | +12           |
-| Diplomacia  | +12           |
-| Iniciativa  | +12           |
-| Intimidação | +12           |
-| Luta        | +10           |
-| Misticismo  | +11           |
-| Vontade     | +9            |
-| Outros      | +3 + Atributo |
+| Acrobacia   | +13           |
+| Diplomacia  | +13           |
+| Iniciativa  | +13           |
+| Intimidação | +13           |
+| Luta        | +11           |
+| Misticismo  | +12           |
+| Vontade     | +10           |
+| Outros      | +4 + Atributo |
 
 ### Ataques
-**Corpo a corpo:** O Pesadelo x3 +20 (2d12 + 6, 19/x2).
+**Corpo a corpo:** O Pesadelo x3 +26 (3d12, 19/x2).
 
-### Habilidades (CD 22)
+### Habilidades (CD 26)
 #### Derrubar com O Pesadelo (Médio)
 Se acertar um ataque com O Pesadelo poderá fazer a manobra derrubar com esta arma como uma ação livre.
 
-#### Liberar alma (2PM, Sustentada)
-Com uma ação completa Saevel pode liberar sua alma em forma de uma fumaça preta em alcance curto. Uma criatura (exceto Saevel) que iniciar seu turno dentro do alcance curto deve fazer um teste de Vontade. Se falhar, fica inconsciente e caído. Se passar e iniciar seu próximo turno dentro da área, a CD do teste aumenta em +1 (cumulativo com aumentos anteriores).
+#### Liberar Alma (2 PM, Sustentada)
+Com uma ação completa Saevel pode liberar sua alma em forma de uma névoa preta em alcance curto por uma rodada. Outras criaturas na névoa ficam enfeitiçadas, fracas e frustradas e, se iniciar seu turno dentro da névoa, deve fazer um teste de Vontade. Se falhar, fica inconsciente e caído (apenas uma vez por cena).
 
 #### Visão na Penumbra
 A criatura enxerga em escuridão leve em alcance curto (exceto mágica). Ela ignora camuflagem leve por esse tipo de escuridão.
 
 #### Magias
-Como um bruxo nível 3, PM 18 e atributo-chave Inteligência. Seu foco arcano é O Pesadelo.
+Como um bruxo nível 4, PM 24 e atributo-chave Inteligência. Seu foco arcano é O Pesadelo.
 
 - [Toque Chocante](https://eduardomarques.pythonanywhere.com/183/)
 - [Disparo Gélido](https://eduardomarques.pythonanywhere.com/215/)
 - [Adaga Mental](https://eduardomarques.pythonanywhere.com/5/)
 - [Conjurar Mortos-Vivos](https://eduardomarques.pythonanywhere.com/49/)
-- [Toque Vampírico](https://eduardomarques.pythonanywhere.com/185/)
-- [Velocidade](https://eduardomarques.pythonanywhere.com/190/)
 
 ### Tesouro
 **Equipamento:**
@@ -84,4 +83,4 @@ Como um bruxo nível 3, PM 18 e atributo-chave Inteligência. Seu foco arcano é
 * Loriga segmentada de mitral.
 	* Armadura pesada, +7 defesa, -1 penalidade de armadura, pode aplicar até 2 pontos de destreza na defesa.
 
-**Tesouro:** Dobro (T$ 1100) + seu equipamento. O dinheiro pode ser encontrado quando vasculharem a sua base.
+**Tesouro:** Dobro (T$ 2400) + seu equipamento.
