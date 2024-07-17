@@ -6,16 +6,26 @@ tags:
   - Pessoa/Neutro
   - Deus/Deus-menor
 ---
-Uma entidade espiritual misteriosa, sendo capaz de enxergar a presença de qualquer ser próximo dela, incluindo o próprio [[O Observador]], que a deixa extremamente nervosa constantemente e ainda está procurando um lugar em que possa conversar com alguém sem a presença dele.
+O espírito de uma mulher que vigia e protege [[Nyrule]] há milhares de anos.
 
-Ostfer na verdade é uma viajante planetária. Seu planeta evoluiu tecnologicamente o suficiente para que consiga usar tecnologia pra projetar sua consciência em outros lugares do [[Plano Material]]. Seu nome real é Amdiela, mas ela prefere esconder seu nome, então sempre se apresenta como Ostfer.
+## Backstory
+Ostfer é um entidade espiritual misteriosa capaz de enxergar a presença de todas as criaturas próximas, até mesmo do [[O Observador|Observador]], que permanece vigiando-a em todos os lugares, o que a deixa constantemente nervosa.
 
-Por ser uma criatura de outro planeta que está em [[Nyrule]] tem dificuldade em entender com precisão os jeitos e pensamentos das pessoas, mesmo já estando aqui há mais de seis mil anos. Isso faz com que muitas pessoas entendam suas ações como egoístas, por estar sempre usando os outros para conseguir seus objetivos, mesmo que estes sempre sejam morais e sempre para o melhor de [[Nyrule]].
+Ostfer é o espírito de [[Nyrule]], um guardião com poder acima de qualquer deus que protege todo o planeta, mas no momento está presa na forma de uma fantasma. Sem memórias anteriores, acredita ter vindo de outro planeta, evoluído o suficiente para fazer viagens interplanetárias.
+
+Antes de ser presa nessa forma, gostava de vagar como um avatar e se apresentava com seu verdadeiro nome, Amdiela, a Deusa da Sabedoria Amorosa, por sempre buscar ajudar todos que podia com sua magia e sabedoria divinas.
+
+## Personalidade
+Apesar de sua natureza, Ostfer é bastante informal com quem conversa e gosta de brincadeiras e pregar peças em outras pessoas. Às vezes tem dificuldade de entender com precisão a cultura dos mortais, mesmo já estando nessa forma há mais de seis mil anos.
+
+Ostfer sempre procura cumprir seu dever, mesmo que inconscientemente, protegendo [[Nyrule]] de todas ameaça que surgir, mas estando nessa forma e limitada a um punhado de magias que ainda pode lançar, frequentemente pede para que outras pessoas a ajudem a cumprir seu objetivo.
+
+Por sua natureza imortal, Ostfer frequentemente reduz as pessoas à "ferramentas" para um proposito maior que elas mesmas, fazendo com que quase todos que a conhecem a odeiem.
 
 ## Aparência
 _&ast;Não conseguir gerar em IA do jeito que eu queria&ast;_
 
-Ostfer aparece como uma fantasma de vestido branco comprido e longos cabelos brancos, normalmente flutuando no ar e translúcida, completamente em um tom branco-azulado.
+Ostfer aparece como uma fantasma translúcida de vestido comprido e longos cabelos flutuando no ar, completamente em um tom branco-azulado.
 
 ![Inspiração: Pamela (Mana Khemia)](https://static.wikia.nocookie.net/atelierseries/images/3/3f/A9_Pamela.jpg)
 
