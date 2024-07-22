@@ -15,12 +15,12 @@ Um famoso e poderoso mago humano de tempos passados. Conhecido como o “Mago da
 Tentou dominar [[Ampáfica]] com seu exército de mortos-vivos e pessoas que dominou com seus encantamentos. Seu plano chegou perto de dar certo, mas no dia do ataque foi surpreendido por um grupo de quatro aventureiros, [[Saevel Caiphine|Saevel]], [[Isao]], [[Aconite]] e [[Taniara]]. Malgrim lutou e foi capaz de matar três dos aventureiros antes de morrer, apenas [[Saevel Caiphine|Saevel]] saiu vivo.
 
 ### Atualmente
-Há cinco meses, Malgrim foi trazido de volta como morto-vivo por [[Saevel Caiphine|Saevel]], e está sob seu controle fazendo pesquisas para descobrir como reviver as pessoas que matou há 100 anos na sua última batalha. Apesar de estar muito mais fraco que anteriormente, Malgrim ainda consegue resistir levemente à magia de [[Saevel]], mas ainda é incapaz de se rebelar completamente.
+Há cinco meses, Malgrim foi trazido de volta como morto-vivo por [[Saevel Caiphine|Saevel]], e está sob seu controle fazendo pesquisas para descobrir como reviver as pessoas que matou há 100 anos na sua última batalha. Apesar de estar muito mais fraco que anteriormente, Malgrim ainda consegue resistir levemente à magia de [[Saevel Caiphine|Saevel]], mas ainda é incapaz de se rebelar completamente.
 
 No momento ele pesquisa uma forma de manifestar fisicamente a [[Corpo, Mente e Alma#A Alma|Alma]] de um indivíduo. Malgrim está trabalhando em [[Castelo de Malgrim|sua antiga base]] pois deseja ser encontrado novamente por um grupo que possa derrotá-lo. Tudo que deseja no momento é se libertar desse corpo decadente ou morrer em paz novamente.
 
 ### [[Sessão 02#Cena 4 - Castelo do Malgrim|Sessão 02]]
-Malgrim foi confrontado por outra equipe de quatro aventureiros, desta vez [[Iaris]], [[Luciel]], [[Venessa]] e [[Lyra Windsong|Lyra]]. Malgrim foi capaz de matar [[Venessa]] e [[Lyra]] e ainda deixar [[Luciel]] incapacitado, mas levou o golpe final por [[Iaris]], que o derrotou com enorme dificuldade.
+Malgrim foi confrontado por outra equipe de quatro aventureiros, desta vez [[Iaris]], [[Luciel]], [[Venessa]] e [[Lyra Windsong|Lyra]]. Malgrim foi capaz de matar [[Venessa]] e [[Lyra Windsong|Lyra]] e ainda deixar [[Luciel]] incapacitado, mas levou o golpe final por [[Iaris]], que o derrotou com enorme dificuldade.
 
 Após a luta, [[Saevel Caiphine|Saevel]] chega e absorve as memórias e conhecimento pesquisados por Malgrim, levando sua cabeça para longe do esconderijo.
 
