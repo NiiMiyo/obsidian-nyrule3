@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Amdiela
-  - Deusa da Sabedoria Amorosa
 tags:
   - Pessoa/Neutro
   - Deus/Deus-menor
@@ -11,9 +8,7 @@ O espírito de uma mulher que vigia e protege [[Nyrule]] há milhares de anos.
 ## Backstory
 Ostfer é um entidade espiritual misteriosa capaz de enxergar a presença de todas as criaturas próximas, até mesmo do [[O Observador|Observador]], que permanece vigiando-a em todos os lugares, o que a deixa constantemente nervosa.
 
-Ostfer é o espírito de [[Nyrule]], um guardião com poder acima de qualquer deus que protege todo o planeta, mas no momento está presa na forma de uma fantasma. Sem memórias anteriores, acredita ter vindo de outro planeta, evoluído o suficiente para fazer viagens interplanetárias.
-
-Antes de ser presa nessa forma, gostava de vagar como um avatar e se apresentava com seu verdadeiro nome, Amdiela, a Deusa da Sabedoria Amorosa, por sempre buscar ajudar todos que podia com sua magia e sabedoria divinas.
+Ostfer é a parte amorosa de [[Amdiela, Deusa da Sabedoria Amorosa|Amdiela]], guardiã de [[Nyrule]]. Sem memórias anteriores, acredita ter vindo de outro planeta, evoluído o suficiente para fazer viagens interplanetárias.
 
 ## Personalidade
 Apesar de sua natureza, Ostfer é bastante informal com quem conversa e gosta de brincadeiras e pregar peças em outras pessoas. Às vezes tem dificuldade de entender com precisão a cultura dos mortais, mesmo já estando nessa forma há mais de seis mil anos.

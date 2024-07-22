@@ -2,17 +2,20 @@
 tags:
   - Pessoa/Neutro
 ---
-Um ser de outra dimensão conhecido apenas como "O Observador", uma vez que seu nome real é impronunciável. Sua função não é clara, mas ele parece passar todo o tempo em sua casa fora do [[plano material]] observando tudo que acontece em toda a [[Nyrule]].
+Um ser separado do [[Plano Material]] que observa tudo que acontece em [[Nyrule]].
+
+## Backstory
+O Observador é uma entidade espiritual capaz de perceber todos os acontecimentos em [[Nyrule]], do mais insignificante ao mais grandioso.
+
+O Observador é a parte sábia de [[Amdiela, Deusa da Sabedoria Amorosa|Amdiela]], guardiã de [[Nyrule]]. Banido do [[Plano Material]] ao ser dividido, mas ainda com sua sabedoria, observa tudo que acontece esperando uma oportunidade para poder se unir à sua contraparte, [[Ostfer]].
 
 ## Aparência e personalidade
-Nas raras ocasiões que um ser pode interagir com O Observador, este se mostra com uma personalidade simpática e boba na aparência de um velho humano, normalmente com roupas que lembram as histórias dos antigos magos, usando um robe azul marinho enfeitado com pontos brancos, semelhante ao céu da noite, e um grande chapéu pontudo nas mesmas cores. Não se sabe ao certo se esta é sua aparência real ou apenas como ele gosta de se mostrar. Ninguém sabe muito sobre ele. Na verdade, a maioria das pessoas nem sabe da sua existência.
-
-Uma das regras que O Observador segue à risca é sua regra de nunca falar algo que seu ouvinte não saiba ou não saberá em breve, apesar dele mesmo quebrar esta regra frequentemente. Ainda não se sabe se ele o faz acidentalmente ou se apenas finge que não deveria ter falado aquilo. Também não se sabe se esta regra é auto-imposta ou não.
+Nas raras ocasiões que um ser pode interagir com O Observador, este se mostra com uma personalidade simpática na aparência de um velho humano, normalmente com roupas que lembram as histórias dos antigos magos, usando um robe azul marinho enfeitado com pontos brancos, semelhante ao céu da noite, e um grande chapéu pontudo nas mesmas cores. Não se sabe ao certo se esta é sua aparência real ou apenas como ele gosta de se mostrar. Ninguém sabe muito sobre ele. Na verdade, a maioria das pessoas nem sabe da sua existência.
 
 ## Observação
 O Observador é capaz de observar [[Nyrule]] através de pontos de observação. Estes pontos são lugares no espaço em que ele é capaz de ver e ouvir tudo como se estivesse ali. Não se sabe quantos destes pontos existem, mas supostamente eles cobrem todo o espaço de [[Nyrule]], incluindo subterrâneos.
 
 ## Localização
-O Observador passa todo o tempo em sua casa, um lugar que não existe dentro de [[Nyrule]], e sim no [[Planos#O Espaço Entre os Planos|espaço entre os planos]]. É uma casa simples de madeira, completamente mobilhada, mas com apenas um cômodo, a sala de estar.
+O Observador passa todo o tempo em sua casa, um lugar que não existe dentro de [[Nyrule]], e sim no [[Planos#O Espaço Entre os Planos|Espaço Entre os Planos]]. É uma casa simples de madeira, completamente mobilhada, mas com apenas um cômodo, a sala de estar.
 
-Nessa casa e nas proximidades, O Observador é capaz de produzir qualquer tipo de matéria e controlar completamente tudo que existe nesse espaço, incluindo, mas não limitado à, a porta da casa, que constantemente leva à um lugar diferente quando aberta por dentro, materializar objetos e convidar almas de pessoas para visitá-lo.
+Por não existir de fato no [[Plano Material]], esta casa não é feita de matéria real, e sim uma espécie de ilusão para as almas que ali se encontrarem. Nessa casa e imediações, O Observador é capaz de reproduzir e controlar todo tipo de objeto e até mesmo o espaço, como por exemplo a porta da casa, que constantemente leva à um lugar diferente quando aberta por dentro.
