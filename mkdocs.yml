@@ -41,7 +41,7 @@ markdown_extensions:
   - pymdownx.mark
 
 extra_css:
-  - assets/css/justify.css
+  - assets/css/text.css
   - assets/css/link.css
   - assets/css/table.css
   - assets/css/blockquote.css
@@ -50,6 +50,9 @@ extra_css:
   - assets/css/columns.css
   - assets/css/figure.css
   - assets/css/headers.css
+
+extra_javascript:
+  - assets/js/add_classes.js
 
 exclude_docs: |
   /.obsidian
