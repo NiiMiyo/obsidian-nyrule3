@@ -7,7 +7,7 @@ aliases:
 ---
 Nyrule é um mundo de alta fantasia medieval, repleto de magia, arcanistas, guerreiros, fadas, monstros e muito mais.
 
-![[nyrule-map.png|Mapa de Nyrule.<br/>Cada hexágono representa 36km (8h de viagem à pé)]]
+![[nyrule-map.png|Mapa de Nyrule.<br/>Cada hexágono representa 4,5km (1h de viagem à pé)]]
 
 ### Geo-Política
 No centro de Nyrule existe o grande continente em formato de X, chamado [[Pah'Monia]]. Contando com a maior potência militar do mundo, a [[Ampáfica|Grande Ampáfica]].
