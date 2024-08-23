@@ -1,0 +1,23 @@
+:root {
+	--indent-size: 1.5em;
+}
+
+.md-content .text-content, .md-content li {
+	text-align: justify;
+}
+
+.md-content .text-topic + .text-content {
+	margin-top: 0;
+}
+
+.md-content .text-content {
+	margin-bottom: 0;
+}
+
+.md-content .text-content + .text-content {
+	margin-top: 0.5rem;
+}
+
+[indent], [indent-1] {
+	margin-left: var(--indent-size);
+}
