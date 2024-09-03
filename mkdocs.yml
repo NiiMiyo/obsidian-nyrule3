@@ -60,6 +60,8 @@ exclude_docs: |
 
 plugins:
   - search
+  - glightbox:
+      auto_caption: true
 
 hooks:
   - mkdocs-hooks/make_index.py
