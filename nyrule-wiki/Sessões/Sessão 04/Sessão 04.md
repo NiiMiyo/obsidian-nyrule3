@@ -1,8 +1,8 @@
-Beleza, depois de um hiato por conta da universidade voltamos à ativa (que podia ser um spinoff, já que a maior parte dela vai ser a missão da [[guilda]]).
+Beleza, depois de um hiato por conta da universidade voltamos à ativa (que podia ser um spinoff, já que a maior parte dela vai ser a missão da [[Guilda de Aventureiros Gerais de Ampáfica|guilda]]).
 
 ## Objetivos da sessão
 1. Ser uma **one-shot**;
-1. Resolver o mistério dessa missão que pegaram na [[guilda]];
+1. Resolver o mistério dessa missão que pegaram na [[Guilda de Aventureiros Gerais de Ampáfica|guilda]];
 1. Apesar de ser uma one-shot não quer dizer que não precisa ter consequências em [[Nyrule]]. Na verdade é até melhor se tiver conexões com o resto do mundo.
 
 ## Notas adicionais
@@ -33,16 +33,16 @@ Caso encontrem, o acampamento dos bandidos está em uma pequena clareira. Com al
 Ao chegar no acampamento o grupo se encontra com dois meio-orcs capanga (Ameaças de Arton p.31) e um [[Bandido Feiticeiro]].
 
 ### Completando a missão
-Ao chegarem serão interrogados na guilda em uma sala especial sob o efeito de [Círculo da Justiça](https://eduardomarques.pythonanywhere.com/37). Para ganharem a recompensa completa pela missão (T$ 2000) devem recuperar tudo o que foi roubado. Caso falhem em recuperar tudo (ou pelo menos a maior parte), devem responder ao interrogatório e convencer os interrogadores que desvendaram o que aconteceu para receberem metade da recompensa. Se falharem completamente não receberão nada.
+Ao chegarem serão interrogados na [[Guilda de Aventureiros Gerais de Ampáfica|guilda]] em uma sala especial sob o efeito de [Círculo da Justiça](https://eduardomarques.pythonanywhere.com/37). Para ganharem a recompensa completa pela missão (T$ 2000) devem recuperar tudo o que foi roubado. Caso falhem em recuperar tudo (ou pelo menos a maior parte), devem responder ao interrogatório e convencer os interrogadores que desvendaram o que aconteceu para receberem metade da recompensa. Se falharem completamente não receberão nada.
 
 ### Respostas do Rei
-Após cinco dias a resposta do rei chegará na guilda.
+Após cinco dias a resposta do rei chegará na [[Guilda de Aventureiros Gerais de Ampáfica|guilda]].
 
 > Agradecemos a preocupação e o aviso. A partir daqui o reino de [[Ampáfica]] tomará as medidas cabíveis. Já despachamos uma equipe de busca e investigação para podermos descobrir mais informações sobre esse evento. Uma pequena recompensa pela sua ajuda e esforços.
 >
 > &dash; [[Ironoa Semore]]
 
-Junto da mensagem o secretário da [[guilda]] os dará T$ 250.
+Junto da mensagem o secretário da [[Guilda de Aventureiros Gerais de Ampáfica|guilda]] os dará T$ 250.
 
 
 ## Acontecimentos da Sessão
