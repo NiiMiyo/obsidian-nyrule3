@@ -1,3 +1,7 @@
+---
+tags:
+  - Pessoa/Inimigo
+---
 ## Ficha de Ameaça (ND 10)
 Humanoide (humano) Médio
 

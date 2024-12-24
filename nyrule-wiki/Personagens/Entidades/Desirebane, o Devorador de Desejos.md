@@ -1,6 +1,6 @@
 ---
 tags:
-  - Deus/Deus-menor
+  - Entidade
 aliases:
   - Desirebane
 ---

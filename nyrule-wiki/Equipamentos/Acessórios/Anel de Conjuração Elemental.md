@@ -1,3 +1,7 @@
+---
+tags:
+  - Item/Mágico
+---
 Um anel que fornece capacidade de controlar elementos, aleatoriamente.
 
 Com uma ação padrão, role 1d4 e conjure a magia apropriada sem gastar PM (atributo-chave Inteligência). Você não pode adicionar aprimoramentos às magias.

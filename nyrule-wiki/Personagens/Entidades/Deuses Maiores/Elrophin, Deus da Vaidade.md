@@ -3,7 +3,7 @@ aliases:
   - Elrophin
   - Deus da Vaidade
 tags:
-  - Deus/Deus-maior
+  - Entidade/Deus-maior
 ---
 Ver O Panteão - 1ª Edição, p. 118.
 

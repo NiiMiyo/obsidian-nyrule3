@@ -3,7 +3,7 @@ aliases:
   - Khalmyr
   - Deus da Justiça
 tags:
-  - Deus/Deus-maior
+  - Entidade/Deus-maior
 ---
 Ver Tormenta20 - Jogo do Ano, p. 99.
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Deus/Deus-maior
+  - Entidade
 aliases:
   - Amdiela
   - Deusa da Sabedoria Amorosa

@@ -3,7 +3,7 @@ aliases:
   - Wishkar
   - Deus dos Desejos
 tags:
-  - Deus/Deus-menor
+  - Entidade/Deus-menor
 ---
 Deus menor dos Desejos, Wishkar é responsável por manter e zelar [[Wishrealm, o Mundo dos Desejos]].
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Deus/Deus-menor
+  - Entidade/Deus-menor
 aliases:
   - Deus das Caçadas
   - Vatur
