@@ -10,6 +10,3 @@ A cidade conta com:
 * Igrejas menores para cada um dos outros deuses, exceto por Aharadak, Hyninn, Kallyadranoch e Sszzaass;
 * Uma guilda de aventureiros onde é possível se cadastrar e pagar uma taxa de T$250 para receber missões;
 * Um joalheiro gnomo muito habilidoso.
-
-## Kenka Kyoudai
-Um grupo de lutadores em busca de glória, como gladiadores modernos, liderados por Kaori Wuji.

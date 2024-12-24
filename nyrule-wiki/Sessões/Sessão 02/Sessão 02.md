@@ -56,7 +56,7 @@ Eu interpretei o [[Malgrim]] tudo errado, então em vez dele ficar como alguém 
 Tenho que ver como corrigir isso. Pensei em colocar algo como "eu queria que vocês me derrotassem para ver se podiam mesmo me ajudar" ou algo assim, mas não parece muito legal.
 
 ### Tomar cuidado pra tratar todos igualmente
-Durante o combate com o [[Malgrim]] eu lembro que a [[Iaris]] perguntou sobre o que ele tava fazendo e eu respondi com "não é da sua conta", mas quando a [[Lyra Windsong|Lyra]] perguntou do grupo Desírios eu respondi normal, que ele não sabia nada sobre. Anne ficou meio chateada porque eu fui ruim só com ela, tenho que tomar mais cuidado com isso.
+Durante o combate com o [[Malgrim]] eu lembro que a [[Iaris]] perguntou sobre o que ele tava fazendo e eu respondi com "não é da sua conta", mas quando a [[Lyra Windsong|Lyra]] perguntou do grupo [[Desírios]] eu respondi normal, que ele não sabia nada sobre. Anne ficou meio chateada porque eu fui ruim só com ela, tenho que tomar mais cuidado com isso.
 
 ### Monotonia fora de combate
 Mais na frente eu falo mais sobre isso, mas basicamente não acontece muita coisa fora de combate, geralmente são eles interagindo sozinhos ou com algum NPC que só responde perguntas. Vai ser bom colocar algum NPC que é realmente ativo no diálogo das cenas.
