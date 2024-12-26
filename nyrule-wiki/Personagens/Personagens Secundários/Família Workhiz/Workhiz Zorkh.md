@@ -1,6 +1,6 @@
 ---
 tags:
-  - Pessoa/Inimigo
+  - Pessoa/Neutro
 aliases:
   - Zorkh
   - Rei de Hizkort

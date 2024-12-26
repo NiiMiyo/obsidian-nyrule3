@@ -1,6 +1,6 @@
 ---
 tags:
-  - Pessoa/Neutro
+  - Entidade
 ---
 Um ser separado do [[Plano Material]] que observa tudo que acontece em [[Nyrule]].
 

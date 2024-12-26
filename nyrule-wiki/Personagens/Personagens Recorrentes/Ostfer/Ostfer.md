@@ -1,7 +1,6 @@
 ---
 tags:
   - Pessoa/Neutro
-  - Entidade/Deus-menor
 ---
 O espírito de uma mulher que vigia e protege [[Nyrule]] há milhares de anos.
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Pessoa
+  - Pessoa/Falecida
 aliases:
   - Lysander
 ---

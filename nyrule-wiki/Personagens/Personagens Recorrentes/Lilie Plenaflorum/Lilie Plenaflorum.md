@@ -1,6 +1,6 @@
 ---
 tags:
-  - Pessoa/Jogador
+  - Pessoa/Neutro
 aliases:
   - Lilie
   - Nonami
