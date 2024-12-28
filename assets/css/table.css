@@ -1,0 +1,9 @@
+.md-content table td,
+.md-content table th {
+	text-align: center !important;
+}
+
+.md-content table td + td,
+.md-content table th + th {
+	border-left: 0.05rem solid var(--md-typeset-table-color);
+}

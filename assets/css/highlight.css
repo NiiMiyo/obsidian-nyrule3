@@ -1,0 +1,29 @@
+[data-md-color-media="(prefers-color-scheme: dark)"] .md-content mark {
+	background-color: var(--md-primary-fg-color--dark);
+}
+
+[data-md-color-media="(prefers-color-scheme: light)"] .md-content mark {
+	background-color: var(--md-primary-fg-color--light);
+	color: #FFF;
+}
+
+.md-content mark {
+	padding: .1em;
+
+	background: linear-gradient(270deg, #744da9, #a466d5);
+	background-size: 400% 400%;
+
+	-webkit-animation: HighlightAnimation 1s ease infinite;
+	animation: HighlightAnimation 1s ease infinite;
+}
+
+@-webkit-keyframes HighlightAnimation {
+	0%{background-position:0% 50%}
+	50%{background-position:100% 50%}
+	100%{background-position:0% 50%}
+}
+@keyframes HighlightAnimation {
+	0%{background-position:0% 50%}
+	50%{background-position:100% 50%}
+	100%{background-position:0% 50%}
+}

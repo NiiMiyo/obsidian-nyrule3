@@ -1,0 +1,4 @@
+.md-content figure > img + figcaption {
+	margin-top: .25em;
+	line-height: 1.2em;
+}
